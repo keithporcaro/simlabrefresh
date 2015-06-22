@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+    <body>
+
+   <div class="topper">
+    {% include header.html %}
+
+    {% include title.html %}
+    </div>
+<div class="ui one column page grid" id="primary">
+<div class="column">
+<div class="main container">
+  {{content}}
+
+</div>
+</div>
+</div>
+{% include footer.html %}
+
+
+<script>
+$('.ui.dropdown')
+  .dropdown()
+;
+
+
+
+</script>
+    </body>
+</html>

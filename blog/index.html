@@ -1,0 +1,40 @@
+---
+layout: page
+title: Blog
+---
+
+{%for post in site.posts%}
+<h1 class="post title"><a href="{{post.url}}">{{post.title}}{% if post.subtitle %}: {{post.subtitle}}{%endif%}</a></h1>
+
+<p class="meta">
+{%if post.author%}
+{% assign name = post.author | split: ' ' %}
+<a href="/team/{{name.first | downcase}}">{{post.author}}</a>
+{%endif%}
+{% if post.authors %}
+      {% for author in post.authors %}
+        {% assign name = author | split: ' ' %}
+        <a href="/team/{{name.first | downcase}}">{{ author }}</a>{% if author != post.authors.last %}<span class="pink">, </span>{% endif %}
+      {% endfor %}
+ {% endif %}
+ | {{ post.date | date: "%-d %B %Y, %I:%M%p " }}</p>
+<p>
+{{post.excerpt|| remove: '<p>' | remove: '</p>' }} <a class="pink" href="{{post.url}}">...</a></p>
+{% if post.title != site.posts.last.title %}
+<div class="ui inverted divider"></div>
+{%else%}
+<div class="ui hidden divider"></div>
+{%endif%}
+
+{%endfor%}
+
+
+
+
+  
+  {% if page.authors %}
+      {% for author in page.authors %}
+        {% assign name = author | split: ' ' %}
+        <a href="/team/{{name.first | downcase}}">{{ author }}</a>{% if author != page.authors.last %}<span class="pink">, </span>{% endif %}
+      {% endfor %}
+  {% endif %}

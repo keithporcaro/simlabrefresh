@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+    <body>
+{%if page.image%}
+   <div class="special topper" style="background-image: url(/images/{{page.image}});'">
+{%else%}
+<div class="topper">
+{%endif%}
+   {% include header.html %}
+
+{%if page.image %}
+   <div class="container">
+   	<div id="topper_content">
+{% if page.categories contains 'blog'%}
+	{%if page.subtitle%}
+  <h1 class="title smoke">{{page.title}}</h1>
+  <h2 class="subtitle smoke">{{page.subtitle}}</h2>
+  {%else%}
+  <h1 class="long title smoke">{{page.title}}</h1>
+  {%endif%}
+{%else%}
+  <h1 class="title smoke">{{page.title}}</h1>
+  {%if page.role%}<h2 class=""><span class="subtitle smoke">{{page.role}}</span></h2>{%endif%}
+{%endif%}
+
+    <!-- {% if page.author %}<h2 class="subtitle smoke">{% if page.author %} <a class="white" href="/team#{{name.first | downcase}}">{{ page.author }}</a> | {% endif %}{% if page.meta %}{{ page.meta }}{% endif %}{{ page.date | date: "%b %-d, %Y" }}</h2>{% endif %}-->
+	</div>
+   </div>
+{% else %}
+
+<div class="container">
+
+ <h1 class="page_title blogpost branded">{{page.title}}{%if page.subtitle%}: {{page.subtitle}}{%endif%}</h1>
+  
+</div>
+{% endif %}
+
+    </div>
+   
+   
+<div class="ui one column page grid" id="primary">
+<div class="column">
+<div class="main container">
+    
+
+  {{content}}
+
+</div>
+</div>
+</div>
+{% include footer.html %}
+
+
+<script>
+$('.ui.dropdown')
+  .dropdown();
+</script>
+    </body>
+</html>

@@ -1,0 +1,65 @@
+---
+layout: special
+featured: home
+---
+
+<div class="front">
+<h2 class="home slug"><span class="pink backed">We are SIMLab.</span></h2><h2 class="home slug">We use inclusive technology to help organizations make systems and services more accessible, responsive, and resilient.</h2>
+
+<div class ="ui stackable three column grid middle">
+
+<div class="column">
+<a class="ui pink card" href="/projects/">
+    <div class="image">
+      <img src="/images/front_projects.jpg">
+    </div>
+    <div class="content">
+<h4>We build projects with partners and donors around the world.</h4>
+
+    </div>
+</a>
+</div>
+
+<div class="column">
+<a class="ui pink card" href="/services/">
+    <div class="image">
+      <img src="/images/front_services.jpg">
+    </div>
+    <div class="content">
+<h4>We help organizations navigate the human side of technology.</h4>
+    </div>
+</a>
+</div>
+
+<div class="column">
+<a class="ui pink card" href="/resources/">
+    <div class="image">
+      <img src="/images/front_resources.jpg">
+    </div>
+    <div class="content">
+<h4>We develop resources and toolkits to help learning reach everyone.</h4>
+    </div>
+</a>
+</div>
+
+</div>
+</div>
+<div class="front">
+
+<div class ="ui one column centered grid">
+
+
+<div class="column">
+<h2 class="home slug">Newest posts:</h2>
+{%for post in site.posts%}
+{% if forloop.index <= 3%}
+<h2 class="post title"><a href="{{post.url}}">{{post.title}}{% if post.subtitle %}: {{post.subtitle}}{%endif%}</a></h1>
+{%endif%}
+{%endfor%}
+
+<p class="pink right align"><a href="/blog">More posts &gt;&gt;</a></p>
+</div>
+
+</div>
+
+</div>

@@ -1,0 +1,47 @@
+- name: Google
+  image: google.svg
+  link: google.org
+
+- name: Hewlett Foundation
+  image: hewlett.jpg
+  link: hewlett.org
+
+- name: DFID
+  image: dfid.jpg
+  link: dfid.gov.uk
+
+- name: DCPL
+  image: dcpl.jpg
+  link: dcpl.org
+
+- name: Knight Foundation
+  image: knight.jpg
+  link: knightfoundation.org
+
+- name: Landesa
+  image: landesa.jpg
+  link: landesa.org
+
+- name: Omidyar Network
+  image: omidyar.jpg
+  link: omidyar.org
+
+- name: UN Democracy Fund
+  image: undef.jpg
+  link: undef.org
+
+- name: UNESCO
+  image: unesco.jpg
+  link: unesco.org
+
+- name: USAID
+  image: usaid.png
+  link: usaid.gov
+
+- name: World Bank
+  image: worldbank.png
+  link: worldbank.org
+
+- name: World Vision
+  image: worldvision.png
+  link: worldvision.org
