@@ -11,14 +11,14 @@ comments: true
   <div class="page content">
   {% if page.author %}
   {% assign name = page.author | split: ' ' %}
-  {% if page.author %}<h2 class="meta">{% if page.author %}<a class="pageauthorblog" href="/team/{{name.first | downcase}}">{{ page.author }}</a> | {% endif %}{% if page.meta %}{{ page.meta }}{% endif %}{{ page.date | date: "%-d %b %Y" }}</h2>{% endif %}
+  {% if page.author %}<h2 class="meta">{% if page.author %}<a class="pageauthorblog" href="{{site.baseurl}}/team/{{name.first | downcase}}">{{ page.author }}</a> | {% endif %}{% if page.meta %}{{ page.meta }}{% endif %}{{ page.date | date: "%-d %b %Y" }}</h2>{% endif %}
   {% endif %}
   
   {% if page.authors %}
       <h2 class="meta">
       {% for author in page.authors %}
         {% assign name = author | split: ' ' %}
-        <a class="pageauthorblog" href="/team/{{name.first | downcase}}">{{ author }}</a>{% if author != page.authors.last %}<span class="pink">, </span>{% endif %}
+        <a class="pageauthorblog" href="{{site.baseurl}}/team/{{name.first | downcase}}">{{ author }}</a>{% if author != page.authors.last %}<span class="pink">, </span>{% endif %}
       {% endfor %} | {% if page.meta %}{{ page.meta }}{% endif %}{{ page.date | date: "%-d %b %Y" }}
       </h2>
   {% endif %}

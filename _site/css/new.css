@@ -22,7 +22,7 @@ body{background-color: #eee; color:#231f20;}
 .container{margin: 0 auto; padding: 0; max-width: 1000px;}
 .closer{font-weight: 700}
 
-.banner{width:100%;overflow: hidden; border-radius: 4px; background-repeat: no-repeat;background-image: url(/images/main-bg.jpg); background-size:cover;}
+.banner{width:100%;overflow: hidden; border-radius: 4px; background-repeat: no-repeat;background-image: url({{site.baseurl}}/images/main-bg.jpg); background-size:cover;}
 
 a.locator{color:inherit;}
 a.locator:hover{text-decoration: none}
@@ -86,7 +86,7 @@ div.footnotes {font-size: 0.8em; line-height: 100%; border-top:1px solid #aaa; p
   color: #231f20;
   font-family: 'Lato', sans-serif}
 
-/*.backed{height:px; width:100%; z-index: -2; background-image: url(../images/TESTONLYDONOTUSE.jpg); background-repeat: no-repeat; background-size: 200%;}*/
+/*.backed{height:px; width:100%; z-index: -2; background-image: url({{site.baseurl}}../images/TESTONLYDONOTUSE.jpg); background-repeat: no-repeat; background-size: 200%;}*/
 .pinkslash{height:55px; margin:0 5px 0 0;}
 .slash{-webkit-text-stroke: 8px #231f20;}
 .pink.slash{-webkit-text-stroke: 8px #A7166A;}
@@ -133,7 +133,7 @@ h2.list:last-child{margin-top: 0px}
 #logo{
   height:75px;
   width:95px;
-  background-image: url('../images/logo.svg');
+  background-image: url({{site.baseurl}}'../images/logo.svg');
   background-size: 100%;
   background-repeat: no-repeat; 
   user-select:none;
@@ -163,7 +163,7 @@ h2.bottom{padding-bottom: 20px; ;width: 100%}
 .ui.bottom.segment.attached{margin-bottom: 30px;}
  .team.member{margin: 0;height:auto;}
  .team.member.title{margin:0;padding:0;height:auto;font-weight: 200;}
-.lwh{background-image: url('../images/lwh.png');
+.lwh{background-image: url({{site.baseurl}}'../images/lwh.png');
 background-size:100%; background-repeat: no-repeat;}
 
 .ui.segment.floated.left{margin-bottom: 0; ;}

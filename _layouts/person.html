@@ -17,7 +17,7 @@ layout: page
 			{%assign haspost = 'first'%}
 			<h2>Posts by {{name.first}}</h2>
 		{%endif%}
-		<h3 class="pink"><a href="{{post.url}}">{{post.title}}{% if post.subtitle %}: {{post.subtitle}}{%endif%}</a></h3>
+		<h3 class="pink"><a href="{{site.baseurl}}{{post.url}}">{{post.title}}{% if post.subtitle %}: {{post.subtitle}}{%endif%}</a></h3>
 	{%endif%}
 {%endfor%}
 

@@ -11,22 +11,22 @@ title: Resources
  {% for page in site.pages%}
        <!--Project-->
   {% if page.categories contains "resources"%}
-<!--style="background-image:url(/images/{})"-->
+<!--style="background-image:url({{site.baseurl}}/images/{})"-->
 <div class="pink card">
    <div class="dimmable image">
       <div class="ui dimmer">
         <div class="content">
           <div class="center">
-            <h3><a class="white" href="/projects/{{page.locator}}">{{page.hook}}</a></h3>
+            <h3><a class="white" href="{{site.baseurl}}/projects/{{page.locator}}">{{page.hook}}</a></h3>
           </div>
         </div>
       </div>
-      <img src="/images/{{page.tease}}">
+      <img src="{{site.baseurl}}/images/{{page.tease}}">
    </div>
 <!--  <div class="content">
-      <a class="header" href="/team/{{page.locator}}"><span class="pink backed">{{page.title}}</span></a>
+      <a class="header" href="{{site.baseurl}}/team/{{page.locator}}"><span class="pink backed">{{page.title}}</span></a>
       <div class="staff meta">
-        <a href="/team/{{page.locator}}">{{page.funder}}</a>
+        <a href="{{site.baseurl}}/team/{{page.locator}}">{{page.funder}}</a>
       </div>
     </div>-->
 </div>

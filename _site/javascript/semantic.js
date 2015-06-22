@@ -525,7 +525,7 @@ $.extend( $.easing, {
         }
 
         // get real url from template
-        url = module.get.url( module.get.templateURL() );
+        url = module.get.url({{site.baseurl}} module.get.templateurl({{site.baseurl}}) );
 
         // exit conditions reached from missing url parameters
         if( !url ) {
@@ -3561,14 +3561,14 @@ $.fn.chatroom = function(parameters) {
         html +=  ''
           + '<div class="user" data-id="' + member.id + '">'
           + ' <div class="image">'
-          + '   <img src="' + member.avatarURL + '">'
+          + '   <img src="{{site.baseurl}}' + member.avatarURL + '">'
           + ' </div>'
         ;
         if(member.color !== undefined) {
-          html += ' <p><a href="/users/' + member.id + '" target="_blank" style="color: ' + member.color + ';">' + member.name + '</a></p>';
+          html += ' <p><a href="{{site.baseurl}}/users/' + member.id + '" target="_blank" style="color: ' + member.color + ';">' + member.name + '</a></p>';
         }
         else {
-          html += ' <p><a href="/users/' + member.id + '" target="_blank">' + member.name + '</a></p>';
+          html += ' <p><a href="{{site.baseurl}}/users/' + member.id + '" target="_blank">' + member.name + '</a></p>';
         }
         html += '</div>';
         return html;
@@ -8811,11 +8811,11 @@ $.fn.search.settings = {
             // each item inside category
             $.each(category.results, function(index, result) {
               html  += '<div class="result">';
-              html  += '<a href="' + result.url + '"></a>';
+              html  += '<a href="{{site.baseurl}}' + result.url + '"></a>';
               if(result.image !== undefined) {
                 html+= ''
                   + '<div class="image">'
-                  + ' <img src="' + result.image + '">'
+                  + ' <img src="{{site.baseurl}}' + result.image + '">'
                   + '</div>'
                 ;
               }
@@ -8841,7 +8841,7 @@ $.fn.search.settings = {
         });
         if(response.resultPage) {
           html += ''
-          + '<a href="' + response.resultPage.url + '" class="all">'
+          + '<a href="{{site.baseurl}}' + response.resultPage.url + '" class="all">'
           +   response.resultPage.text
           + '</a>';
         }
@@ -8857,11 +8857,11 @@ $.fn.search.settings = {
 
         // each result
         $.each(response.results, function(index, result) {
-          html  += '<a class="result" href="' + result.url + '">';
+          html  += '<a class="result" href="{{site.baseurl}}' + result.url + '">';
           if(result.image !== undefined) {
             html+= ''
               + '<div class="image">'
-              + ' <img src="' + result.image + '">'
+              + ' <img src="{{site.baseurl}}' + result.image + '">'
               + '</div>'
             ;
           }
@@ -8883,7 +8883,7 @@ $.fn.search.settings = {
 
         if(response.resultPage) {
           html += ''
-          + '<a href="' + response.resultPage.url + '" class="all">'
+          + '<a href="{{site.baseurl}}' + response.resultPage.url + '" class="all">'
           +   response.resultPage.text
           + '</a>';
         }
@@ -11871,14 +11871,14 @@ $.fn.video = function(parameters) {
             if(source && id) {
               if(source == 'vimeo') {
                 html = ''
-                  + '<iframe src="http://player.vimeo.com/video/' + id + '?=' + module.generate.url(source) + '"'
+                  + '<iframe src="http://player.vimeo.com/video/' + id + '?=' + module.generate.url({{site.baseurl}}source) + '"'
                   + ' width="' + width + '" height="' + height + '"'
                   + ' frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>'
                 ;
               }
               else if(source == 'youtube') {
                 html = ''
-                  + '<iframe src="http://www.youtube.com/embed/' + id + '?=' + module.generate.url(source) + '"'
+                  + '<iframe src="http://www.youtube.com/embed/' + id + '?=' + module.generate.url({{site.baseurl}}source) + '"'
                   + ' width="' + width + '" height="' + height + '"'
                   + ' frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>'
                 ;
@@ -11886,7 +11886,7 @@ $.fn.video = function(parameters) {
             }
             else if(url) {
               html = ''
-                + '<iframe src="' + url + '"'
+                + '<iframe src="{{site.baseurl}}' + url + '"'
                 + ' width="' + width + '" height="' + height + '"'
                 + ' frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>'
               ;
