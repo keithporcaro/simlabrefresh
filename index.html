@@ -9,9 +9,9 @@ featured: home
 <div class ="ui stackable three column grid middle">
 
 <div class="column">
-<a class="ui pink card" href="/projects/">
+<a class="ui pink card" href="{{site.baseurl}}/projects/">
     <div class="image">
-      <img src="/images/front_projects.jpg">
+      <img src="{{site.baseurl}}/images/front_projects.jpg">
     </div>
     <div class="content">
 <h4>We build projects with partners and donors around the world.</h4>
@@ -21,9 +21,9 @@ featured: home
 </div>
 
 <div class="column">
-<a class="ui pink card" href="/services/">
+<a class="ui pink card" href="{{site.baseurl}}/services/">
     <div class="image">
-      <img src="/images/front_services.jpg">
+      <img src="{{site.baseurl}}/images/front_services.jpg">
     </div>
     <div class="content">
 <h4>We help organizations navigate the human side of technology.</h4>
@@ -32,9 +32,9 @@ featured: home
 </div>
 
 <div class="column">
-<a class="ui pink card" href="/resources/">
+<a class="ui pink card" href="{{site.baseurl}}/resources/">
     <div class="image">
-      <img src="/images/front_resources.jpg">
+      <img src="{{site.baseurl}}/images/front_resources.jpg">
     </div>
     <div class="content">
 <h4>We develop resources and toolkits to help learning reach everyone.</h4>
@@ -53,11 +53,11 @@ featured: home
 <h2 class="home slug">Newest posts:</h2>
 {%for post in site.posts%}
 {% if forloop.index <= 3%}
-<h2 class="post title"><a href="{{post.url}}">{{post.title}}{% if post.subtitle %}: {{post.subtitle}}{%endif%}</a></h1>
+<h2 class="post title"><a href="{{site.baseurl}}{{post.url}}">{{post.title}}{% if post.subtitle %}: {{post.subtitle}}{%endif%}</a></h1>
 {%endif%}
 {%endfor%}
 
-<p class="pink right align"><a href="/blog">More posts &gt;&gt;</a></p>
+<p class="pink right align"><a href="{{site.baseurl}}/blog">More posts &gt;&gt;</a></p>
 </div>
 
 </div>

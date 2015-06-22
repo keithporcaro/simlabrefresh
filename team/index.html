@@ -6,15 +6,15 @@ title: Team
  {% for page in site.pages%}
        <!--Team Member-->
        {% if page.categories contains "staff" %}
-<!--style="background-image:url(/images/{})"-->
+<!--style="background-image:url({{site.baseurl}}/images/{})"-->
 <div class="card">
-    <a class="image" href="/team/{{page.locator}}">
-      <img src="/images/{{page.locator}}.jpg">
+    <a class="image" href="{{site.baseurl}}/team/{{page.locator}}">
+      <img src="{{site.baseurl}}/images/{{page.locator}}.jpg">
     </a>
     <div class="content">
-      <a class="pink" href="/team/{{page.locator}}"><h3 class="pink">{{page.title}}</h3></a>
+      <a class="pink" href="{{site.baseurl}}/team/{{page.locator}}"><h3 class="pink">{{page.title}}</h3></a>
       <div class="staff meta">
-        <a href="/team/{{page.locator}}">{{page.role}}</a>
+        <a href="{{site.baseurl}}/team/{{page.locator}}">{{page.role}}</a>
       </div>
     </div>
     
@@ -35,13 +35,13 @@ title: Team
  {% for page in site.pages%}
        <!--Team Member-->
        {% if page.categories contains "board" %}
-<!--style="background-image:url(/images/{})"-->
+<!--style="background-image:url({{site.baseurl}}/images/{})"-->
 <div class="card">
-    <a class="image" href="/team/{{page.locator}}">
-      <img src="/images/{{page.locator}}.jpg">
+    <a class="image" href="{{site.baseurl}}/team/{{page.locator}}">
+      <img src="{{site.baseurl}}/images/{{page.locator}}.jpg">
     </a>
     <div class="content center aligned">
-      <a class="pink  center aligned" href="/team/{{page.locator}}"><h4 class="pink">{{page.title}}</h4></a>
+      <a class="pink  center aligned" href="{{site.baseurl}}/team/{{page.locator}}"><h4 class="pink">{{page.title}}</h4></a>
        <div class="staff meta center aligned">
         <a href="http://twitter.com/{{page.twitter}}">@{{page.twitter}}</a>
       </div>

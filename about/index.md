@@ -28,7 +28,7 @@ SIMLab began life as a foundation with a mission to lower barriers to social cha
 #Partners and Funders
 <div class="ui tiny images">
 {%for partner in site.data.partners%}
-<a href="http://{{partner.link}}"><img class="ui middle aligned image" src="/images/partners/{{partner.image}}"></a>
+<a href="http://{{partner.link}}"><img class="ui middle aligned image" src="{{site.baseurl}}/images/partners/{{partner.image}}"></a>
 {%endfor%}
 </div>
 
