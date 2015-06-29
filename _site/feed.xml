@@ -3,10 +3,10 @@
   <channel>
     <title>Social Impact Lab</title>
     <description>We are Social Impact Lab. We use inclusive technologies to build systems and services that are more accessible, responsive, and resilient.</description>
-    <link>http://simlab.org/</link>
-    <atom:link href="http://simlab.org/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 22 Jun 2015 10:47:49 -0400</pubDate>
-    <lastBuildDate>Mon, 22 Jun 2015 10:47:49 -0400</lastBuildDate>
+    <link>/simlabrefresh/</link>
+    <atom:link href="/simlabrefresh/simlabrefresh/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 29 Jun 2015 09:52:39 -0400</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2015 09:52:39 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -35,8 +35,8 @@
 &lt;p&gt;SIMLab has benefited greatly from the work that others are doing on this topic and our own work in the past, including a &lt;a href=&quot;http://www.frontlinesms.com/wp-content/uploads/2011/08/frontlinesms_userguide.pdf&quot;&gt;data integrity guide&lt;/a&gt;, focused on data ethics when using low-end mobile technologies, published in 2011.  In the coming months, SIMLab will continue taking stock of data ethics questions and approaches in international organizations, as open data and data-driven decision-making, accelerate into accepted, even expected, standards.&lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Jun 2015 06:22:00 -0400</pubDate>
-        <link>http://simlab.org/blog/2015/06/03/open-data</link>
-        <guid isPermaLink="true">http://simlab.org/blog/2015/06/03/open-data</guid>
+        <link>/simlabrefresh/blog/2015/06/03/open-data</link>
+        <guid isPermaLink="true">/simlabrefresh/blog/2015/06/03/open-data</guid>
         
         
         <category>blog</category>
@@ -53,16 +53,16 @@
 
 &lt;p&gt;This spring, SIMLab and DCPL team members have spent time together exploring the elderly services available in DC. City agencies and service providers alike have generously shared their time and experience with us, helping us to learn about some of the intake, referral, and capacity challenges that their organizations face, as well as technology tools that are currently in development to help meet those challenges.&lt;/p&gt;
 
-&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-version=&quot;4&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 20px auto; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url({{site.baseurl}}data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;https://instagram.com/p/2ooOrvJKUb/&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_top&quot;&gt;Working with DCPL to build paper prototypes to help people find social services in DC.&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;A photo posted by Keith Porcaro (@vigilantballoon) on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2015-05-13T20:03:27+00:00&quot;&gt;May 13, 2015 at 1:03pm PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; defer=&quot;&quot; src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;
+&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-version=&quot;4&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 20px auto; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url(/simlabrefreshdata:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;/simlabrefreshhttps://instagram.com/p/2ooOrvJKUb/&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_top&quot;&gt;Working with DCPL to build paper prototypes to help people find social services in DC.&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;A photo posted by Keith Porcaro (@vigilantballoon) on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2015-05-13T20:03:27+00:00&quot;&gt;May 13, 2015 at 1:03pm PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; defer=&quot;&quot; src=&quot;/simlabrefresh//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;From here, we’re trying to bridge the gap between a person’s story of need and the help they are seeking, or might need to seek. With librarians and social workers, we’re helping to identify questions librarians can ask to help clarify and illuminate a person’s situation. So, a request that starts with “I need daytime care for my aging parent” might yield a collection of immediate and long-term resources, from case managers and agencies who can do complete assessments to wellness and activity programs available now. We aren’t turning the library into an intake center, but trying to use technology and research to help people navigate the natural peculiarities of a complex system (like the same service having different names, depending on the provider).  We’re also helping DCPL think about how this tool might practically be deployed in a library branch, from the trainings librarians will need, to how to create a safe space where these questions can be asked, and ways to get anonymous feedback on the information provided. All the while, we’ll be focused on learning—what we’ve done well, what we can do better, what needs are yet to be met—and documenting and sharing that learning so that others can build on and replicate our work in other contexts.&lt;/p&gt;
 
 &lt;p&gt;Although this is a prototype, we’re excited about exploring these dynamics over the long-term, and on finding creative ways to help organizations use technology and work together to solve tricky problems. We’re in early days yet, but watch this space and others for more on what we learn. We’re slowly exploring challenges in the United States that we might be able to help with, from getting feedback on service referrals to reaching offline and low-literacy communities. If you’ve got a project that you think SIMLab might be a fit for, &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#104;&amp;#101;&amp;#108;&amp;#108;&amp;#111;&amp;#064;&amp;#115;&amp;#105;&amp;#109;&amp;#108;&amp;#097;&amp;#098;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&quot;&gt;reach out to us&lt;/a&gt;; we’d love to hear from you.&lt;/p&gt;
 </description>
         <pubDate>Thu, 21 May 2015 06:22:00 -0400</pubDate>
-        <link>http://simlab.org/blog/2015/05/21/first-resort</link>
-        <guid isPermaLink="true">http://simlab.org/blog/2015/05/21/first-resort</guid>
+        <link>/simlabrefresh/blog/2015/05/21/first-resort</link>
+        <guid isPermaLink="true">/simlabrefresh/blog/2015/05/21/first-resort</guid>
         
         
         <category>blog</category>
@@ -94,8 +94,8 @@
 &lt;p&gt;You can read about the course in more depth &lt;a href=&quot;http://courses.frontlinesms.com/how-it-works/&quot;&gt;here&lt;/a&gt;. If you have any additional questions, send us an email at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#099;&amp;#111;&amp;#117;&amp;#114;&amp;#115;&amp;#101;&amp;#115;&amp;#064;&amp;#115;&amp;#105;&amp;#109;&amp;#108;&amp;#097;&amp;#098;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&quot;&gt;&amp;#099;&amp;#111;&amp;#117;&amp;#114;&amp;#115;&amp;#101;&amp;#115;&amp;#064;&amp;#115;&amp;#105;&amp;#109;&amp;#108;&amp;#097;&amp;#098;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Feb 2015 09:40:00 -0500</pubDate>
-        <link>http://simlab.org/blog/2015/02/02/sign-up-for-our-upcoming-course</link>
-        <guid isPermaLink="true">http://simlab.org/blog/2015/02/02/sign-up-for-our-upcoming-course</guid>
+        <link>/simlabrefresh/blog/2015/02/02/sign-up-for-our-upcoming-course</link>
+        <guid isPermaLink="true">/simlabrefresh/blog/2015/02/02/sign-up-for-our-upcoming-course</guid>
         
         
         <category>blog</category>
@@ -168,8 +168,8 @@
 &lt;p&gt;Curated directories such as the CDAC Network Service Directory aim to dig out the information on tools and services that users need at the beginning of their search to allow them to make an informed choice. The Directory acts as a gateway or ‘first step’ to becoming more engaged on a community site such as the one envisaged by SIMLab.&lt;/p&gt;
 </description>
         <pubDate>Wed, 07 Jan 2015 10:50:00 -0500</pubDate>
-        <link>http://simlab.org/blog/2015/01/07/navigating-a-crowded-landscape</link>
-        <guid isPermaLink="true">http://simlab.org/blog/2015/01/07/navigating-a-crowded-landscape</guid>
+        <link>/simlabrefresh/blog/2015/01/07/navigating-a-crowded-landscape</link>
+        <guid isPermaLink="true">/simlabrefresh/blog/2015/01/07/navigating-a-crowded-landscape</guid>
         
         
         <category>blog</category>
@@ -189,8 +189,8 @@
 &lt;p&gt;&lt;em&gt;Thank you to Paul Stewart for formatting this case study as a volunteer graphic designer.  You can see his amazing work &lt;a href=&quot;http://mouthtosource.net/portfolio&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 05 Jan 2015 16:17:00 -0500</pubDate>
-        <link>http://simlab.org/blog/2015/01/05/improving-disaster-response-and-aid-delivery-with-icts</link>
-        <guid isPermaLink="true">http://simlab.org/blog/2015/01/05/improving-disaster-response-and-aid-delivery-with-icts</guid>
+        <link>/simlabrefresh/blog/2015/01/05/improving-disaster-response-and-aid-delivery-with-icts</link>
+        <guid isPermaLink="true">/simlabrefresh/blog/2015/01/05/improving-disaster-response-and-aid-delivery-with-icts</guid>
         
         
         <category>blog</category>
@@ -220,8 +220,8 @@
 &lt;p&gt;Overall I have a sense of optimism about ICT4D, and of forward progress, but I think the balance is at times more in favour of expensive big ideas without substantive underpinnings, than in the slow, careful work of supporting and learning from locally-implemented good ideas that use appropriate, sustainable tools. My hope for 2015 is that we continue to make steps in the right direction.&lt;/p&gt;
 </description>
         <pubDate>Wed, 31 Dec 2014 10:45:00 -0500</pubDate>
-        <link>http://simlab.org/blog/2014/12/31/what-i-meant-to-say-at-ny-techsalon</link>
-        <guid isPermaLink="true">http://simlab.org/blog/2014/12/31/what-i-meant-to-say-at-ny-techsalon</guid>
+        <link>/simlabrefresh/blog/2014/12/31/what-i-meant-to-say-at-ny-techsalon</link>
+        <guid isPermaLink="true">/simlabrefresh/blog/2014/12/31/what-i-meant-to-say-at-ny-techsalon</guid>
         
         
         <category>blog</category>
@@ -234,7 +234,7 @@
 
 &lt;p&gt;The inaugural course supported 21 participants from 17 organizations across eight countries (mostly from across Africa and Asia) to plan for and use mobile technologies in their democracy, transparency, and accountability related work. UNDEF are supporting us to run several more courses like this throughout 2015.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/post_images/undef_ss.jpg&quot; class=&quot;fluid post image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/simlabrefresh/images/post_images/undef_ss.jpg&quot; class=&quot;fluid post image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Materials presented throughout the course drew heavily on institutional knowledge accumulated from thousands of technical support questions answered on the FrontlineSMS and FrontlineCloud platforms as well as lessons learned in conducting context and mobile infrastructure assessments, data integrity analyses, navigating non-governmental politics, and supporting SMS project planning in dozens of countries and sectors.&lt;/p&gt;
 
@@ -247,12 +247,12 @@
 &lt;h2 id=&quot;whats-next&quot;&gt;What’s next?&lt;/h2&gt;
 &lt;p&gt;Starting in early 2015, we’ll open registration for additional online trainings, demos, and platform-specific learning related to mobile- and inclusive-technologies.  In the meantime, we are working to integrate lessons learned from this ‘beta’ course into future iterations, and exploring subject matter for future courses. For more information or to find out about the next course announcement, email us at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#099;&amp;#111;&amp;#117;&amp;#114;&amp;#115;&amp;#101;&amp;#115;&amp;#064;&amp;#115;&amp;#105;&amp;#109;&amp;#108;&amp;#097;&amp;#098;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&quot;&gt;&amp;#099;&amp;#111;&amp;#117;&amp;#114;&amp;#115;&amp;#101;&amp;#115;&amp;#064;&amp;#115;&amp;#105;&amp;#109;&amp;#108;&amp;#097;&amp;#098;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;/images/post_images/undef_logo.jpg&quot; class=&quot;fluid half post image&quot; align=&quot;middle&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;/simlabrefresh/images/post_images/undef_logo.jpg&quot; class=&quot;fluid half post image&quot; align=&quot;middle&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 11 Dec 2014 10:12:00 -0500</pubDate>
-        <link>http://simlab.org/blog/2014/12/11/simlabs-mobile-technology-training</link>
-        <guid isPermaLink="true">http://simlab.org/blog/2014/12/11/simlabs-mobile-technology-training</guid>
+        <link>/simlabrefresh/blog/2014/12/11/simlabs-mobile-technology-training</link>
+        <guid isPermaLink="true">/simlabrefresh/blog/2014/12/11/simlabs-mobile-technology-training</guid>
         
         
         <category>blog,</category>
@@ -265,7 +265,7 @@
         <title>Credit and Fraud: How One M-PESA User Weighs Risk on Kenya&#39;s Largest Mobile Money Platform</title>
         <description>&lt;p&gt;I was recently in Kisumu, a semi-rural area on the coast of Lake Victoria in Western Kenya. I was there for ten days; training organizations on our mobile payments software, collecting indicators to monitor our DFID project and connecting with organizations to work with in the future. One of the places I spent the most time over the week was Support for Tropical Initiatives in Poverty Alleviation (&lt;a href=&quot;http://www.stipakenya.org/&quot;&gt;STIPA&lt;/a&gt;), which is an amazing organization with projects in microfinance, health insurance, and economic opportunity programs. My time at STIPA was made very worthwhile by the dedicated, knowledgeable and passionate staff. We’ll be working closely with STIPA as they merge two of their major programs, Community Based Health Financing and Village Savings and Loaning to begin using mobile payments. They’re two very impactful projects with unique challenges and potential gains, more of which we’ll be highlighting in future posts.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/post_images/peter.jpg&quot; class=&quot;small right blogfloated image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/simlabrefresh/images/post_images/peter.jpg&quot; class=&quot;small right blogfloated image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Today we won’t focus on STIPA, but rather on STIPA’s Social Marketing Officer, Peter.&lt;/p&gt;
 
@@ -323,8 +323,8 @@ He’s paid his monthly salary through a direct deposit into his bank account, a
 &lt;p&gt;We aren’t there yet, and have some significant hurdles to cross, but understanding how mobile money is being used by the average person gives us an insight into where effort needs to be focused in order to increase usage, desirability and trust.&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Dec 2014 10:12:00 -0500</pubDate>
-        <link>http://simlab.org/blog/2014/12/02/credit-and-fraud</link>
-        <guid isPermaLink="true">http://simlab.org/blog/2014/12/02/credit-and-fraud</guid>
+        <link>/simlabrefresh/blog/2014/12/02/credit-and-fraud</link>
+        <guid isPermaLink="true">/simlabrefresh/blog/2014/12/02/credit-and-fraud</guid>
         
         
         <category>blog</category>
@@ -386,8 +386,8 @@ He’s paid his monthly salary through a direct deposit into his bank account, a
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 26 Nov 2014 14:18:00 -0500</pubDate>
-        <link>http://simlab.org/blog/2014/11/26/m-and-e-of-icts4d-project-level-learning-in-an-evolving-sector</link>
-        <guid isPermaLink="true">http://simlab.org/blog/2014/11/26/m-and-e-of-icts4d-project-level-learning-in-an-evolving-sector</guid>
+        <link>/simlabrefresh/blog/2014/11/26/m-and-e-of-icts4d-project-level-learning-in-an-evolving-sector</link>
+        <guid isPermaLink="true">/simlabrefresh/blog/2014/11/26/m-and-e-of-icts4d-project-level-learning-in-an-evolving-sector</guid>
         
         
         <category>blog</category>
@@ -428,8 +428,8 @@ He’s paid his monthly salary through a direct deposit into his bank account, a
 
 </description>
         <pubDate>Mon, 17 Nov 2014 05:45:00 -0500</pubDate>
-        <link>http://simlab.org/blog/2014/11/17/digital-by-default-too-much-too-soon</link>
-        <guid isPermaLink="true">http://simlab.org/blog/2014/11/17/digital-by-default-too-much-too-soon</guid>
+        <link>/simlabrefresh/blog/2014/11/17/digital-by-default-too-much-too-soon</link>
+        <guid isPermaLink="true">/simlabrefresh/blog/2014/11/17/digital-by-default-too-much-too-soon</guid>
         
         
         <category>blog</category>
