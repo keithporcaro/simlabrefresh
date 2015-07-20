@@ -24,7 +24,7 @@ body {
 }
 .white{color:#fff!important;}
 .right.align{text-align: right;}
-.front{margin: 0px 0 50px 0;}
+.front{margin: 0 0 50px 0;}
 .front:last-child{margin-bottom: 0px;}
 .middle.column{text-align: center;}
 a{color: #A7166A;}
@@ -50,10 +50,15 @@ h1{line-height: 100%;}
 .special.topper h1.long.title{font-size: 4em;}
 .special.topper > .container{height:100%;}
 .special.topper{position: relative;}
-#topper_content{position:absolute; bottom:40px;}
+.special.small.topper{height:200px;}
+.topper_content{position:absolute; bottom:40px;}
+.home.topper_content{position:relative; margin-top:150px; width: 105%;}
 .smoke{background-color: rgba(0,0,0,0.3);padding: 10px 10px; color:#fff; width: auto;}
 .smoke.title{max-width: 650px;}
+.home.special.topper{margin-bottom: 30px;}
 .special.topper .subtitle{max-width: 400px; padding:5px 10px; margin-top: 0px;}
+.home.topper_content > .subtitle{max-width: 664px;}
+.big.subtitle.smoke{font-size: 3em; max-width: 600px; text-align: left;}
 .title.container{background-image:url({{site.baseurl}}/images/testimage.jpg); height:300px;}
 progress {position:fixed; top:15px;}
 .tt-menu{background-color: #fff; width: 100%;}
