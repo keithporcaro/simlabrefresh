@@ -38,7 +38,6 @@ a{color: #A7166A;}
 a >.white.backed:hover{color: #A7166A!important; background-color: #fff;}
 h1{line-height: 100%;}
 h1.title{max-width: 100%}
-.home.slug{font-size: 30px; line-height: 130%;}
 .topper{margin: 0 0 10px 0;}
 .staff.meta{margin-top: 8px;}
 .ui.list .item a{color: #A7166A!important;}
@@ -57,8 +56,8 @@ h1.title{max-width: 100%}
 .special.small.topper{height:200px;}
 .topper_content{position:absolute; bottom:40px; width: 650px;}
 .alternate.special.topper{background-color: #7F3761; height: 100%; min-height: 500px;}
-.home.topper_content{position:relative; margin-top:150px; width: 105%;}
-.home.alternate.topper_content{display: inline-block; margin-top: 200px; text-align: center}
+.home.topper_content{position:relative; margin-top:150px; width: 100%;}
+.home.alternate.topper_content{display: inline-block; margin-top: 200px; text-align: center;}
 .home.buttons{margin: auto; text-align: center;}
 .smoke{background-color: rgba(0,0,0,0.15); width:100%; height: 100%}
 .pink.smoke{background-color: #A7166A; opacity: 0.25}
@@ -283,29 +282,15 @@ a.email {display: none; text-decoration: none; color: #A7166A;}
 .team.left.aligned.slice:hover > h3 span em .staff{display: none}
 .team.left.aligned.slice:hover > h2 span.pink.backed{background-color: #fff; color: #A7166A} 
 .team.left.aligned.slice:hover > h3 span.pink.backed{background-color: #fff; color: #A7166A}
-@media(max-width: 768px){
-.nonpink{display:none;}
-.page_title.main{font-size: 6em;}
-}
 
-@media(max-width: 500px){
-.page_title.main{font-size: 4.5em;}  
-.branded{font-size: 3em; line-height: 170%}
-.pinkslash{height:45px;}
-h1.tag{font-size: 1.5em}
-img.left.blogfloated{padding: 0; margin:auto; float: none}
-img.right.blogfloated{padding: 0; margin:auto; float: none}
-.page.content h1{font-size: 1.5em;}
-.page.content h2{font-size: 1.2em;}
-.page.content p{font-size: 1em;}
-.top-bar{height:50px; margin-bottom: 5px}
-.ui.stackable.grid.sectors{margin: 25px auto;}
-.ui.menu .item{font-size: 0.9em}
-.main.container{padding-left: auto;}
-.ui.form.newsletter {font-size: 0.8em; display: block;}
-.ui.breadcrumb{display: none;}
-}
 
+@media(max-width: 650px){
+  .special.topper{height: 400px;}
+ .special.topper h1{font-size: 4em}
+ .subtitle{font-size: 1.5em}
+ .ui.huge.button{font-size: 1.2rem;}
+ .ui.main.menu .item{font-size: 12px; }
+}
 
 
 @media only screen and (max-width: @computerBreakpoint) {
