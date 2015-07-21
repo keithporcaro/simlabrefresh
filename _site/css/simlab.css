@@ -61,7 +61,7 @@ h1.title{max-width: 100%}
 .home.alternate.topper_content{display: inline-block; margin-top: 200px; text-align: center;}
 .home.buttons{margin: auto; text-align: center;}
 .smoke{background-color: rgba(0,0,0,0.15); width:100%; height: 100%}
-.pink.smoke{background-color: #A7166A; opacity: 0.25}
+.pink.smoke{background-color: rgba(167, 22, 106, 0.2);}
 /*.home.special.topper{margin-bottom: 30px;}*/
 .home.special.topper{height:100%; margin-bottom: -100px;}
 .special.topper .subtitle{max-width: 400px; padding:5px 10px; margin-top: 0px;}
