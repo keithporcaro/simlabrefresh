@@ -6,7 +6,8 @@
     <body>
 {%if page.image%}
    <div class="special topper" style="background-image: url({{site.baseurl}}/images/{{page.image}});'">
-{%else%}
+   <div class="smoke">
+  {%else%}
 <div class="topper">
 {%endif%}
    {% include header.html %}
@@ -16,14 +17,14 @@
    	<div class="topper_content">
 {% if page.categories contains 'blog'%}
 	{%if page.subtitle%}
-  <h1 class="title smoke">{{page.title}}</h1>
-  <h2 class="subtitle smoke">{{page.subtitle}}</h2>
+  <h1 class="title">{{page.title}}</h1>
+  <h2 class="white subtitle">{{page.subtitle}}</h2>
   {%else%}
-  <h1 class="long title smoke">{{page.title}}</h1>
+  <h1 class="long title">{{page.title}}</h1>
   {%endif%}
 {%else%}
-  <h1 class="title smoke">{{page.title}}</h1>
-  {%if page.role%}<h2 class=""><span class="subtitle smoke">{{page.role}}</span></h2>{%endif%}
+  <h1 class="title">{{page.title}}</h1>
+  {%if page.role%}<h2 class=""><span class="white subtitle">{{page.role}}</span></h2>{%endif%}
 {%endif%}
 
     <!-- {% if page.author %}<h2 class="subtitle smoke">{% if page.author %} <a class="white" href="{{site.baseurl}}/team#{{name.first | downcase}}">{{ page.author }}</a> | {% endif %}{% if page.meta %}{{ page.meta }}{% endif %}{{ page.date | date: "%b %-d, %Y" }}</h2>{% endif %}-->
@@ -38,6 +39,9 @@
 </div>
 {% endif %}
 
+{%if page.image %}
+</div>
+{%endif%}
     </div>
    
    
