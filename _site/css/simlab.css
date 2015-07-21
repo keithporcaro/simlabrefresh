@@ -55,7 +55,8 @@ h1.title{max-width: 100%}
 .special.topper{position: relative;}
 .special.small.topper{height:200px;}
 .topper_content{position:absolute; bottom:40px; width: 650px;}
-.alternate.special.topper{background-color: #7F3761; height: 100%; min-height: 500px;}
+.alternate.special.topper{background-color: #7F3761; height: 100%;}
+.home.special.topper{min-height: 700px;}
 .home.topper_content{position:relative; margin-top:150px; width: 100%;}
 .home.alternate.topper_content{display: inline-block; margin-top: 200px; text-align: center;}
 .home.buttons{margin: auto; text-align: center;}
@@ -64,7 +65,7 @@ h1.title{max-width: 100%}
 /*.home.special.topper{margin-bottom: 30px;}*/
 .home.special.topper{height:100%; margin-bottom: -100px;}
 .special.topper .subtitle{max-width: 400px; padding:5px 10px; margin-top: 0px;}
-.home.topper_content > .subtitle{max-width: 664px;}
+.home.topper_content > .subtitle{max-width: 650px; font-size: 2.8em;}
 .big.subtitle{font-size: 3em; max-width: 600px; text-align: left;}
 .title.container{background-image:url({{site.baseurl}}/images/testimage.jpg); height:300px;}
 progress {position:fixed; top:15px;}
@@ -286,9 +287,9 @@ a.email {display: none; text-decoration: none; color: #A7166A;}
 
 @media(max-width: 650px){
   .special.topper{height: 400px;}
- .special.topper h1{font-size: 4em}
- .subtitle{font-size: 1.5em}
- .ui.huge.button{font-size: 1.2rem;}
+ .special.topper h1{font-size: 3em}
+ .home.topper_content .subtitle{font-size: 1.5em}
+ .ui.huge.button{font-size: 1rem;}
  .ui.main.menu .item{font-size: 12px; }
 }
 
