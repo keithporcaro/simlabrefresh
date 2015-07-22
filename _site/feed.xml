@@ -5,9 +5,36 @@
     <description>We are Social Impact Lab. We use inclusive technologies to build systems and services that are more accessible, responsive, and resilient.</description>
     <link>/simlabrefresh/</link>
     <atom:link href="/simlabrefresh/simlabrefresh/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 22 Jul 2015 11:10:50 -0400</pubDate>
-    <lastBuildDate>Wed, 22 Jul 2015 11:10:50 -0400</lastBuildDate>
+    <pubDate>Wed, 22 Jul 2015 15:34:38 -0400</pubDate>
+    <lastBuildDate>Wed, 22 Jul 2015 15:34:38 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Titling in Odisha</title>
+        <description>&lt;p&gt;“All the land records against this wall have been scanned.” Stacks of land records–browning paper tied together with string–lined the walls, the tables, the shelves. White receipts with markered labels flopped out of some of them; processed and scanned. The tahasildar beamed, visibly proud at the progress his office had made. Still, stacks of titles remained, and still more remained unrecorded. And any new records would also be delivered on paper, awaiting digitization.&lt;/p&gt;
+
+&lt;p&gt;This is the state of land records in Odisha, India–and many other maturing land regimes: digital, almost. An ever-changing mix of analog and digital record-keeping further complicates the delivery of titles to landless homes. The closer one gets to a household-level record, the more likely that record is only exist on paper. The household and village level is also where tracking is most critical–not only for administrators to understand what’s working and what isn’t, but to create a transparent record of activity that potential titleholders can use to mark their own progress through a complicated process.&lt;/p&gt;
+
+&lt;p&gt;If information about a titling process can be made digital, in whatever form is available, that can have a transformative effect not only on how efficiently land titles are delivered to the most marginalized, but on how people understand and build their lives around land.&lt;/p&gt;
+
+&lt;p&gt;In Odisha, SIMLab has partnered with Landesa on a Google.org funded project to do just that. We’re using simple mobile technology (SMS and FrontlineCloud, to start) to help deliver titles to landless rural and tribal villagers across Odisha.&lt;/p&gt;
+
+&lt;p&gt;Over the last year, SIMLab staff have spent nearly three months on the ground in Odisha: interviewing officials at every stage of the land process, visiting villages that have received title under the program, conducting context assessments, iteratively designing and modifying the software in close consultation with Landesa staff, and conducting technology trainings across the state. Along the way, we’ve adjusted the program and approach to the changing context in Odisha: adjusting the scope of the program to fit technology ownership in villages and districts, reintroducing ourself to a new set of government officials after the most recent round of elections, and iterating a scaling program to meet the exciting e-governance developments in Odisha. That’s not even mentioning the cyclone that swept the state last October.&lt;/p&gt;
+
+&lt;p&gt;In April, we began the first round of field-level training and implementation, and continue to monitor the pilot for results. For the pilot stage, officials and field-level workers can use SMS to report their progress (there are nearly 30 individual steps in the program, taking between 12 and 18 months to complete in total) and receive reminders of tasks that are behind schedule, while supervisors can generate and download up to the minute aggregate reports, summarizing total progress in their area. Finally, village-level officials, and villagers, can submit status queries to find out how far along their–or any–village is in the program. Because the system uses a combination of SMS and cloud-based services, we can adjust the parameters of the system (such as the number of days before a task is considered late) mid-stream. In other words, rather than replacing a process that’s already underway, we’ve created a low-touch system that allows select data to run ahead of paper surveys, hopefully reducing the latency between problem identification and problem solving from months to days.&lt;/p&gt;
+
+&lt;p&gt;We’re excited about what lies ahead for this program, and for others like it. Although the technology context is difficult, we’re exploring small opportunities to reach out directly to titleholders, enabling a person to track their own application, build land literacy, or even request services via SMS. We’re also beginning to explore integration into the rapidly maturing Odisha land database, which would enable government officials to seamlessly communicate land-record changes to the local level, villagers to verify title, and perhaps open up an opportunity to communicate private land transactions back to a database.&lt;/p&gt;
+
+&lt;p&gt;To show how SMS and other inclusive technologies can be used to optimize large-scale land interventions, we’ve made a small demo, which will be up for a short time. You can access it by texting the word DEMO to ‭+1 (919) 582-5077. If you’re interested in working with SIMLab to bring inclusive technology to your land program, contact Keith Porcaro, at keith@simlab.org&lt;/p&gt;
+</description>
+        <pubDate>Wed, 22 Jul 2015 11:32:00 -0400</pubDate>
+        <link>/simlabrefresh/blog/2015/07/22/titling-in-odisha</link>
+        <guid isPermaLink="true">/simlabrefresh/blog/2015/07/22/titling-in-odisha</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Open First, Ask Later</title>
@@ -388,48 +415,6 @@ He’s paid his monthly salary through a direct deposit into his bank account, a
         <pubDate>Wed, 26 Nov 2014 14:18:00 -0500</pubDate>
         <link>/simlabrefresh/blog/2014/11/26/m-and-e-of-icts4d-project-level-learning-in-an-evolving-sector</link>
         <guid isPermaLink="true">/simlabrefresh/blog/2014/11/26/m-and-e-of-icts4d-project-level-learning-in-an-evolving-sector</guid>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Digital By Default: Too Much, Too Soon?</title>
-        <description>&lt;p&gt;In a forward-thinking, but arguably optimistic recent shift, donors are increasingly encouraging grantees to default to digital or cashless operations for themselves and their partners. USAID and Nethope have gone so far as to require future grantees to make the shift to e-payments in their operations and programs, unless they can make the case that cashless solutions are inappropriate in their specific context.&lt;/p&gt;
-
-&lt;p&gt;With this policy shift, USAID aims to “…create ‘economic rails,’ that provide a foundation for dramatically and rapidly expanding financial inclusion, and make possible new financial models to support enterprise and service delivery at the base of the economic pyramid,” (&lt;a href=&quot;http://solutionscenter.nethope.org/toolkit/view/c2e-toolkit?/programs/c2e-toolkit&quot;&gt;Kay McGowan, Digital Finance Team Lead. Nethope Toolkit, 2014&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;We agree that defaulting to cashless solutions may radically increase uptake, but in this blog post, I’ll set out some of the risks we identify, based in part on our experiences implementing FrontlineSMS’s M-PESA management platform, PaymentView, in NGOs and schools in Kenya. The short version: might this type of blanket shift lead some organizations to underestimate the complexity of going cashless and push themselves and their beneficiaries too far, in order to fit the mold of the desirable grantee?&lt;/p&gt;
-
-&lt;h2 id=&quot;its-complicated&quot;&gt;It’s complicated&lt;/h2&gt;
-
-&lt;p&gt;Inorganic adoption of cashless systems may lead to significant teething problems, resulting in chaotic and mismanaged operations.&lt;/p&gt;
-
-&lt;p&gt;Cashless operations still function within a market environment, particularly digital currencies like M-PESA which require agents and a network of stores that accept the currency for it to be useful for recipients. Immature markets are prone to a lack of service providers, high transaction costs and other infrastructure inadequacies. Recent cashless projects have found that the move to mobile or cashless payments for beneficiaries not accustomed to new systems, is a very difficult transition in which innate mistrust in the technology must be overcome and benefits be visible immediately. (&lt;a href=&quot;http://www.icmc.usp.br/pessoas/jporto/papers/24 revised diniz mobile_money_and_payment_nov 14 2011.pdf&quot;&gt;Mobile Money and Payment, 2011&lt;/a&gt;). Any bad experience or inconvenience caused by the new technology can result in users ‘quitting,’ the system with an unwillingness to try again, even when the problem has been ameliorated.&lt;/p&gt;
-
-&lt;p&gt;In the Democratic Republic of Congo, a program run by &lt;a href=&quot;http://globserver.cn/en/central-africa/press/airtel-money-making-congo-kinshasa&quot;&gt;Airtel Money&lt;/a&gt; and the Government switched salary payments for thousands of civil servants, including teachers, from cash to mobile money. Prior to the mobile money disbursements, salaries for teachers in isolated and low-infrastructure rural areas were driven in on trucks carrying large amounts of cash. Long delays were common and monetary leakage through theft and fraud was high. The result for teachers, were late and sometimes partial payments. (&lt;a href=&quot;http://blogs.worldbank.org/edutech/paying-teacher-salaries-mobile-phones&quot;&gt;World Bank, 2014&lt;/a&gt;) The program was intended to save time and money for both the government and the civil servants.&lt;/p&gt;
-
-&lt;p&gt;However, mobile money was a new concept in the region and not something that was readily trusted or understood. As the civil servant mobile money disbursement program rolled out, flaws in the system were immediately observed. First, the mobile money agent network was weak, especially in rural areas and there weren’t enough agents in close proximity to the teachers and their schools for them to be able to ‘cash out’, or exchange the digital currency for paper money. Similarly, the immature market suffered from the well-documented and pervasive problem of low rural float—small numbers of local stores and businesses accept digital currencies, meaning that beneficiaries immediately seek to cash out, resulting in uneven cash flows for rural agents. The chances of this problem arising increase with salary payments due to the fixed timing of the exchange. The money trucks just shift from the schools to the mobile money agents, as they struggle to maintain enough cash to serve their clients, who are left unable to use the credit or to cash out. Teachers were sometimes left with their entire salaries on their phones, but with no way to access it.&lt;/p&gt;
-
-&lt;p&gt;These situations are difficult to predict because different contexts, users and organizations treat mobile money differently. For instance, in a very well-developed market, mobile money users are used to both receiving and transferring mobile money. There are more places for them to spend mobile money in stores and businesses, and many users maintain both physical and digital balances. Agents are under less pressure to cash out large sums, and the use of mobile money spreads organically as users describe the substantial benefits to others and ask business owners to offer it as an option. Cash out is less concentrated at specific agents, instead spread across multiple communities and businesses.&lt;/p&gt;
-
-&lt;p&gt;SIMLab’s mobile payment management tool, currently a prototype called PaymentView, has seen huge uptake in an already mature mobile money landscape because it adds an essential function of managing small business-sized volumes of mobile payments. Without this tool, last-mile organizations without access to internet are forced to send and receive mobile payments manually on a mobile phone. This, done at any volume, is tedious, inefficient, error-prone and nearly impossible to track. Even when mobile money infrastructure is in place, if there locally-appropriate mobile money management tools for businesses are not available, then businesses trying to make the switch from cash to digital payments will find processes unmanageable and potentially financially irresponsible. And affordable and accessible mobile money management tools are rare even in the most mature markets.&lt;/p&gt;
-
-&lt;h2 id=&quot;critical-steps-market-assessment-and-shared-learning&quot;&gt;Critical steps: market assessment and shared learning&lt;/h2&gt;
-
-&lt;p&gt;We do applaud the ‘nudge’ philosophy behind defaulting to a cashless approach—there is much to celebrate when digital currencies are utilised in the right market environment. But market assessment, including an appraisal of the readiness of potential beneficiaries to adopt a digital currency, is critical and a new bar that potential grantees will need to meet. In order to support the policy shift, USAID and Nethope’s comprehensive Toolkit includes market readiness assessment guides, as well as resources on how to best plan and implement the shift from physical to digital cash in programs and operations.&lt;/p&gt;
-
-&lt;p&gt;However, we believe this might need to be a requirement. Careful market assessment of the e-payment ecosystem, to determine capabilities and capacity of the available infrastructural and service provider options and, arguably, of the local financial landscape, should be critical to determining whether the grantee should make the move to e-payments, and if so, whether this move should be incremental or build on an initial pilot.&lt;/p&gt;
-
-&lt;p&gt;Additionally, a commitment to sharing learning among grantees of such projects will support a cycle of experimentation and improvement, and help to share and mitigate risk across projects. Currently, evaluation of technology innovation is patchy and not particularly robust, and there could be more work done to synthesise and gather learning across projects and organizations.&lt;/p&gt;
-
-&lt;p&gt;We caution that this progressive policy change, while an evident step in the right direction, may yet be too idealistic at the moment. There’s an urgent need for greater understanding of what it takes for end users to buy into a change in payment type. Developing markets are fragile and one large, well-intended misstep otherwise risks a very detrimental chilling effect on the mobile payments market.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 17 Nov 2014 05:45:00 -0500</pubDate>
-        <link>/simlabrefresh/blog/2014/11/17/digital-by-default-too-much-too-soon</link>
-        <guid isPermaLink="true">/simlabrefresh/blog/2014/11/17/digital-by-default-too-much-too-soon</guid>
         
         
         <category>blog</category>
