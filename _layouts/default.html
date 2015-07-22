@@ -4,6 +4,8 @@
   {% include head.html %}
 
     <body>
+            {%include modalmenu.html%}
+
 
    <div class="topper">
     {% include header.html %}
@@ -25,7 +27,15 @@
 $('.ui.dropdown')
   .dropdown()
 ;
+$('.ui.basic.modal')
+  .modal()
+;
 
+
+
+  $("#menuholder").on("click", function(e){
+    $('.ui.basic.modal').modal('show')
+  })
 
 
 </script>

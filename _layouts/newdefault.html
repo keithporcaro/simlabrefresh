@@ -4,6 +4,8 @@
   {% include head.html %}
 
     <body>
+                {%include modalmenu.html%}
+
 {%if page.image%}
    <div class="special topper" style="background-image: url({{site.baseurl}}/images/{{page.image}});'">
    <div class="smoke">
@@ -59,8 +61,15 @@
 
 
 <script>
-$('.ui.dropdown')
-  .dropdown();
+$('.ui.basic.modal')
+  .modal()
+;
+
+
+
+  $("#menuholder").on("click", function(e){
+    $('.ui.basic.modal').modal('show')
+  })
 </script>
     </body>
 </html>

@@ -19,6 +19,7 @@
     <link rel="stylesheet" href="/simlabrefresh/css/normalize.css">
      <link rel="stylesheet" href="/simlabrefresh/css/semantic.min.css">
      <link rel="stylesheet" href="/simlabrefresh/css/dropdown.min.css">
+     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
       <link rel="stylesheet" href="/simlabrefresh/css/simlab.css">
 <!-- Javascript -->
@@ -42,7 +43,7 @@
 
 
     <body>
-    
+        
 <div class = "ui basic modal">
   <div class="content">
     <div class="container">
@@ -63,6 +64,7 @@
 </div>
 
 
+
 <!--first top-->
    <div class="home special topper" style="background-image: url(/simlabrefresh/images/testimage2.jpg);'">
    <div class="smoke">
@@ -74,8 +76,8 @@
 
 <div class="ui fluid">
 
-	<div id="mainlogo" class="logo item"><!--<a href="/simlabrefresh/">--><img class="ui tiny image" src="/simlabrefresh/images/logo.svg"><!--</a>--></div> 
-	<div class="ui simple dropdown item">Who We Are
+	<div id="mainlogo" class="logo item"><a href="/simlabrefresh/"><img class="ui tiny image" src="/simlabrefresh/images/logo.svg"></a></div> 
+	<!--<div class="ui simple dropdown item">Who We Are
 		<div class="ui borderless menu">
 			    <a class="item" href="/simlabrefresh/about">About us</a>
        		<a class="item" href="/simlabrefresh/team">Meet the team</a>
@@ -91,7 +93,10 @@
         </div>
     </div>
 
-    <a class="ui item" href="/simlabrefresh/blog">Blog</a>
+    <a class="ui item" href="/simlabrefresh/blog">Blog</a>-->
+  <div class = "right menu">
+    <div class = "ui item" id="menuholder"><i id="menuburger" class="fa fa-bars fa-2"></i></div>
+  </div>
 
 
 
@@ -313,15 +318,16 @@ The Social Impact Lab Foundation (SIMLab) is a 501(c)(3) organization registered
 $('.ui.dropdown')
   .dropdown()
 ;
+
 $('.ui.basic.modal')
   .modal()
 ;
 
 
-
-  $("#mainlogo").on("click", function(e){
+  $("#menuholder").on("click", function(e){
     $('.ui.basic.modal').modal('show')
   })
+
 </script>
     </body>
 </html>

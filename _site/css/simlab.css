@@ -25,6 +25,8 @@ body {
 .white{color:#fff!important;}
 .right.align{text-align: right;}
 
+
+
 .front{margin: 0 0 50px 0;}
 .front:last-child{margin-bottom: 0px;}
 .middle.column{text-align: center;}
@@ -76,6 +78,10 @@ h2{font-family: "Montserrat"; font-weight:400; color:#000;}
 #primary{}
 h1.page_title{margin-bottom:15px;}
 .page_title{line-height: 0.5; color:#231f20; }
+#menuholder{cursor: pointer; }
+#menuburger {color:#000; font-size: 3.5em;}
+.smoke #menuburger{ color:#fff;}
+#menuburger:hover{color:#A7166A;}
 
 #the-basics input{
  width: 100%;
