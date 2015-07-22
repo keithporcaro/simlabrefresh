@@ -10,7 +10,7 @@ accents:#004650;
 */
 
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:200, 300, 400,700);
 
 
   html {
@@ -86,6 +86,10 @@ h1.page_title{margin-bottom:15px;}
 .ui.card>.content>a.header:hover, .ui.cards>.card>.content>a.header:hover{color:#fff!important;}
 .ui.card>.content>a.header>.pink.backed:hover{color: #fff!important}
 
+.ui.modal .white.list a{color: #fff!important; font-size: 1.75em; font-weight: 200;}
+.white.list {color: #fff!important; font-weight: 200;}
+.ui.modal .subtitle{font-size: 3em; font-weight: 200;}
+.ui.modal .white.list h3, .ui.modal .white.list h3 a{font-size: 35px; font-weight:700;} 
 
 #menubar{z-index: 10000; background-color:none; box-shadow: none; outline: none; border: none;}
 .menubar.entry{font-size: 4em;}

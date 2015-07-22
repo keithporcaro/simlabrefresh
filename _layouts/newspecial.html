@@ -5,10 +5,12 @@
   {% include head.html %}
 
     <body>
+    {%include modalmenu.html%}
 <!--first top-->
    <div class="home special topper" style="background-image: url({{site.baseurl}}/images/testimage2.jpg);'">
    <div class="smoke">
    {% include header.html %}
+
 
 
    <div class="container">
@@ -73,9 +75,15 @@
 $('.ui.dropdown')
   .dropdown()
 ;
+$('.ui.basic.modal')
+  .modal()
+;
 
 
 
+  $("#mainlogo").on("click", function(e){
+    $('.ui.basic.modal').modal('show')
+  })
 </script>
     </body>
 </html>

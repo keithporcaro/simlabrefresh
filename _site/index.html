@@ -42,6 +42,27 @@
 
 
     <body>
+    
+<div class = "ui basic modal">
+  <div class="content">
+    <div class="container">
+    <h2 class="subtitle"><span class="pink backed">Simlab</span></h2>
+      <div class = "ui white list">
+        <div class="item"><h3>Who We Are</h3></div>
+          <div class="item"><a href="/simlabrefresh/about">About us</a></div>
+          <div class="item"><a href="/simlabrefresh/team">Meet the team</a></div>
+          <div class="item"><a href="/simlabrefresh/careers">Work with us</a></div>
+        <div class="ui item"><h3>What We Do</h3></div>
+          <div class="item"><a href="/simlabrefresh/services">Services</a></div>
+          <div class="item"><a href="/simlabrefresh/projects">Projects</a></div>
+          <div class="item"><a href="/simlabrefresh/resources">Resources</a></div>
+        <div class="ui item"><h3><a href="/simlabrefresh/blog">Blog</a></h3></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
 <!--first top-->
    <div class="home special topper" style="background-image: url(/simlabrefresh/images/testimage2.jpg);'">
    <div class="smoke">
@@ -53,7 +74,7 @@
 
 <div class="ui fluid">
 
-	<div id="mainlogo" class="logo item"><a href="/simlabrefresh/"><img class="ui tiny image" src="/simlabrefresh/images/logo.svg"></a></div> 
+	<div id="mainlogo" class="logo item"><!--<a href="/simlabrefresh/">--><img class="ui tiny image" src="/simlabrefresh/images/logo.svg"><!--</a>--></div> 
 	<div class="ui simple dropdown item">Who We Are
 		<div class="ui borderless menu">
 			    <a class="item" href="/simlabrefresh/about">About us</a>
@@ -88,6 +109,7 @@
 
 </div>
 </div>
+
 
 
 
@@ -291,9 +313,15 @@ The Social Impact Lab Foundation (SIMLab) is a 501(c)(3) organization registered
 $('.ui.dropdown')
   .dropdown()
 ;
+$('.ui.basic.modal')
+  .modal()
+;
 
 
 
+  $("#mainlogo").on("click", function(e){
+    $('.ui.basic.modal').modal('show')
+  })
 </script>
     </body>
 </html>
