@@ -18,7 +18,7 @@
    	<div class="home topper_content alternate">
       	<h1><span class="white">We are Simlab.</span></h1>
       	<h2 class="subtitle white"><span class="">We help people use technology to reduce inequality.</span></h2>
-       <div class="home buttons"> 
+       <div class="home buttons">
        <a class="ui huge inverted button" href="/projects">Projects</a>
       <a class="ui huge inverted button" href="/services">Services </a>
        <a class="ui huge inverted button" href="/services">Resources</a>
@@ -29,7 +29,7 @@
 	</div>
    </div>
     </div>
-  <!--  
+  <!--
 <div class="ui horizontal divider"></div>
  <div class="home special small topper" style="background-image: url({{site.baseurl}}/images/odisha.jpg);'">
 
@@ -61,7 +61,7 @@
 <div class="ui one column page grid" id="primary">
 <div class="column">
 <div class="main container">
-    
+
 
   {{content}}
 
@@ -87,5 +87,11 @@ $('.ui.basic.modal')
   })
 
 </script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.js"></script>
+
+<script src="{{ "/javascript/semantic.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/javascript/typeahead.bundle.min.js" | prepend: site.baseurl }}"></script>
+
+{%include tracking.html%}
     </body>
 </html>

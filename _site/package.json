@@ -1,0 +1,21 @@
+{
+  "name": "uncss",
+  "version": "1.0.0",
+  "description": "socialimpactlab.github.io =========================",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "uncss": "jekyll build && node build.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keithporcaro/simlabrefresh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keithporcaro/simlabrefresh/issues"
+  },
+  "homepage": "https://github.com/keithporcaro/simlabrefresh"
+}

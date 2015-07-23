@@ -6,8 +6,9 @@ pic: kap.png
 twitter: keithporcaro
 categories: staff
 permalink: /team/keith/
+image: keith_big.jpg
 layout: person
-tags: 
+tags:
 - legal
 - land
 ---

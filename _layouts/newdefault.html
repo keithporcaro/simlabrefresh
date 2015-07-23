@@ -4,7 +4,7 @@
   {% include head.html %}
 
     <body>
-                {%include modalmenu.html%}
+    {%include modalmenu.html%}
 
 {%if page.image%}
    <div class="special topper" style="background-image: url({{site.baseurl}}/images/{{page.image}});'">
@@ -37,7 +37,7 @@
 <div class="container">
 
  <h1 class="page_title blogpost branded">{{page.title}}{%if page.subtitle%}: {{page.subtitle}}{%endif%}</h1>
-  
+
 </div>
 {% endif %}
 
@@ -45,12 +45,12 @@
 </div>
 {%endif%}
     </div>
-   
-   
+
+
 <div class="ui one column page grid" id="primary">
 <div class="column">
 <div class="main container">
-    
+
 
   {{content}}
 
@@ -71,5 +71,11 @@ $('.ui.basic.modal')
     $('.ui.basic.modal').modal('show')
   })
 </script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.js"></script>
+
+<script src="{{ "/javascript/semantic.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/javascript/typeahead.bundle.min.js" | prepend: site.baseurl }}"></script>
+
+{%include tracking.html%}
     </body>
 </html>
