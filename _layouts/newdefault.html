@@ -59,7 +59,10 @@
 </div>
 {% include footer.html %}
 
+<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.js"></script>
 
+<script src="{{ "/javascript/semantic.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/javascript/typeahead.bundle.min.js" | prepend: site.baseurl }}"></script>
 <script>
 $('.ui.basic.modal')
   .modal()
@@ -71,10 +74,7 @@ $('.ui.basic.modal')
     $('.ui.basic.modal').modal('show')
   })
 </script>
-<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.js"></script>
 
-<script src="{{ "/javascript/semantic.min.js" | prepend: site.baseurl }}"></script>
-<script src="{{ "/javascript/typeahead.bundle.min.js" | prepend: site.baseurl }}"></script>
 
 {%include tracking.html%}
     </body>
