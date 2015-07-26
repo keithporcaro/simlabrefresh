@@ -1,97 +1,26 @@
-<!DOCTYPE html>
 <html>
-	{%assign feature = site.data.featured[page.featured]%}
-
   {% include head.html %}
-
     <body>
-        {%include modalmenu.html%}
-
-<!--first top-->
-   <div class="home special topper" style="background-image: url({{site.baseurl}}/images/testimage2.jpg);'">
-   <div class="smoke">
-   {% include header.html %}
-
-
-
-   <div class="container">
-   	<div class="home topper_content alternate">
-      	<h1><span class="white">We are Simlab.</span></h1>
-      	<h2 class="subtitle white"><span class="">We help people use technology to reduce inequality.</span></h2>
-       <div class="home buttons">
-       <a class="ui huge inverted button" href="{{site.baseurl}}/projects">Projects</a>
-      <a class="ui huge inverted button" href="{{site.baseurl}}/services">Services </a>
-       <a class="ui huge inverted button" href="{{site.baseurl}}/services">Resources</a>
-
-       </div>
-</div>
-
-	</div>
-   </div>
+    {%include modalmenu.html%}
+    <!--first top-->
+    <div class="home special topper" style="background-image: url({{site.baseurl}}/images/testimage2.jpg);'">
+      <div class="smoke">
+        {% include header.html %}
+        <div class="container">
+          <div class="home topper_content alternate">
+            <h1><span class="white">We are Simlab.</span></h1>
+            <h2 class="subtitle white">We help people use technology to reduce inequality.</h2>
+            <div class="home buttons">
+              <a class="ui huge inverted button" href="{{site.baseurl}}/projects">Projects</a>
+              <a class="ui huge inverted button" href="{{site.baseurl}}/services">Services</a>
+              <a class="ui huge inverted button" href="{{site.baseurl}}/services">Resources</a>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
-  <!--
-<div class="ui horizontal divider"></div>
- <div class="home special small topper" style="background-image: url({{site.baseurl}}/images/odisha.jpg);'">
-
-   <div class="container">
-    <div class="topper_content">
-        <h2 class="subtitle smoke"><a class="white" href="/projects"><span class="pink backed">We build projects</span> with partners and donors around the world.</a></h2>
-  </div>
-   </div>
-    </div>
-
- <div class="home special small topper" style="background-image: url({{site.baseurl}}/images/{{feature.image}});'">
-
-   <div class="container">
-    <div class="topper_content">
-        <h2 class="subtitle smoke"><a class="white" href="/services"><span class="pink backed">We help organizations</span> navigate the human side of technology.</a></h2>
-  </div>
-   </div>
-    </div>
- <div class="home special small topper" style="background-image: url({{site.baseurl}}/images/dcpl.jpg);'">
-
-   <div class="container">
-    <div class="topper_content">
-        <h2 class="subtitle smoke"><a class="white" href="/services"><span class="pink backed">We develop resources</span> and toolkits to help learning reach everyone.</a></h2>
-  </div>
-   </div>
-    </div>
-
--->
-<div class="ui one column page grid" id="primary">
-<div class="column">
-<div class="main container">
-
-
-  {{content}}
-
-</div>
-</div>
-</div>
-
-{% include footer.html %}
-
-<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.js"></script>
-
-<script src="{{ "/javascript/semantic.min.js" | prepend: site.baseurl }}"></script>
-<script src="{{ "/javascript/typeahead.bundle.min.js" | prepend: site.baseurl }}"></script>
-
-<script>
-$('.ui.dropdown')
-  .dropdown()
-;
-
-$('.ui.basic.modal')
-  .modal()
-;
-
-
-  $("#menuholder").on("click", function(e){
-    $('.ui.basic.modal').modal('show')
-  })
-
-</script>
-
-{%include tracking.html%}
-    </body>
+    {%include footer.html %}
+    {%include javascript.html%}
+    {%include tracking.html%}
+  </body>
 </html>

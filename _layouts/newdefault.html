@@ -47,30 +47,16 @@
     </div>
 
 
-<div class="ui one column page grid" id="primary">
-<div class="column">
 <div class="main container">
 
 
   {{content}}
 
 </div>
-</div>
-</div>
 {% include footer.html %}
 
 
-<script>
-$('.ui.basic.modal')
-  .modal()
-;
-
-
-
-  $("#menuholder").on("click", function(e){
-    $('.ui.basic.modal').modal('show')
-  })
-</script>
+{% include javascript.html %}
 
 
 {%include tracking.html%}

@@ -30,11 +30,14 @@
 
 
     <body>
-            
+    
 <div class = "ui basic modal">
+
   <div class="content">
     <div class="container">
-    <h2 class="subtitle"><span class="pink backed">Simlab</span></h2>
+      <div class="right menu"><div class="item"><i id="menuclose" class="white fa fa-times fa-2"></i></div></div>
+
+    <h2 class="subtitle"><span class="pink backed">Simlab</span> </h2>
       <div class = "ui white list">
         <div class="item"><h3>Who We Are</h3></div>
           <div class="item"><a href="/simlabrefresh/about">About us</a></div>
@@ -52,9 +55,9 @@
 
 
 
+<div class="topper">
 
-   <div class="topper">
-    
+   
 <!--Main Menu-->
 <div class="ui borderless main menu">
 <div class="container">
@@ -103,17 +106,22 @@
 
 
 
-    
+
+
 <div class="container">
+
  <h1 class="page_title blogpost branded">Resources</h1>
- 
-    
+
 </div>
 
+
+
     </div>
-<div class="ui one column page grid" id="primary">
-<div class="column">
+
+
 <div class="main container">
+
+
   <div class="ui fluid input" id="the-basics">
  <h3> <input class="input typeahead" type="text" placeholder="Search Resources" /></h3>
 </div>
@@ -202,13 +210,13 @@
 var substringMatcher = function(strs) {
   return function findMatches(q, cb) {
     var matches, substringRegex;
- 
+
     // an array that will be populated with substring matches
     matches = [];
- 
+
     // regex used to determine if a string contains the substring `q`
     substrRegex = new RegExp(q, 'i');
- 
+
     // iterate through the pool of strings and for any string that
     // contains the substring `q`, add it to the `matches` array
     $.each(strs, function(i, str) {
@@ -216,11 +224,11 @@ var substringMatcher = function(strs) {
         matches.push(str);
       }
     });
- 
+
     cb(matches);
   };
 };
- 
+
 var states = ['Alabama', 'Alaska', 'Arizona', 'Arkansas', 'California',
   'Colorado', 'Connecticut', 'Delaware', 'Florida', 'Georgia', 'Hawaii',
   'Idaho', 'Illinois', 'Indiana', 'Iowa', 'Kansas', 'Kentucky', 'Louisiana',
@@ -231,7 +239,7 @@ var states = ['Alabama', 'Alaska', 'Arizona', 'Arkansas', 'California',
   'South Carolina', 'South Dakota', 'Tennessee', 'Texas', 'Utah', 'Vermont',
   'Virginia', 'Washington', 'West Virginia', 'Wisconsin', 'Wyoming'
 ];
- 
+
 $('#the-basics .typeahead').typeahead({
   hint: true,
   highlight: true,
@@ -269,25 +277,23 @@ $('#the-basics .typeahead').typeahead({
 
        /*   $("#search").bind('keyup',function(){
            if (event.keyCode!="39" && event.keyCode!="13" && event.keyCode!="40"  && event.keyCode!="38" && event.keyCode!="37" && event.keyCode!="17" && event.keyCode!="91"){
-           
+
                        $(".podcast").each(function(){
                            $(this).removeClass("hide");});
             }
         });
         $("#search").bind('typeahead:selected', function(obj, datum)
-            {dispatch(datum.value); 
+            {dispatch(datum.value);
 
              });
 
           $("#search").bind('typeahead:autocompleted', function(obj, datum)
-            {dispatch(datum.value); 
+            {dispatch(datum.value);
              });*/
 </script>
 
 
 
-</div>
-</div>
 </div>
 <div class="ui one column page grid" id="footer">
 <div class="column">
@@ -312,7 +318,7 @@ $('#the-basics .typeahead').typeahead({
 
 </div>
 
-<div class="column">
+<div class="column right align">
 <h2><span class="pink backed">Social Impact Lab</span></h2>
 
 1110 Vermont Ave NW, Ste. 500 <br>
@@ -338,13 +344,31 @@ Washington DC 20005, USA
 
 
 <script>
+
+
 $('.ui.basic.modal')
   .modal()
 ;
+
   $("#menuholder").on("click", function(e){
     $('.ui.basic.modal').modal('show')
-  })
+  });
 
+  $("#menuclose").on("click", function(e){
+    $('.ui.basic.modal').modal('hide')
+  });
+</script>
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-54445094-1', 'auto');
+  ga('send', 'pageview');
 
 </script>
     </body>
