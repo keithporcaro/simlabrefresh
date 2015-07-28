@@ -2,7 +2,7 @@
 layout: newdefault
 title: Team
 ---
-<div class="ui three stackable cards">
+<div class="ui three cards team">
  {% for page in site.pages%}
        <!--Team Member-->
        {% if page.categories contains "staff" %}
@@ -32,7 +32,7 @@ title: Team
 
 <h1>Board</h1>
 
-<div class="ui four cards">
+<div class="ui four cards board">
  {% for page in site.pages%}
        <!--Team Member-->
        {% if page.categories contains "board" %}

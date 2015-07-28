@@ -35,7 +35,7 @@ h1.title{max-width: 100%}
 #footer a{color:#fff;}
 #footer #mainlogo{margin-left: 0px}
 #footer .ui.list .item h3{color:#fff!important; margin-top: 10px;}
-#footer{background-color: #555; color: #fff; padding: 10px 0px 20px 0px; margin: 80px 0 0 0; overflow: none;}
+#footer{background-color: #555; color: #fff; padding: 30px 0px 20px 0px; margin: 80px 0 0 0; overflow: none;}
 .special.topper{height:600px;/*background-image:url({{site.baseurl}}/images/testimage.jpg);*/ background-size:cover; background-repeat: no-repeat;  background-position: center;margin-top:0; padding-top:0px; padding-bottom: 0px; margin-bottom: 30px;}
 .special.topper h1 {color: #fff; font-size: 6em;}
 .special.topper h1.long.title{font-size: 4em;}
@@ -234,11 +234,9 @@ h2.list:last-child{margin-top: 0px}
 h2.bottom{padding-bottom: 20px; width: 100%;}
 .nonpink{}
 .sector.segment{height: 100%; min-height: 220px; width:100%;}
-.team{height:100px; margin-bottom: 0;}
-.team.bio{height:auto; margin-top: 0;}
+
 .ui.bottom.segment.attached{margin-bottom: 30px;}
- .team.member{margin: 0;height:auto;}
- .team.member.title{margin:0;padding:0;height:auto;font-weight: 200;}
+
 .lwh{background-image: url({{site.baseurl}}'../images/lwh.png');
 background-size:100%; background-repeat: no-repeat;}
 
@@ -261,7 +259,6 @@ img.sector{margin:0 auto 5px auto; height:100px; }
 .page.content h1.post.title{margin: 0.3em 0}
 .page.content h1.front{margin-bottom: 0.5em; line-height: 1.1}
 
-
 .page.slice h1{line-height: 1; margin: 30px auto 30px auto;}
 .page.slice{background-size: 100%;}
 
@@ -273,11 +270,14 @@ a.email {display: none; text-decoration: none; color: #A7166A;}
 .team.left.aligned.slice:hover > h3 span em .staff{display: none}
 .team.left.aligned.slice:hover > h2 span.pink.backed{background-color: #fff; color: #A7166A}
 .team.left.aligned.slice:hover > h3 span.pink.backed{background-color: #fff; color: #A7166A}
+iframe {margin-bottom:20px!important;}
 
 
-@media(max-width: 700px){
-  .special.topper{height: 400px;}
+@media (max-width: 699px){
+ .special.topper{height: 400px;}
  .special.topper h1{font-size: 3em}
+ .page.content h1{font-size: 2em}
+ .page.content h2{font-size: 1.5em}
  h2.meta{font-size: 1.2em}
  .topper_content{max-width:100%; bottom:20px;}
  .home.topper_content .subtitle{font-size: 1.5em}
@@ -285,6 +285,17 @@ a.email {display: none; text-decoration: none; color: #A7166A;}
  .ui.main.menu .item{font-size: 12px; }
  .special.topper .subtitle{padding:5px 2px;}
  .container{width:97.5% }
+ .dimmer h3{font-size: 1em}
+ h1.page_title{font-size:3em;}
+ .page.content p, li{font-size: 14px;}
+ .ui.modal .white.list h3, .ui.modal h2, .ui.modal .white.list h3 a {font-size: 25px}
+.ui.modal .white.list a {font-size: 1.25em}
+.modal .right.menu .fa-2{font-size: 30px; padding-top: 10px}
+h1.post.title{font-size:1.75em;}
+.team .card h3 {font-size:1em;}
+.team .content, .team .ui.bottom.attached.button, .board .content{display:none}
+.main.container{overflow:hidden}
+#footer .column{padding-left:0px!important;}
 }
 
 
