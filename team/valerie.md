@@ -2,10 +2,10 @@
 title: Valerie Oliphant
 locator: valerie
 role: Projects Manager
-pic: vo.png
 categories: staff
 twitter: valoliphant
 permalink: /team/valerie/
+image: valerie_big.jpg
 layout: person
 tags:
 - governance

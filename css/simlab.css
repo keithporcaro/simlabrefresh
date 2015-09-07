@@ -19,8 +19,8 @@ accents:#004650;
 .middle.column{text-align: center;}
 .smoke .main.menu .item {color:#fff;}
 .smoke .ui.menu .dropdown.item .menu{background:transparent; border: none; box-shadow: none;}
-.smoke .main.menu .item:hover, .smoke .main.menu .dropdown.item .menu .item:hover{background-color: transparent; color:#fff; text-decoration: underline; };
 .main.menu .item:hover{background-color: transparent;}
+.borderless.main.menu{margin-bottom:20px;}
 a{color: #A7166A;}
 .white.backed{color: #A7166A!important; background-color: #fff; padding: 0px 0px;}
 a >.white.backed:hover{color: #A7166A!important; background-color: #fff;}
@@ -49,9 +49,10 @@ h1.title{max-width: 100%}
 .home.alternate.topper_content{display: inline-block; margin-top: 200px; text-align: center;}
 .home.buttons{margin: auto; text-align: center;}
 .smoke{background-color: rgba(0,0,0,0.15); width:100%; height: 100%}
+.smoke.clear{background-color:rgba(0, 0, 0, 0);}
 .pink.smoke{background-color: rgba(167, 22, 106, 0.2);}
 /*.home.special.topper{margin-bottom: 30px;}*/
-.home.special.topper{height:100%; margin-bottom: -100px;}
+.home.special.topper{height:100%; margin-bottom: -80px;}
 .special.topper .subtitle{max-width: 400px; padding:5px 10px; margin-top: 0px;}
 .home.topper_content > .subtitle{max-width: 700px; font-size: 2.8em;}
 .big.subtitle{font-size: 3em; max-width: 600px; text-align: left;}
@@ -63,6 +64,8 @@ a.pink:hover{color:#A7166A; }
 h2{font-family: "Montserrat"; font-weight:400; color:#000;}
 h1.page_title{margin-bottom:15px;}
 .page_title{line-height: 0.5; color:#231f20; }
+h1.menubar.page_title{margin-bottom: 0; font-size: 4em; margin-left:-20px; font-weight:400}
+.menubar > a{color:inherit;}
 #menuholder{cursor: pointer; padding-right:0;}
 #menuburger {color:#000; font-size: 3.5em;}
 .smoke #menuburger{ color:#fff;}
@@ -106,7 +109,7 @@ a.locator:hover{text-decoration: none}
   border: none;
   margin: 0em 0em 0em 0em;
   padding: 0em;
-  font-weight: bold;
+  font-weight: 400;
   line-height: 1.3;
   min-height: 1em;
   font-size: 2.6em;
@@ -162,7 +165,8 @@ div.footnotes {font-size: 0.8em; line-height: 100%; border-top:1px solid #aaa; p
   font-family: 'Open Sans', sans-serif}
 
 /*.backed{height:px; width:100%; z-index: -2; background-image: url({{site.baseurl}}../images/TESTONLYDONOTUSE.jpg); background-repeat: no-repeat; background-size: 200%;}*/
-.pinkslash{height:55px; margin:0 5px 0 0;}
+.pinkslash{height:51.3px; margin:0 0 0 0;}
+.slash.item{margin-left:-15px;}
 .slash{-webkit-text-stroke: 8px #231f20;}
 .pink.slash{-webkit-text-stroke: 8px #A7166A;}
 .white.slash{-webkit-text-stroke: 8px #fff;}
@@ -271,9 +275,12 @@ a.email {display: none; text-decoration: none; color: #A7166A;}
 .team.left.aligned.slice:hover > h2 span.pink.backed{background-color: #fff; color: #A7166A}
 .team.left.aligned.slice:hover > h3 span.pink.backed{background-color: #fff; color: #A7166A}
 iframe {margin-bottom:20px!important;}
-
+.hidden{display:none}
 
 @media (max-width: 699px){
+  .hidden{display:inherit; font-size: 4em; font-weight:400;}
+  .borderless.main.menu{margin-bottom:10px;}
+  h1.menubar.page_title{display: none}
  .special.topper{height: 400px;}
  .special.topper h1{font-size: 3em}
  .page.content h1{font-size: 2em}
@@ -293,7 +300,9 @@ iframe {margin-bottom:20px!important;}
 .modal .right.menu .fa-2{font-size: 30px; padding-top: 10px}
 h1.post.title{font-size:1.75em;}
 .team .card h3 {font-size:1em;}
-.team .content, .team .ui.bottom.attached.button, .board .content{display:none}
+.ui.team.cards > .card {box-shadow:none; border-radius:4px}
+.team .content, .team .ui.bottom.attached.button, .board .content, .board .ui.bottom.attached.button{display:none}
+.team img, .board img{border-radius:4px!important}
 .main.container{overflow:hidden}
 #footer .column{padding-left:0px!important;}
 }

@@ -4,9 +4,7 @@ title: Team
 ---
 <div class="ui three cards team">
  {% for page in site.pages%}
-       <!--Team Member-->
        {% if page.categories contains "staff" %}
-<!--style="background-image:url({{site.baseurl}}/images/{})"-->
 <div class="card">
     <a class="image" href="{{site.baseurl}}/team/{{page.locator}}">
       <img src="{{site.baseurl}}/images/{{page.locator}}.jpg">
@@ -26,7 +24,6 @@ title: Team
     </div>
   </div>
   {%endif%}
-<!--/Team Member-->
 {% endfor %}
 </div>
 
@@ -34,9 +31,7 @@ title: Team
 
 <div class="ui four cards board">
  {% for page in site.pages%}
-       <!--Team Member-->
        {% if page.categories contains "board" %}
-<!--style="background-image:url({{site.baseurl}}/images/{})"-->
 <div class="card">
     <a class="image" href="{{site.baseurl}}/team/{{page.locator}}">
       <img src="{{site.baseurl}}/images/{{page.locator}}.jpg">

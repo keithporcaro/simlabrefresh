@@ -1,23 +1,11 @@
 ---
 layout: page
-title: About Us
+title: About
 ---
-Social Impact Lab (SIMLab) uses inclusive technology to help organizations make systems and services more accessible, responsive, and resilient. We provide advice and hands-on support for organizations implementing technology projects around the world.
-
-We believe that by focusing on siloed services and concentrated pilots in optimal conditions, technology projects fail to fulfill their true potential in helping the most marginalized. Ultimately, a person’s marginalization is not caused by the mere failure of a single service. For the most vulnerable, systemic deficiencies in essential service and support structures cascade small failures into insurmountable ones. We believe that technology can help to solve this problem, by providing the base infrastructure to help organizations and services within a system to work better together; by removing obstacles that impede systemwide responsiveness and awareness; and by better connecting those who need help the most to those who can provide it.
-
-Our mission and ethos, coupled with deep experience, shape key principles that inform and guide the work we take on and how we carry it out:
-
-* Local ownership of technology is critical for a project's long-term viability;
-* Start from the problem and the context, not the technology;
-* Include as many people as possible by opening multiple lines of communication for engagement and feedback;
-* Develop a realistic funding model and exit plan;
-* Use existing platforms wherever possible, and contribute to the global toolkit where it’s not, building for replicability and respecting the real cost of software development, support and maintenance;
-* Make robust, appropriate efforts to assess and document outcomes and impact;
-* Share learning and methodologies under open licenses.
+SIMLab is a 501(c)(3)-exempt nonprofit that helps people and organizations use technology to build services and systems are that are accessible, responsive, and resilient. We believe that equitable services and systems are fundamental to building an inclusive society and empowering people to improve their lives.
 
 
-[<span class="pink backed">Our strategy for 2015-2016.</span>]({{site.baseurl}}/about/strategy)    
+[<span class="pink backed">Our strategy for 2015-2016.</span>]({{site.baseurl}}/about/strategy)
 [<span class="pink backed">Read about our services.</span>]({{site.baseurl}}/services)
 
 #Our History

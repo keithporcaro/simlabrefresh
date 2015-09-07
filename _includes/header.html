@@ -6,42 +6,30 @@
 
 <div class="ui fluid">
 
-	<div id="mainlogo" class="logo item"><a href="{{site.baseurl}}/"><img class="ui tiny image" src="{{site.baseurl}}/images/logo.svg"></a></div> 
-	<!--<div class="ui simple dropdown item">Who We Are
-		<div class="ui borderless menu">
-			    <a class="item" href="{{site.baseurl}}/about">About us</a>
-       		<a class="item" href="{{site.baseurl}}/team">Meet the team</a>
-        	<a class="item" href="{{site.baseurl}}/careers">Work with us</a>
-        </div>
-    </div>
+	<div id="mainlogo" class="logo item"><a href="{{site.baseurl}}/"><img class="ui tiny image" src="{{site.baseurl}}/images/logo.svg"></a></div>
 
-    <div class="ui simple dropdown item">What We Do
-		<div class="ui borderless menu">
-			    <a class="item" href="{{site.baseurl}}/services">Services</a>
-       		<a class="item" href="{{site.baseurl}}/projects">Projects</a>
-        	<a class="item" href="{{site.baseurl}}/resources">Resources</a>
-        </div>
-    </div>
-
-    <a class="ui item" href="{{site.baseurl}}/blog">Blog</a>-->
+	<!--	<div class="slash item"><img class="pinkslash" src="{{site.baseurl}}/images/pinkslash.svg"></div>-->
+{%if page.title%}
+		<div class="item"><h1 class="menubar page_title">
+			{% case page.categories %}
+			{% when 'projects' %}
+					/<a href="{{site.baseurl}}/blog">Projects</a>
+			{% when 'staff' %}
+				/Team
+			{% else %}
+			{% if page.categories contains 'blog'%}
+			/<a href="{{site.baseurl}}/blog">Blog</a>
+			{%else%}
+				/{{page.title}}
+				{%endif%}
+			{% endcase %}
+		</h1></div>
+	{%endif%}
   <div class = "right menu">
     <div class = "ui item" id="menuholder"><i id="menuburger" class="fa fa-bars fa-2"></i></div>
   </div>
 
-
-
-	<!--<div class="item">
-	<div class="ui breadcrumb">
-  <div class="divider"> / </div>
-  <a class="section">Blog</a>
-  <div class="divider"> / </div>
-  <div class="active section">{{page.title}}</div>
-  
-</div>
-
-	</div>-->
 </div>
 
 </div>
 </div>
-
