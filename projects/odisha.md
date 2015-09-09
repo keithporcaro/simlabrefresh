@@ -4,7 +4,7 @@ layout: project
 lead: Keith Porcaro
 status: active
 permalink: "/projects/odisha/"
-partner: Landesa
+partners: Landesa
 partner_link: http://landesa.org
 funder: Google.org
 funder_link: http://google.org

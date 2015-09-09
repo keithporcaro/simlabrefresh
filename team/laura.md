@@ -6,7 +6,7 @@ layout: person
 permalink: /team/laura/
 twitter: techladylaura
 pic: lwh.png
-image: laura_main.jpg
+image: laura_big.jpg
 categories: staff
 ---
 

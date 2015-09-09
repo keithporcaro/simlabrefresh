@@ -13,9 +13,9 @@
 		<div class="item"><h1 class="menubar page_title">
 			{% case page.categories %}
 			{% when 'projects' %}
-					/<a href="{{site.baseurl}}/blog">Projects</a>
+					/<a href="{{site.baseurl}}/projects">Projects</a>
 			{% when 'staff' %}
-				/Team
+				/<a href="{{site.baseurl}}/team">Team</a>
 			{% else %}
 			{% if page.categories contains 'blog'%}
 			/<a href="{{site.baseurl}}/blog">Blog</a>

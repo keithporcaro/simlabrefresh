@@ -5,6 +5,7 @@ role: Governance Project Director
 pic: aml.png
 twitter: SIMLabGov
 layout: person
+image: anna_big.jpg
 permalink: /team/anna/
 categories: staff
 tags:

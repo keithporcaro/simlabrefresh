@@ -13,9 +13,11 @@ SIMLab began life as a foundation with a mission to lower barriers to social cha
 
 [<span class="pink backed">The history of SIMLab and FrontlineSMS.</span>](history)
 
+<!--
 #Partners and Funders
 <div class="ui tiny images">
 {%for partner in site.data.partners%}
 <a href="http://{{partner.link}}"><img class="ui middle aligned image" src="{{site.baseurl}}/images/partners/{{partner.image}}"></a>
 {%endfor%}
 </div>
+-->

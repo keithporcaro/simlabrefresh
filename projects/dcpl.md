@@ -4,7 +4,7 @@ layout: project
 lead: Keith Porcaro
 status: active
 permalink: "/projects/dcpl/"
-partner: DC Public Library
+partners: DC Public Library
 partner_link: http://dcpl.org
 funder: Knight Foundation Prototype Fund
 funder_link: http://knightfoundation.org

@@ -2,6 +2,8 @@
 layout: newdefault
 title: Team
 ---
+<h1>Staff</h1>
+
 <div class="ui three cards team">
  {% for page in site.pages%}
        {% if page.categories contains "staff" %}
@@ -15,19 +17,21 @@ title: Team
         <a href="{{site.baseurl}}/team/{{page.locator}}">{{page.role}}</a>
       </div>
     </div>
-
-
+<!--
+{%if page.twitter%}
     <div class="ui bottom attached button">
 <a href="http://twitter.com/{{page.twitter}}">
       @{{page.twitter}}
     </a>
     </div>
+    {%endif%}
+  -->
   </div>
   {%endif%}
 {% endfor %}
 </div>
 
-<h1>Board</h1>
+<h1>Board of Directors</h1>
 
 <div class="ui four cards board">
  {% for page in site.pages%}
@@ -37,10 +41,10 @@ title: Team
       <img src="{{site.baseurl}}/images/{{page.locator}}.jpg">
     </a>
     <div class="content center aligned">
-      <a class="pink  center aligned" href="{{site.baseurl}}/team/{{page.locator}}"><h4 class="pink">{{page.title}}</h4></a>
-       <div class="staff meta center aligned">
+      <a class="pink  center aligned"><h4 class="pink">{{page.title}}</h4></a>
+       <!--<div class="staff meta center aligned">
         <a href="http://twitter.com/{{page.twitter}}">@{{page.twitter}}</a>
-      </div>
+      </div>-->
     </div>
 
   </div>

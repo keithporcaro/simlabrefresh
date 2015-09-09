@@ -53,7 +53,8 @@ h1.title{max-width: 100%}
 .pink.smoke{background-color: rgba(167, 22, 106, 0.2);}
 /*.home.special.topper{margin-bottom: 30px;}*/
 .home.special.topper{height:100%; margin-bottom: -80px;}
-.special.topper .subtitle{max-width: 400px; padding:5px 10px; margin-top: 0px;}
+.special.topper .subtitle{/*max-width: 400px;*/ padding:5px 5px; margin-top: 0px;}
+.topper_content .title{margin-bottom:0;}
 .home.topper_content > .subtitle{max-width: 700px; font-size: 2.8em;}
 .big.subtitle{font-size: 3em; max-width: 600px; text-align: left;}
 .title.container{background-image:url({{site.baseurl}}/images/testimage.jpg); height:300px;}
@@ -61,13 +62,13 @@ progress {position:fixed; top:15px;}
 .tt-menu{background-color: #fff; width: 100%;}
 .ui.transparent.input{background-color: #f6f6f6; border:none; width: 100%;}
 a.pink:hover{color:#A7166A; }
-h2{font-family: "Montserrat"; font-weight:400; color:#000;}
+h2{font-family: "Montserrat"; font-weight:400; color:#231f20;}
 h1.page_title{margin-bottom:15px;}
 .page_title{line-height: 0.5; color:#231f20; }
-h1.menubar.page_title{margin-bottom: 0; font-size: 4em; margin-left:-20px; font-weight:400}
+h1.menubar.page_title{margin-bottom: 0; font-size: 3.5em; margin-left:-20px; font-weight:400}
 .menubar > a{color:inherit;}
 #menuholder{cursor: pointer; padding-right:0;}
-#menuburger {color:#000; font-size: 3.5em;}
+#menuburger {color:#231f20; font-size: 3.5em;}
 .smoke #menuburger{ color:#fff;}
 #menuburger:hover{color:#A7166A;}
 
@@ -75,6 +76,7 @@ h1.menubar.page_title{margin-bottom: 0; font-size: 4em; margin-left:-20px; font-
 .ui.card>.content>a.header, .ui.cards>.card>.content>a.header{color:#fff!important;}
 .ui.card>.content>a.header:hover, .ui.cards>.card>.content>a.header:hover{color:#fff!important;}
 .ui.card>.content>a.header>.pink.backed:hover{color: #fff!important}
+/*.ui.card>.card, .ui.cards>.card {box-shadow:none!important}*/
 .ui.modal .white.list a{color: #fff!important; font-size: 1.75em; font-weight: 200;}
 .white.list {color: #fff!important; font-weight: 200;}
 .ui.modal .subtitle{font-size: 3em; font-weight: 200;}
@@ -197,7 +199,7 @@ img.right.blogfloated{float:right; padding-left: 10px;}
 
 .branded{font-size: 3.9em; line-height: 100%; font-family: "Montserrat", sans-serif;}
 
-
+.ui.cards.team {margin-bottom:30px;}
 a.high{color:inherit;}
 h1.tag{line-height: 1.3; margin: 0.5em 0 0 0;}
 
@@ -226,6 +228,17 @@ h2.list:last-child{margin-top: 0px}
 .bar.logo{  height:50px; width:60px; margin:-5px 10px 0 0; float:left;
 }
 
+.imagecredit{
+color: #FFF;
+position: absolute;
+right: 5px;
+bottom: 5px;
+font-size: 10px;
+background-color: rgba(68, 68, 68, 0.5);
+padding: 1px 3px;
+font-style: normal;
+}
+
 .resilience{background-color: #449E8D !important;}
 .legal{background-color: #252860 !important;}
 .governance{background-color: #D59020 !important}
@@ -251,7 +264,7 @@ background-size:100%; background-repeat: no-repeat;}
 
 .ui.segment.bottomless{margin-bottom: 0;}
 body {font-family: "Open Sans", sans-serif;}
-h1{font-family:"Montserrat", sans-serif; font-weight: 700;}
+h1{font-family:"Montserrat", sans-serif; font-weight: 400; font-size: 2.5em}
 
 a.sector{text-decoration: none;}
 a.sector:hover > .sector{background-color: #A7166A !important}
@@ -276,10 +289,11 @@ a.email {display: none; text-decoration: none; color: #A7166A;}
 .team.left.aligned.slice:hover > h3 span.pink.backed{background-color: #fff; color: #A7166A}
 iframe {margin-bottom:20px!important;}
 .hidden{display:none}
-
+ .topper_content h1{font-weight:700}
 @media (max-width: 699px){
   .hidden{display:inherit; font-size: 4em; font-weight:400;}
   .borderless.main.menu{margin-bottom:10px;}
+  .ui.tiny.image{width: 68.571428571px;}
   h1.menubar.page_title{display: none}
  .special.topper{height: 400px;}
  .special.topper h1{font-size: 3em}
