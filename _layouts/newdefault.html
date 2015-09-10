@@ -42,13 +42,14 @@
           {% elsif page.categories contains 'projects'%}
             <div class="container">
 
-            <h1 class="page_title blogpost branded">{{page.title}}{%if page.subtitle%}: {{page.subtitle}}{%endif%}</h1>
+            <h1 class="page_title branded">{{page.title}}{%if page.subtitle%}: {{page.subtitle}}{%endif%}</h1>
 
           </div>
+          {% elsif page.title == 'Team'%}
 
         {% else %}
           <div class="container">
-            <h1 class="page_title blogpost branded hidden">{{page.title}}</h1>
+            <h1 class="page_title branded hidden">{{page.title}}</h1>
           </div>
         {% endif %}
     {% endif %}

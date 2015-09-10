@@ -4,6 +4,7 @@ title:  "Paper Houses, Digital Homes"
 date:   2015-07-23 14:43:00
 categories: blog
 author: Keith Porcaro
+project: odisha
 ---
 "All the land records against this wall have been scanned." Stacks of land records&mdash;browning paper tied together with string&mdash;lined the walls, the tables, the shelves. White receipts with markered labels flopped out of some of them; processed and scanned. The [tahasildar](https://en.wikipedia.org/wiki/Tahasildar) beamed, visibly proud at the progress his office had made. Still, stacks of titles remained, and still more remained unrecorded. And any new records would also be delivered on paper, awaiting digitization.
 

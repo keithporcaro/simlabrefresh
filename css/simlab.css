@@ -126,7 +126,7 @@ a.locator:hover{text-decoration: none}
 .page.content a{
   color: #A7166A;
 }
-
+.page_title.blogpost.branded{font-size:3em}
 .blogpost > a{
   color:#000;
   text-decoration: none;
