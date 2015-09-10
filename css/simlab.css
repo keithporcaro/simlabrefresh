@@ -89,7 +89,7 @@ h1.menubar.page_title{margin-bottom: 0; font-size: 3.5em; margin-left:-20px; fon
 
 a{text-decoration: none;}
 a:hover{text-decoration: underline;}
-body{background-color: #f6f6f6; color:#231f20;}
+body{background-color: #fafaf6; color:#231f20;}
 .ui.menu{background-color:rgba(246,246,246,0); border:none; box-shadow: none; outline: none;}
 input:focus{outline-style:none;
 box-shadow:none;
