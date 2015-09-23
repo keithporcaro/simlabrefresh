@@ -1,0 +1,13 @@
+.participants > img{
+  height:60px;
+  padding: 0px 20px 0 0;
+  width: inherit;
+}
+.plus{
+  font-size:3rem;
+  padding-bottom: 10px;
+}
+article{
+  margin-top:0;
+  padding-top:0
+}
