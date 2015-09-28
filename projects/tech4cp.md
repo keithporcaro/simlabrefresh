@@ -9,7 +9,7 @@ partner_link:
 funder: European Commission
 funder_link:
 locator: tech4cp
-tease: dcpl_tease.jpg
+tease: policing_tease.jpg
 hook: How do ICTs mitigate or exacerbate the risks confronting violence-affected communities?
 categories: projects
 ---

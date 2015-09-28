@@ -1,7 +1,7 @@
 ---
 title: Keith Porcaro
 locator: keith
-role: Legal Project Director
+role: Head of Technology and Development, General Counsel
 pic: kap.png
 twitter: keithporcaro
 categories: staff

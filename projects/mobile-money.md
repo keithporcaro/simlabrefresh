@@ -8,7 +8,7 @@ funders: UK Government
 funder_link: https://www.gov.uk/government/organisations/department-for-international-development
 locator: mobile-money
 image: dfid.jpg
-tease: dcpl_tease.jpg
+tease: dfid_tease.jpg
 hook: How can mobile money help Kenyan organizations in the last mile?
 categories: projects
 ---

@@ -1,15 +1,2 @@
-<script>
-
-
-$('.ui.basic.modal')
-  .modal()
-;
-
-  $("#menuholder").on("click", function(e){
-    $('.ui.basic.modal').modal('show')
-  });
-
-  $("#menuclose").on("click", function(e){
-    $('.ui.basic.modal').modal('hide')
-  });
-</script>
+<script src="{{js/vendor/jquery.js | prepend: site.baseurl}}"></script>
+<script src="{{js/foundation.min.js | prepend: site.baseurl}}"></script>

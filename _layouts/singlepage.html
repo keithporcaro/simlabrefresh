@@ -1,0 +1,189 @@
+<html>
+  {% include minimalhead.html %}
+    <body>
+    {%include modalmenu.html%}
+    <!--first top-->
+    <div class="home special topper" style="background-image: url({{site.baseurl}}/images/testimage2.jpg); background-attachment:fixed">
+      <div class="smoke">
+        <div class="container">
+          <div class="ui borderless menu">
+            <div id="mainlogo" class="logo item"><a href="{{site.baseurl}}/"><img class="ui tiny image" src="{{site.baseurl}}/images/logo.svg"></a></div>
+              <a class="item">What We Do</a>
+              <a class="item">Selected Projects</a>
+              <a class="item">Who We Are</a>
+              <a class="item">Blog</a>
+          </div>
+          <div class="home topper_content alternate">
+            <h1><span class="white">We are SIMLab.</span></h1>
+            <h2 class="subtitle white">We help people use technology to build equality.</h2>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <section class="container">
+    <p class="about">SIMLab helps empower people to bridge the gap between information and action. We work with organizations to uncover and share honest, difficult stories and lessons from technology projects of all sizes, and develop insights and best practices from every sector that technology touches. We collect, crystallize, and publicly share these learnings, and help people apply these learnings through consultations, workshops, applied research, and prototypes. To get there, we combine ten years of institutional knowledge implementing technology projects in the world’s most difficult contexts with a team of subject matter experts and technologists.</p>
+    <p class="about">A 501(c)(3)-exempt organization, SIMLab helps our clients better connect with the people they serve, identify accessibility gaps in systems, and maximize the potential of technology to build societies that are equitable and inclusive. </p>
+    <p class="about"><a href="{{site.baseurl}}/about/strategy"><span class="pink backed">Read our strategy for 2015-2016.</span></a></p>
+    </section>
+
+    <section class="">
+      <h2 style="background-image: url('/simlabrefresh/images/post_images/first-resort.jpg'); height: 300px; margin: 50px 0; padding-top:100px; color:#fff; background-attachment: fixed; background-repeat: no-repeat; background-size:cover;"><a href="{{site.baseurl}}/"><img class="ui tiny image" style="display: inline-flex; padding-bottom: 15px; margin-right: 10px;"  src="{{site.baseurl}}/images/logo.svg"></a>/ WHAT WE DO</h2>
+      <div class="ui three column stackable grid container">
+        <div class="column">
+          <div class="ui segment">
+            <h2>Workshops</h2>
+            <p>We collect and develop toolkits, case studies, and guides and present them on public platforms that maximize their shareability and utility to others hoping to use technology for social change.</p>
+          </div>
+          <div class="ui segment">
+            <h2>Context Assessment &amp; Scoping</h2>
+            <p>We collect and develop toolkits, case studies, and guides and present them on public platforms that maximize their shareability and utility to others hoping to use technology for social change.</p>
+          </div>
+        </div>
+        <div class="column">
+          <div class="ui segment">
+            <h2>Design &amp; Prototyping</h2>
+            <p>We collect and develop toolkits, case studies, and guides and present them on public platforms that maximize their shareability and utility to others hoping to use technology for social change.</p>
+          </div>
+          <div class="ui segment">
+            <h2>Inclusive Technology</h2>
+            <p>We can train your team on how to use existing technologies to connect with and collect feedback from clients, and help you make sense of the data.</p>
+          </div>
+        </div>
+        <div class="column">
+          <div class="ui segment">
+            <h2>Resource Development</h2>
+            <p>We collect and develop toolkits, case studies, and guides and present them on public platforms that maximize their shareability and utility to others hoping to use technology for social change.</p>
+          </div>
+          <div class="ui segment">
+            <h2>Learning &amp; Documentation</h2>
+            <p>We'll help you go beyond the case study; highlighting the practical lessons of a project that inhibit or contribute to its scalability and replicability.</p>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+
+    <section class="projects">
+      <h2 style="background-image: url('/simlabrefresh/images/do.jpg'); height: 250px; margin: 50px 0 0 0; padding-top:100px; color:#fff; background-attachment: fixed; background-repeat: no-repeat; background-size:cover;">SELECTED PROJECTS</h2>
+      <div class="ui equal width padded grid">
+        {% for page in site.pages%}
+              <!--Project-->
+         {% if page.categories contains "projects" and page.status == "active" %}
+       <!--style="background-image:url({{site.baseurl}}/images/{})"-->
+      <div class="column">
+        <div class="ui dimmable image">
+          <div class="ui dimmer">
+            <div class="content">
+              <div class="center">
+                <h3><a class="white" href="{{site.baseurl}}/projects/{{page.locator}}">{{page.hook}}</a></h3>
+              </div>
+            </div>
+          </div>
+           <img class="ui image project" src="{{site.baseurl}}/images/{{page.tease}}">
+        </div>
+      </div>
+       <!--  <div class="content">
+             <a class="header" href="{{site.baseurl}}/team/{{page.locator}}"><span class="pink backed">{{page.title}}</span></a>
+             <div class="staff meta">
+               <a href="{{site.baseurl}}/team/{{page.locator}}">{{page.funder}}</a>
+             </div>
+           </div>-->
+         {%endif%}
+       {% endfor %}
+
+      </div>
+    </section>
+
+
+    <section class="container team">
+      <h2>WHO WE ARE</h2>
+
+      <div class="ui four doubling cards team">
+       {% for page in site.pages%}
+             {% if page.categories contains "staff" %}
+      <div class="card">
+          <a class="image" href="{{site.baseurl}}/team/{{page.locator}}">
+            <img src="{{site.baseurl}}/images/{{page.locator}}.jpg">
+          </a>
+          <div class="content">
+            <a class="pink" href="{{site.baseurl}}/team/{{page.locator}}"><h3 class="pink">{{page.title}}</h3></a>
+            <div class="staff meta">
+              <a href="{{site.baseurl}}/team/{{page.locator}}">{{page.role}}</a>
+            </div>
+          </div>
+        </div>
+        {%endif%}
+      {% endfor %}
+      </div>
+      <h3>JOB OPENINGS</h3>
+      {% for page in site.pages%}
+      	{% if page.categories contains "jobs" %}
+        <h3 style="margin-top:10px"><a href="{{site.baseurl}}{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h3>
+      	{% endif %}
+      {% endfor %}
+      <p> Don't see the job you want? Send us a CV and a letter telling us why we desperately need you to <a href="mailto:jobs@simlab.org">jobs@simlab.org</a></p>
+    </section>
+
+<!--
+    <section class="partners container">
+      <h2>PARTNERS</h2>
+      <div class="ui equal width center aligned eight column grid">
+      {%for partner in site.data.partners%}
+      <div class="column">
+   <a class="ui middle aligned" href="http://{{partner.link}}">
+        <img class="desaturate ui middle aligned small image" src="{{site.baseurl}}/images/partners/{{partner.image}}">
+     </a>
+      </div>
+      {%endfor%}
+
+      </div>
+      </div>
+    </section>
+-->
+
+
+    <section class="blog">
+<h2 style="background-image: url('/simlabrefresh/images/blog copy.jpg'); height: 250px; margin: 50px 0 50px 0; padding-top:100px; color:#fff; background-attachment: fixed; background-repeat: no-repeat; background-size:cover;">LATEST FROM THE BLOG</h2>
+<div class="container">
+    {%for post in site.posts limit:3%}
+    <h2 class="post title"><a href="{{site.baseurl}}{{post.url}}">{{post.title}}{% if post.subtitle %}: {{post.subtitle}}{%endif%}</a></h2>
+
+    <p class="">
+    {%if post.author%}
+    {% assign name = post.author | split: ' ' %}
+    <a href="{{site.baseurl}}/team/{{name.first | downcase}}">{{post.author}}</a>
+    {%endif%}
+    {% if post.authors %}
+          {% for author in post.authors %}
+            {% assign name = author | split: ' ' %}
+            <a href="{{site.baseurl}}/team/{{name.first | downcase}}">{{ author }}</a>{% if author != post.authors.last %}<span class="pink">, </span>{% endif %}
+          {% endfor %}
+     {% endif %}
+     | {{ post.date | date: "%-d %B %Y, %I:%M%p " }}</p>
+    <p>
+    {{post.excerpt|| remove: '<p>' | remove: '</p>' }} <a class="pink" href="{{site.baseurl}}{{post.url}}">&gt;&gt;</a></p>
+    {% if post.title != site.posts.last.title %}
+    <div class="ui hidden divider"></div>
+    {%else%}
+    <div class="ui hidden divider"></div>
+    {%endif%}
+
+    {%endfor%}
+    <h3 class="right"><a href="/blog">ARCHIVE&gt;&gt;</a></h3>
+  </div>
+    </section>
+
+
+
+    {%include minifooter.html %}
+    {%include javascript.html%}
+    {%include tracking.html%}
+    <script>$('.dimmable').dimmer({
+      on: 'hover'
+    });</script>
+  </body>
+</html>
