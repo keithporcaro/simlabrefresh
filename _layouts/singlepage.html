@@ -5,6 +5,8 @@
     <!--first top-->
     <div class="home special topper" style="background-image: url({{site.baseurl}}/images/testimage2.jpg); background-attachment:fixed">
       <div class="smoke">
+        {% include header.html %}
+
         <div class="container">
           <div class="ui borderless menu">
             <div id="mainlogo" class="logo item"><a href="{{site.baseurl}}/"><img class="ui tiny image" src="{{site.baseurl}}/images/logo.svg"></a></div>
@@ -174,7 +176,6 @@
 
 
     {%include minifooter.html %}
-    {%include javascript.html%}
     {%include tracking.html%}
     <script>$('.dimmable').dimmer({
       on: 'hover'

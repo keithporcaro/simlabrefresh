@@ -1,43 +1,37 @@
 
 <!--Main Menu-->
 <div class="container">
-<div class="ui borderless menu">
+<!--<div class="ui borderless menu">
   <div id="mainlogo" class="logo item"><a href="{{site.baseurl}}/"><img class="ui tiny image" src="{{site.baseurl}}/images/logo.svg"></a></div>
-	
+
 
 </div>
-</div>
+</div>-->
 
-<!--
-<div class="ui borderless two item main menu">
-<div class="container">
-
-
-<div class="ui fluid">
+<div class="ui borderless main menu">
 
 	<div id="mainlogo" class="logo item"><a href="{{site.baseurl}}/"><img class="ui tiny image" src="{{site.baseurl}}/images/logo.svg"></a></div>
 
-{%if page.title%}
-		<div class="item"><h1 class="menubar page_title">
-			{% case page.categories %}
-			{% when 'projects' %}
-					/<a href="{{site.baseurl}}/projects">Projects</a>
-			{% when 'staff' %}
-				/<a href="{{site.baseurl}}/team">Team</a>
-			{% else %}
-			{% if page.categories contains 'blog'%}
-			/<a href="{{site.baseurl}}/blog">Blog</a>
-			{%else%}
-				/{{page.title}}
-				{%endif%}
-			{% endcase %}
-		</h1></div>
-	{%endif%}
+	{%if page.title%}
+			<div class="item"><h1 class="menubar page_title">
+				{% case page.categories %}
+				{% when 'projects' %}
+						/<a href="{{site.baseurl}}/projects">Projects</a>
+				{% when 'staff' %}
+					/<a href="{{site.baseurl}}/team">Team</a>
+				{% else %}
+				{% if page.categories contains 'blog'%}
+				/<a href="{{site.baseurl}}/blog">Blog</a>
+				{%else%}
+					/{{page.title}}
+					{%endif%}
+				{% endcase %}
+			</h1></div>
+		{%endif%}
   <div class = "right menu">
     <div class = "ui item" id="menuholder"><i id="menuburger" class="fa fa-bars fa-2"></i></div>
   </div>
 
-</div>
 
 </div>
-</div>-->
+</div>

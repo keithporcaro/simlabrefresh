@@ -19,8 +19,23 @@
         </div>
       </div>
     </div>
+
+    <section class="container">
+    <p class="about">Technology can transform social change work, bridging gaps and opening doors&mdash;or it can widen the digital divide and entrench inequality. SIMLab works with organizations to use inclusive, accessible technologies, from radio to social media, from SMS to Whatsapp, to deliver services, share information, and communicate with communities. We help uncover and share honest, difficult lessons from technology projects of all sizes, and develop insights and best practices from every sector. We help people apply these learnings through consultations, workshops, applied research, and prototypes. SIMLab combines ten years of institutional knowledge implementing technology projects in the world’s most difficult contexts with a team of subject matter experts and technologists.</p>
+    <p class="about">A 501(c)(3)-exempt organization, SIMLab helps our clients better connect with the people they serve, identify accessibility gaps in systems, and maximize the potential of technology to build societies that are equitable and inclusive.</p>
+    </section>
+<script>
+    +$('.ui.basic.modal')
+   .modal()
+    ;
+
+
+
+    $("#menuholder").on("click", function(e){
+      $('.ui.basic.modal').modal('show')
+  })
+</script>
     {%include footer.html %}
-    {%include javascript.html%}
     {%include tracking.html%}
   </body>
 </html>

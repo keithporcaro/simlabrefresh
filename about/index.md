@@ -1,17 +1,18 @@
 ---
 layout: page
-title: About
+title: About Us
 ---
-SIMLab is a 501(c)(3)-exempt nonprofit that helps people and organizations use technology to build services and systems are that are accessible, responsive, and resilient. We believe that equitable services and systems are fundamental to building an inclusive society and empowering people to improve their lives.
+Technology can transform social change work, bridging gaps and opening doors&mdash;or it can widen the digital divide and entrench inequality. SIMLab works with organizations to use inclusive, accessible technologies, from radio to social media, from SMS to Whatsapp, to deliver services, share information, and communicate with communities. We help uncover and share honest, difficult lessons from technology projects of all sizes, and develop insights and best practices from every sector. We help people apply these learnings through consultations, workshops, applied research, and prototypes. SIMLab combines ten years of institutional knowledge implementing technology projects in the world’s most difficult contexts with a team of subject matter experts and technologists.
+
+A 501(c)(3)-exempt organization, SIMLab helps our clients better connect with the people they serve, identify accessibility gaps in systems, and maximize the potential of technology to build societies that are equitable and inclusive.
 
 
 [<span class="pink backed">Our strategy for 2015-2016.</span>]({{site.baseurl}}/about/strategy)
 [<span class="pink backed">Read about our services.</span>]({{site.baseurl}}/services)
 
-#Our History
-SIMLab began life as a foundation with a mission to lower barriers to social change through mobile. It grew out of the [FrontlineSMS](http://www.frontlinesms.com) project, founded by Ken Banks in 2005. With more than 200,000 downloads in 199 territories, FrontlineSMS helps tens of thousands of organizations reach tens of millions of people, customizing and owning their own content, engagement, and relationships in sectors ranging from health, to financial services, to conservation. In December 2014, we spun FrontlineSMS off into a separate social enterprise.
+##How to find us
+Our main office is located at the OpenGov Hub. We also have a desk at Civic Hall. The best way to get in touch is via email. Drop us a line at hello@simlab.org
 
-[<span class="pink backed">The history of SIMLab and FrontlineSMS.</span>](history)
 
 <!--
 #Partners and Funders
