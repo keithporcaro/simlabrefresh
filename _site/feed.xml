@@ -1,13 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Social Impact Lab</title>
-    <description>We are Social Impact Lab. We use inclusive technologies to build systems and services that are more accessible, responsive, and resilient.</description>
-    <link>/simlabrefresh/</link>
-    <atom:link href="/simlabrefresh/simlabrefresh/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 31 Dec 2015 10:24:38 -0500</pubDate>
-    <lastBuildDate>Thu, 31 Dec 2015 10:24:38 -0500</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <title>SIMLab</title>
+    <description>We help organizations use technology to do better.</description>
+    <link>http://simlab.org/</link>
+    <atom:link href="http://simlab.org/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Our brown bag lunch and podcast: Mobile money in the last mile</title>
+        <description>&lt;p&gt;The discussion is available for download as a podcast &lt;a href=&quot;https://itunes.apple.com/us/podcast/simlab-podcast/id1056814879?mt=2&quot;&gt;via iTunes&lt;/a&gt; or &lt;a href=&quot;https://soundcloud.com/socialimpactlab/only-tough-options-1&quot;&gt; Soundcloud&lt;/a&gt; , and we expect the insights gained will be valuable for the international development and tech community for practitioners and beyond. Releasing the event as a podcast is an experiment in providing resources for the community that live on beyond the work itself—let us know what you think in the comments!&lt;/p&gt;
+
+&lt;h2 id=&quot;mobile-money-in-rural-low-infrastructure-communities&quot;&gt;Mobile money in rural, low infrastructure communities&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/images/post_images/sacco.jpg&quot; alt=&quot;sacco&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The event marked the release publication of our case study titled:&lt;a href=&quot;/files/SIMLab Case Study - Mobile money in the last mile.pdf&quot;&gt;SIMLab’s experience in Kenya: Implementing a mobile money management tool and training approach in the last mile&lt;/a&gt; It covers the first direct technology implementation project ever carried out by SIMLab’s first ever direct project implementation, and it and the project were funded by the Global Poverty Action Fund of the UK Department for International Development. SIMLab ordinarily supports other organizations to use inclusive technology in their work, and usually works with local partners together with other actors from the international community. For this project, we built on our presence in Nairobi to work directly with Kenyan organizations, and had the opportunity therefore to gather learning and data. Needless to say, there were numerous lessons learned throughout the two-year grant, which comes to an end in December 2015.&lt;/p&gt;
+
+&lt;p&gt;The anticipated outcome of the DFID project is to reduce poverty in low-income areas of Kenya by providing mobile money management tools to organizations and small to medium-sized businesses (SMEs) who had not yet taken up mobile money. At the outset, the grant was inspired by our desire to build better ‘middleware’ to support these types of organizations to begin using mobile money, based on FrontlineSMS, and called ‘Payments.’ During the course of the grant, our relationship to the software shifted slightly as SIMLab spun out FrontlineSMS as a for profit. This allowed our definition of success to broaden from being product-centric to process- and learning-focused, and we were able to support more mobile money platforms including those provided by the operator, Safaricom.&lt;/p&gt;
+
+&lt;p&gt;The DFID GPAF project was extremely valuable to SIMLab as it allowed us to interface directly with the tools we and FrontlineSMS created, and more importantly the tool users (organizations) and the people the tool was meant to affect. The relationship gave us the opportunity to gain a deep insight into the realities and unique contexts of last-mile organizations as we guided them through the process of adopting mobile money. Through this high-touch work, which included organizational development and strategy, communications, and technology training, we observed the barriers encountered by organizations in operationalizing mobile money. We worked with 40 organizations throughout the grant whom we expected to go through similar hurdles, successes and timelines in their journey to becoming cashless. What we found, and reported in our case study, was that the barriers to adoption were far higher than we’d thought, and the requirements of a successful project in terms of support and staff times were similarly large.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-panel&quot;&gt;The Panel&lt;/h2&gt;
+
+&lt;p&gt;Our findings, while sobering, were much less controversial for the other panelists than we’d imagined. Overall, we agree that even in a country where 90% of households have access to mobile money, introducing mobile money into businesses and operationalizing it, as Leo Tobias rightly argues, is “terribly complicated.” This narrative is typically overpowered in much of the writing about mobile money, by the one which casts Kenya as a mobile digital economy, the ‘Silicon Savannah’, and a country where physical cash is something of the past. The success stories we read in news articles and international development blog posts accurately describe the prevalence of mobile money, but the use cases they discuss are often derived from the ‘low hanging fruit’—the urban middle class, where mobile money is indeed common, convenient and accessible. What our case study uncovers is the story that’s less often told: that of the struggle, the vast amount of human interaction, motivation and problem-solving required to get mobile money adopted in so-called ‘last-mile’ communities—places where infrastructure, technical capacity and the agent network are weak.&lt;/p&gt;
+
+&lt;h2 id=&quot;essential-learnings&quot;&gt;Essential learnings&lt;/h2&gt;
+
+&lt;h3 id=&quot;this-work-is-high-touch&quot;&gt;This work is high-touch&lt;/h3&gt;
+&lt;p&gt;During the panel, both Grameen and SIMLab described the vast amount of training and hands-on work that is required to integrate mobile money systems with everyday operations in last-mile organizations. We have seen that the outcome of simply supplying software platforms with little support tends to be misuse, confusion and ultimately a failure to shift systems and sustainably implement new technologies. However, the organizational development work needed to break down barriers to adoption is unfashionable, and contradicts the popular view (and desire) which sees technology innovation as low-cost and exponentially scalable. The organizational development needs of partners are, in our experience, often overlooked and under-budgeted.&lt;/p&gt;
+
+&lt;h3 id=&quot;people-matter&quot;&gt;People matter&lt;/h3&gt;
+&lt;p&gt;Motivation, trust, and comfort with change all matter and without tailoring services and training to fulfill the needs of people, adoption will be stifled. SIMLab has had success by identifying and empowering local changemakers who have been able to significantly propel adoption and trust.  A local advocate and peer support network can support organizations and community through change and increase resilience over time.&lt;/p&gt;
+
+&lt;h3 id=&quot;software-is-tough-hardware-is-tough-markets-are-tough&quot;&gt;Software is tough, hardware is tough, markets are tough&lt;/h3&gt;
+&lt;p&gt;All four panelists spoke to the challenges of the mobile money companies and more broadly, about mobile network operators in frontier markets as being difficult, if not impossible to work with. Sean McDonald described Frontline’s long-term mode of engagement, helping organizations to avoid working directly with mobile network operators (MNOs) by using consumer accounts, effectively, as APIs. The lack of standardization across handset manufacturers and Android operating systems make third-party development an overwhelming challenge here, which likely has an effect on the low number of value-added services (VAS) in the mobile money space, limiting competition to the detriment of users.&lt;/p&gt;
+
+&lt;h3 id=&quot;shifting-funding-responsibilities&quot;&gt;Shifting funding responsibilities&lt;/h3&gt;
+&lt;p&gt;Kay McGowan responded to the question of what can be done to translate success stories of the urban middle class to the last mile, Kay argues that greater support by the public sector is what the last mile needs. Where economic incentive is lacking for MNOs, for example in developing APIs and pushing agent networks out to the last mile, the public sector has a responsibility to step in, to provide the infrastructure, regulations and governance that would stimulate the business lines that have become infrastructure. All panelists echoed Sean’s statement that underserved areas need to be disproportionately supported in the high-touch interventions they require for successful adoption, but that costs money, time and largely, a realization from donors that it’s a priority.&lt;/p&gt;
+
+&lt;h3 id=&quot;we-just-arent-there-yet-but-its-where-were-heading&quot;&gt;We just aren’t there yet, but it’s where we’re heading&lt;/h3&gt;
+&lt;p&gt;Success stories in tough areas are few and far between, but they are possible and we’re quickly learning what it takes to achieve success in challenging contexts. We are building up the experience and knowledge required to make this type of work more reasonable and effective. We as a sector need to continue to state the problems clearly and voice our disenchantment with the status quo. To those of us on the ground, it may seem like we’re still far from winning—but compared to five years ago we’ve made considerable progress. Success stories in urban areas were front page stories, now they’re commonplace; progress is happening, but it happens in pockets and in waves, and we must continue to demand that funding and time go to vulnerable communities.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-future&quot;&gt;The future?&lt;/h2&gt;
+
+&lt;p&gt;For us at SIMLab, the Brown Bag Lunch affirmed our approach and conviction that the last mile needs special treatment—and was a fantastic opportunity to share our experiences with the larger development community.  It was reassuring to see we are not the only ones experiencing difficulties in last mile change management, and that these problems are very much on the minds of international organizations many of us in the space. The insights gained on the type of work the development sector needs to push forward in order for us to reach a point where appropriate solutions are available in challenging contexts were promising and seemed tangible.  There are ambitious goals on the horizon of the international development community: the World Bank is aiming at universal financial access by 2020, and to reach this goal international development agencies and development banks are going to have to pay a disproportionate amount of attention to building infrastructure, regulatory conditions and governance in underdeveloped geographies and markets.&lt;/p&gt;
+
+&lt;p&gt;For more insights and to hear the discussion for yourself, tune in to our &lt;a href=&quot;https://itunes.apple.com/us/podcast/simlab-podcast/id1056814879?mt=2&quot;&gt;iTunes podcast&lt;/a&gt;&lt;a href=&quot;https://soundcloud.com/socialimpactlab/only-tough-options-1&quot;&gt;or on Soundcloud!&lt;/a&gt; And don’t forget to let us know what you think.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Nov 2015 04:07:00 -0500</pubDate>
+        <link>http://simlab.org/blog/2015/11/09/mobile-money-in-the-last-mile/</link>
+        <guid isPermaLink="true">http://simlab.org/blog/2015/11/09/mobile-money-in-the-last-mile/</guid>
+      </item>
+    
+      <item>
+        <title>Thoughts on our ethos for FrontlineSMS&#39; tenth birthday</title>
+        <description>&lt;p&gt;Happy Halloween!&lt;/p&gt;
+
+&lt;p&gt;The 31st October isn’t just your annual opportunity to eat your weight in sweets - it’s also the official birthday of &lt;a href=&quot;http://www.frontlinesms.com&quot;&gt;FrontlineSMS&lt;/a&gt;, and this year marks the tenth anniversary of its first release!&lt;/p&gt;
+
+&lt;p&gt;The award-winning SMS management tool was the core of SIMLab’s work for our first seven years - but the first version of the software was actually released for the first time &lt;a href=&quot;http://www.frontlinesms.com/2011/10/31/back-to-the-future-17-things-you-might-not-know-about-frontlinesms/&quot;&gt;on this day in 2005&lt;/a&gt;. In 2007, Ken Banks, our founder, registered what became Social Impact Lab with the US Internal Revenue Service, as the institutional home to receive the foundation funding that he had raised to build a new website and version 1 of the software. In 2014, we &lt;a href=&quot;http://simlab.org/blog/2014/09/02/welcome-to-SIMLab/&quot;&gt;spun out FrontlineSMS as a new for-profit&lt;/a&gt;, and today they release &lt;a href=&quot;http://www.frontlinesms.com/2015/10/30/the-big-1-o/&quot;&gt;two new tools, focussed on campaigns and emergency reporting&lt;/a&gt;, capping off an amazing first year as a company and celebrating their entry into double digits.&lt;/p&gt;
+
+&lt;p&gt;When I joined FrontlineSMS in 2010, Ken honoured me and the other staff with a dizzying amount of trust and confidence. He allowed us to embark on an ambitious redesign of the software just weeks after Sean and I started to lead our operations; gave us responsibility for raising funds and developing a new business model; and trusted us from the beginning to represent the organization and the FrontlineSMS ethos at events and with partners. He calls it his ‘&lt;a href=&quot;http://www.frontlinesms.com/2012/05/29/a-transition-announcement-from-our-founder-ken-banks/&quot;&gt;Rolling Stones School of Management&lt;/a&gt;’, and the opportunity it afforded me changed the course of my career.&lt;/p&gt;
+
+&lt;p&gt;Perhaps the only non-negotiable requirement he had of us all was that we strive every day to fulfill the &lt;a href=&quot;http://www.frontlinesms.com/2011/10/17/six-years-on-reinforcing-our-core-values/&quot;&gt;core values&lt;/a&gt; that had informed the FrontlineSMS project from the beginning:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Putting users ahead – and at the heart – of everything we do, striving for a positive interaction with anyone who comes into contact with our work, aiming to inspire others whilst respecting a diversity of views, always reaching for better, fostering a positive “anything is possible” attitude, making sure we continue to put people – and their needs – ahead of the aspirations of the tech community, managing expectations both internally and for our users, and finally – constantly reminding ourselves why we do what we do.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;‘Focus on the users and all else will follow’ was one of the core mantras that I took from my time working directly with Ken. Every day until some time in 2013, I (or &lt;a href=&quot;https://twitter.com/Flo_Sci&quot;&gt;Florence&lt;/a&gt;, or &lt;a href=&quot;https://about.me/silakisoso&quot;&gt;Sila&lt;/a&gt;, or Ken himself) would log into our Ning support site, Twitter and Facebook before we checked our email, and the rule was that all support requests got a reply within 24 hours, except at weekends. FrontlineSMS is still notable for its &lt;a href=&quot;https://frontlinecloud.zendesk.com/home&quot;&gt;excellent user support&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For the past year at SIMLab, it’s been very clear to me how core those values still are to our organization. Instead of being embodied in a software platform, they come through in the projects we take on, the work we put into them, our critiques and conversations; the writing and guides we share, and the commitment of our team, so evident to me every day. Indeed, those values were at the heart of the decision to spin out FrontlineSMS - we felt we could better serve both the users of the software and the partners we worked with if we divided our software development team and our growing consulting and policy practice. At the moment we’re working on a clear written set of principles that will guide our work, which we’ll share on our website along with our strategy for the next three years.&lt;/p&gt;
+
+&lt;p&gt;For this weekend, though, we can look back at ten years of supporting FrontlineSMS users to monitor elections, manage rural health clinics, report environmental damage, safeguard humanitarian teams, and thousands of other use cases in more than 130 countries. And we’ll be raising a glass of something pink to FrontlineSMS and its stellar team!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 31 Oct 2015 10:25:00 -0400</pubDate>
+        <link>http://simlab.org/blog/2015/10/31/frontlines-tenth-birthday/</link>
+        <guid isPermaLink="true">http://simlab.org/blog/2015/10/31/frontlines-tenth-birthday/</guid>
+      </item>
+    
+      <item>
+        <title>Learn to use mobile in your work through our online course</title>
+        <description>&lt;p&gt;&lt;strong&gt;Update! We’ve extended the deadline to apply to this Sunday, 4 October. Don’t delay and apply for our course today!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We are excited to invite you to submit an application for Social Impact Lab’s upcoming online course, “Scalable, Low-Cost Technologies for Civil Society Organizations”, which will run from 06 October- 24 November 2015. You can apply &lt;a href=&quot;http://courses.simlab.org/sign-up/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This is the third time we’ve run the course, and we have some exciting new features and adjustments, including expanding our language resources and better optimizing the time and formats for low-bandwidth users and working professionals.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-is-the-course-about&quot;&gt;What is the course about?&lt;/h1&gt;
+&lt;p&gt;The course will guide participants through the use of &lt;a href=&quot;http://www.frontlinesms.com/technologies/frontlinesms-overview/&quot;&gt;FrontlineSMS&lt;/a&gt; and &lt;a href=&quot;http://www.frontlinesms.com/technologies/frontlinecloud-overview/&quot;&gt;FrontlineCloud&lt;/a&gt;.  Modules focus on using the SMS-based two-way communication platform in your programs, and participants will be directly supported to build a project portfolio of their own submitted work based on course assignments, in around 2-3 hours per week. Other topics include how to design mobile-centered or mobile-enabled projects, risk-mapping, data integrity and ethics considerations when using ICTs and mobile phones in civil society, democracy, transparency, and accountability initiatives. The course is made possible by a grant from the United Nations Democracy Fund.&lt;/p&gt;
+
+&lt;h1 id=&quot;who-is-this-course-for&quot;&gt;Who is this course for?&lt;/h1&gt;
+&lt;p&gt;The course is designed for people at small and medium organizations, primarily non-profits and NGOs focused on democracy, civic engagement, transparency and accountability. We’ve done our best to optimize the course for low-bandwidth users. However, you will need internet connectivity in order to participate in the course.&lt;/p&gt;
+
+&lt;p&gt;We have begun to translate some of the course resources into French! If you have French colleagues who are interested in participating in a group with you, or in watching the technical demos and completing a few resources for the course, please feel free to share with them. We are currently in the process of doing the same for Spanish, and hope to have these available soon as well.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-is-the-commitment&quot;&gt;What is the commitment?&lt;/h1&gt;
+&lt;p&gt;Participants will spend about 2-3 hours each week engaging with the platform and materials, with optional online clinic hours offered twice a week for people who want to ask questions in real-time. The course will run for 7 weeks from 06 October- 24 November 2015. The first two modules run for two weeks, since it will take more time to set you up on the software than it will to teach you about new features once you get going. This also allows you to more easily integrate it into your work schedule!&lt;/p&gt;
+
+&lt;p&gt;To encourage participation and help cover some of the costs of the course, we’re charging a nominal fee of $50, payable through Paypal (or alternate means if this is not possible for you).&lt;/p&gt;
+
+&lt;h1 id=&quot;how-do-i-apply&quot;&gt;How do I apply?&lt;/h1&gt;
+&lt;p&gt;Fill out our &lt;a href=&quot;http://courses.frontlinesms.com/sign-up/&quot;&gt;registration form&lt;/a&gt; by 4 October. We’ll accept 35-40 participants and will let you know the status of your application on a rolling basis.&lt;/p&gt;
+
+&lt;h1 id=&quot;course-fee&quot;&gt;Course Fee&lt;/h1&gt;
+&lt;p&gt;If accepted, you will be sent instructions to pay your course fee of $50.00.  Please don’t let cost be an inhibiting factor! We have scholarships available by request, please email &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#099;&amp;#111;&amp;#117;&amp;#114;&amp;#115;&amp;#101;&amp;#115;&amp;#064;&amp;#115;&amp;#105;&amp;#109;&amp;#108;&amp;#097;&amp;#098;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&quot;&gt;&amp;#099;&amp;#111;&amp;#117;&amp;#114;&amp;#115;&amp;#101;&amp;#115;&amp;#064;&amp;#115;&amp;#105;&amp;#109;&amp;#108;&amp;#097;&amp;#098;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt; for more details, or request one in your registration form &lt;a href=&quot;http://courses.frontlinesms.com/sign-up/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-if-i-have-other-questions&quot;&gt;What if I have other questions?&lt;/h1&gt;
+&lt;p&gt;You can read about the course in more depth &lt;a href=&quot;http://courses.simlab.org/how-it-works/&quot;&gt;here&lt;/a&gt;. If you have any additional questions, send us an email at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#099;&amp;#111;&amp;#117;&amp;#114;&amp;#115;&amp;#101;&amp;#115;&amp;#064;&amp;#115;&amp;#105;&amp;#109;&amp;#108;&amp;#097;&amp;#098;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&quot;&gt;&amp;#099;&amp;#111;&amp;#117;&amp;#114;&amp;#115;&amp;#101;&amp;#115;&amp;#064;&amp;#115;&amp;#105;&amp;#109;&amp;#108;&amp;#097;&amp;#098;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Sep 2015 08:40:00 -0400</pubDate>
+        <link>http://simlab.org/blog/2015/09/17/online-course-announcement/</link>
+        <guid isPermaLink="true">http://simlab.org/blog/2015/09/17/online-course-announcement/</guid>
+      </item>
+    
+      <item>
+        <title>Can SMS be used to reach women and girls in new ways in emergencies?</title>
+        <description>&lt;p&gt;Humanitarian agencies have made increasing use of SMS and mobile telephony in disaster response since the South Asian Tsunami in 2004-5, but particularly following the Haitian earthquake in 2010, where lack of access to communities and high mobile penetration combined to make SMS an attractive means of distributing key messages about sanitation and available assistance. From the last mile rural community to the most vulnerable in urban settings, the predictable cost, asynchronous but intimate nature, and inherent robustness of SMS make it ideal for moving small packets of information swiftly and reliably. In contexts where communication by other means is costly or unreliable, SMS can be effectively used to manage staff and volunteers, collect management information and monitoring data, and provide a responsive two-way communications channel for beneficiaries and communities.&lt;/p&gt;
+
+&lt;p&gt;Given its potential, can SMS be used to reach women and girls in new ways in emergencies? At present, this is only partially clear—as with much of the existing knowledge about the impact of SMS and mobile in disaster relief, more robust data is required before we understand precisely how this works. In many cases, the nature of women’s interaction with technology makes this difficult to acquire. It’s hard to make basic statements about women’s use of technology in the developing world with great confidence. Women are less likely than men to have the paperwork required to register a SIM card, so their phone may be registered, if not owned and controlled by their male relatives. Women may not have unfettered or unobserved access to handsets, which indeed can be used as instruments of control. For adolescent girls, age is an additional barrier which may make it doubly difficult for them to make use of mobile programs designed to empower them. However, it’s clear that there are potential gains for women and girls in providing mobile access channels to services such as healthcare and nutrition information.&lt;/p&gt;
+
+&lt;p&gt;In post-Tsunami Batticaloa, Sri Lanka, Minmini News set up an SMS news service for women that attempted to reflect the concerns and experiences of women not covered in the mainstream media. News was sourced, produced and shared by women, for women, to overwhelmingly positive reviews from its users. News information on public services, local emergencies, and women’s experiences, achievements and challenges was collected, fact-checked and written up in text messages by a central ‘news team’ of one or two women and reviewed by an editor. This information was sent out using FrontlineSMS as one to three messages each day. Women who received the messages said that the service had changed their relationship to news and information, and mitigated some of the social challenges women experienced in getting and sharing news through normal channels. One woman, displaced and maltreated, was found and brought home as a direct result of information shared via the service. Minmini News has not yet reported its longer-term impacts, and no age-disaggregated data was collected, so there is no way to understand whether the particular needs and concerns of adolescent girls were met through the initiative. However, examples like Yoza, a South African mLiteracy project, show the potential power of engaging young people, including girls, through mobile-based interventions, even in resource-constrained contexts like urban slums.&lt;/p&gt;
+
+&lt;p&gt;Like any other communications platform, effective use of SMS requires careful context assessment and an understanding of if and how SMS is routinely used by a population. Where SMS use is inhibited by cultural and technical factors, as in southern Pakistan, it is far better to use communications tools that already work for the community. In the 2010 southern Pakistan floods, aid agencies fresh from the Haiti response and remembering the successful use of SMS in the NWFP (North-West Frontier Province) in Pakistan’s 2008 post-conflict displacement were surprised to note almost no use of SMS by the local population. This was due to low literacy levels, and also because the local dialect was written in a script whose character set wasn’t present on most cellphones.&lt;/p&gt;
+
+&lt;p&gt;Understanding all this through a gendered, age-sensitive lens requires closer, more qualitative analysis. What is clear, is that women will experience all the same barriers to mobile phone access and using SMS as men, but often to a greater degree, and in some cases, young women and girls most of all. Literacy is an obvious limiting factor for SMS use—and women and girls are less likely to be literate than men and boys—although proximate literacy (where the recipient takes the SMS to someone who reads to understand the message), functional literacy (where the recipient can successfully interpret a familiar message, such as a mobile money notification) and the run-and-tell model, where one literate member of a community receives a message and spreads the word, are all able to circumvent this challenge to a degree. Disability and infirmity may make SMS hard to read and access, so they may not be appropriate for older people, who may be less aware of or less likely to adopt new technologies. Lack of access to handsets and electricity may inhibit cellphone use altogether, and women are less likely to own and control their own phone than men. Access to power is a major financial and infrastructural challenge. Women’s incomes are lower and in some areas people spend as much money on powering their phones as on airtime. In a crisis, this disposable income is the first thing to go, coupled with the fact that access to power if communities are displaced is not a given. Travel, which is often required to get a signal or electricity to charge handsets in rural areas, is more difficult for women and girls. Finally, cultural factors may inhibit SMS use. Gender roles may mean that such a link to the public world, or owning and controlling technology in this way, is not considered appropriate or necessary for women. This is particularly challenging for girls, where elders may have concerns around the sexualisation, or sometimes the Westernization, of young women exposed to information via the Internet.&lt;/p&gt;
+
+&lt;p&gt;Agencies need to carefully consider the opportunities and challenges inherent in using mobile for women in emergencies. It seems that while there may be initial hurdles to overcome, once women are able to make the case for access to technology and learn how to best use it for their advantage, the potential is enormous for their opportunistic use of information to improve their lives and those of their families. Agencies will still need to avoid pitfalls—messages relating to family planning or access to cash grants need careful consideration in the same way that analogue delivery would, and we cannot make assumptions about the degree of privacy women and girls have on their handsets. Considering young women, for whom both age and gender may act as barriers to access to technology and information, requires an additional depth of enquiry into social behavior and cultural norms that may be only partly articulated and understood. But in this context, a more long-term, community-oriented approach, where SMS is used as an easy interaction channel to foster community ownership of programs and open feedback about the work, may allay fear and suspicion and help women to improve the resilience of their entire community to disaster, through mobile.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 08 Sep 2015 06:22:00 -0400</pubDate>
+        <link>http://simlab.org/blog/2015/09/08/sms-emergencies/</link>
+        <guid isPermaLink="true">http://simlab.org/blog/2015/09/08/sms-emergencies/</guid>
+      </item>
+    
+      <item>
+        <title>Mobile Money in the Last Mile of Kenya</title>
+        <description>&lt;p&gt;The Brookings Institute’s Financial and Digital Inclusion Project named Kenya as the top scoring country in the world for financial inclusion based on country commitment, mobile capacity, regulatory environment and adoption of traditional and digital financial services. Yet, SIMLab’s efforts to introduce to mobile money to organizations in rural Kenya have encountered significant barriers to adoption and sustained use by organizations and end-users alike.&lt;/p&gt;
+
+&lt;p&gt;Today, we are releasing our case study, &lt;a href=&quot;/files/SIMLab Case Study - Mobile money in the last mile.pdf&quot;&gt;Implementing a Mobile Money Management Tool and Training Approach in the Last Mile&lt;/a&gt;, which reviews our experience implementing a mobile money software tool in rural Kenya, for a project cofunded by UK Department for International Development (DFID) through the Global Poverty Action Fund (GPAF). The project worked with 40 NGOs and SACCOs (Savings and Credit Cooperatives) in rural Kenya to make the transition from cash to mobile money in a country where 90% of households have used mobile money services. Despite this, we found that last-mile organizations are not simply awaiting a platform that suits their technical needs to incorporate digital cash into their daily business activities. Rather, complex human, organizational and environmental challenges raise serious questions about the ‘build it, and they will come’ philosophy that has driven much of the mMoney space over the last ten years.&lt;/p&gt;
+
+&lt;p&gt;To discuss this case study and the challenges that others have faced in the space, we are hosting an &lt;a href=&quot;http://www.eventbrite.com/e/introducing-mobile-money-to-organizations-in-the-last-mile-in-kenya-tickets-18356055456&quot;&gt;event&lt;/a&gt; today, September 4th, at the OpenGovHub in Washington DC. If you’re in DC, you can come by, or you can follow us on Twitter, where @SIMLab will be tweeting about it under the hashtag #lastmilemoney. We also have limited slots for a live-streaming webinar, which you can RSVP for at the above link.&lt;/p&gt;
+
+&lt;p&gt;In addition to Kelly Church, SIMLab’s Project Director, the event will also feature Leo Tobias, Technology Team Manager at Grameen Foundation, presenting on their work in Uganda; Sean McDonald, CEO of FrontlineSMS, reflecting on the very real obstacles caused by fractured operator, handset and software markets; and Kay McGowan, Digital Finance Team Lead at USAID, who will offer her reflections and responses to the panelists’ presentations, and share some of the direction of USAID policy as the mMoney field approaches its ninth year. Together the panel will hopefully shed light on mobile money efforts within and beyond Kenya, and look critically at what is being done and what needs to be done at the technology and policy level to ensure the next five years will bring greater, more widespread and engaged adoption of mobile financial services.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 04 Sep 2015 10:25:00 -0400</pubDate>
+        <link>http://simlab.org/blog/2015/09/04/mobile-money-in-the-last-mile-of-kenya/</link>
+        <guid isPermaLink="true">http://simlab.org/blog/2015/09/04/mobile-money-in-the-last-mile-of-kenya/</guid>
+      </item>
+    
+      <item>
+        <title>Building A Better Everything</title>
+        <description>&lt;p&gt;In June, I had the opportunity to participate on a panel at the &lt;a href=&quot;http://www.cyberjustice.ca/en/&quot;&gt;University of Montreal’s Cyberjustice Lab&lt;/a&gt;. I chatted about how we use our mission and values to inform our day-to-day work, and felt it might be helpful to put some of what I talked about in writing, to help explain just what it is that we do here.&lt;/p&gt;
+
+&lt;p&gt;SIMLab works to make systems and services more accessible, responsive, and resilient. Talking to lawyers, traditionally service providers, I like to focus my framing on legal systems, to help people think a little differently. Put simply, a system has inputs and outputs that feed back into each other. These inputs and outputs can be information, behavior, money, time, widgets…and so on. So, if our mission is to improve systems, it means we measure the success of our technology projects by whether it makes a system better. (We also have to draw lines around what the system is for a given project, but that’s a topic for another day.) Our values, accessibility, responsiveness, and resilience, are how we define what “better” looks like in a system, and illuminate lessons that inform how we approach our work. So how do we think about each of those values in a more practical sense?&lt;/p&gt;
+
+&lt;p&gt;Measuring accessibility sounds simple: how easy is it for someone to get into a system? But sometimes this manifests in interesting ways: with the DC Public Library, we’re &lt;a href=&quot;http://simlab.org/blog/2015/05/21/first-resort&quot;&gt;working&lt;/a&gt; to help librarians deliver better information about social services, so that people can navigate the system more easily. As with any project we do, we’ve dedicated lots of time to exploring the context—here, the DC social services ecosystem—to test and revise (and revise again) our hypotheses, and embrace the limitations of the project—here, that there’s an opportunity to provide help without doing a full social work intake interview.&lt;/p&gt;
+
+&lt;p&gt;If accessibility is about getting in to the system, responsiveness might be what the system produces. This isn’t always improving the substance of an outcome—after all, not everyone can be happy with the outcome of a legal case—sometimes it’s simply making a system more efficient. In Odisha, India, we’re &lt;a href=&quot;http://simlab.org/blog/2015/07/23/paper-houses-digital-homes/&quot;&gt;working&lt;/a&gt; with Landesa to make it easier for supervisors and potential titleholders alike to coordinate and track a complex surveying and land titling program. Although we’re building technology, ultimately our hope is to make humans more responsive. As a result, we strive to understand who we’re creating more—or less—work for, and constantly monitor what we’ve built to see if it’s working. In other words, to build a more responsive system, we need to be responsive, too.&lt;/p&gt;
+
+&lt;p&gt;Resilience is perhaps the fuzziest-seeming value of the three. I like to describe it helping systems (and organizations) be self-propelled. So, are we helping a system—or an organization—adapt to shocks, or changes in the bigger system around it? We work with non-profits on small engagements to help them use a piece of technology better, whether it’s improving how they collect feedback from people calling a help line, creating a reminder system for clients, or connecting with clients over a different communications channel, such as SMS. Whether the project is big or small, our goal is that at the end of the day, it can run without our help, and adapt to the inevitable changes that an organization or a system will face. Resilient technologies can help make resilient organizations, and in turn, more resilient systems.&lt;/p&gt;
+
+&lt;p&gt;No matter where we work, we try to be inclusive, foster local ownership of technology, encourage good habits, generate data, and make complex processes more efficient and transparent. This isn’t always easy: systems are chaotic and messy. So, in our work, we value fluidity: how well our work fills the gaps in a system, and how well it adapts (and we adapt) to change. Because systems never stop: the flow of information, of demand for services, of need for help, is constant and unceasing, whether you’re ready to handle it or not. In that blur of motion, we think it’s critical that systems are accessible, responsive, and resilient—even if those values are hard to define, and harder to measure. As Donella Meadows, a pioneer of systems thinking, put it, “No one can define or measure justice, democracy, security, freedom, truth, or love. No one can define or measure any value. But if no one speaks up for them, if systems aren’t designed to produce them, if we don’t speak about them and point toward their presence or absence, they will cease to exist.”&lt;/p&gt;
+</description>
+        <pubDate>Fri, 28 Aug 2015 05:07:00 -0400</pubDate>
+        <link>http://simlab.org/blog/2015/08/28/building-a-better-everything/</link>
+        <guid isPermaLink="true">http://simlab.org/blog/2015/08/28/building-a-better-everything/</guid>
+      </item>
     
       <item>
         <title>Paper Houses, Digital Homes</title>
@@ -31,16 +188,12 @@
 &lt;p&gt;To show how SMS and other inclusive technologies can be used to optimize large-scale land interventions, we’ve made a small demo, which will be up for a short time. You can access it by texting the word DEMO to ‭+1 (919) 582-5077. If you’re interested in working with SIMLab to bring inclusive technology to your land program, shoot us an email, at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#107;&amp;#101;&amp;#105;&amp;#116;&amp;#104;&amp;#064;&amp;#115;&amp;#105;&amp;#109;&amp;#108;&amp;#097;&amp;#098;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&quot;&gt;&amp;#107;&amp;#101;&amp;#105;&amp;#116;&amp;#104;&amp;#064;&amp;#115;&amp;#105;&amp;#109;&amp;#108;&amp;#097;&amp;#098;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 23 Jul 2015 10:43:00 -0400</pubDate>
-        <link>/simlabrefresh/blog/2015/07/23/paper-houses-digital-homes</link>
-        <guid isPermaLink="true">/simlabrefresh/blog/2015/07/23/paper-houses-digital-homes</guid>
-        
-        
-        <category>blog</category>
-        
+        <link>http://simlab.org/blog/2015/07/23/paper-houses-digital-homes/</link>
+        <guid isPermaLink="true">http://simlab.org/blog/2015/07/23/paper-houses-digital-homes/</guid>
       </item>
     
       <item>
-        <title>Open First, Ask Later</title>
+        <title>Open First, Ask Later: Rethinking Data Ethics Among International Agencies, Donors, and NGOs</title>
         <description>&lt;p&gt;Aggregating and opening data presents opportunities for deepening civic engagement, addressing decades-long environmental coordination challenges, or highlighting inefficient institutional processes and procedures, among many other potential uses, benefits and information gains. The same data, branded as a public good, is also the subject of many debates regarding risks, agency, and privacy among others. There is a rising need to sort out the ethics of use and power dynamics over decision-making when it comes to open/ing data for ‘development’.&lt;/p&gt;
 
 &lt;p&gt;Launched in 2013, the &lt;a href=&quot;http://www.d4d.orange.com/en/home&quot;&gt;Data for Development Challenge&lt;/a&gt; (D4D), a challenge run by mobile network operator Orange, opens mobile phone usage data up to researchers selected to analyze it,  in order to facilitate the use of big data in key development sectors, defined in conjunction with government ministries and organizations (for example, the D4D Senegal Challenge focuses on health, agriculture, transport/urban planning, energy, and national statistics). There is an additional category, defined by Orange themselves for those “advancing anonymisation techniques to allow sharing of data that is relevant for society while respecting privacy. A constructive dialogue with the Personal Data Commission was opened up at the start of the project, focused, in part, to work on the creation of robust sharing formats and exploration of the uses and limitations of the synthetic data sets.” In 2013, the European Union committed to implementing the &lt;a href=&quot;https://www.gov.uk/government/publications/open-data-charter/g8-open-data-charter-and-technical-annex&quot;&gt;G8 Open Data Charter&lt;/a&gt;, which outlines five principles for government data: open government data by default; release as much data as possible (quantity) and then improve as needed (quality); usable by all- free, easy to access, open formats; release data for improved governance- transparency about processes and sharing of lessons learned with other governments; and release data for innovation- encourage use of open data in civil society. The EU’s open data commitments cover all grants provided by EU donor and development agencies. USAID announced its &lt;a href=&quot;http://blog.usaid.gov/2014/10/announcing-usaids-open-data-policy/&quot;&gt;Open Data Policy&lt;/a&gt; in 2014, which commits all partners and subcontractors to submit any and all USAID-funded data, again open by default “with limited exceptions,” in a standardized format to their Development Data Library, tagging with relevant labels to facilitate metadata and consumer use.&lt;/p&gt;
@@ -65,16 +218,12 @@
 &lt;p&gt;SIMLab has benefited greatly from the work that others are doing on this topic and our own work in the past, including a &lt;a href=&quot;http://www.frontlinesms.com/wp-content/uploads/2011/08/frontlinesms_userguide.pdf&quot;&gt;data integrity guide&lt;/a&gt;, focused on data ethics when using low-end mobile technologies, published in 2011.  In the coming months, SIMLab will continue taking stock of data ethics questions and approaches in international organizations, as open data and data-driven decision-making, accelerate into accepted, even expected, standards.&lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Jun 2015 06:22:00 -0400</pubDate>
-        <link>/simlabrefresh/blog/2015/06/03/open-data</link>
-        <guid isPermaLink="true">/simlabrefresh/blog/2015/06/03/open-data</guid>
-        
-        
-        <category>blog</category>
-        
+        <link>http://simlab.org/blog/2015/06/03/open-data/</link>
+        <guid isPermaLink="true">http://simlab.org/blog/2015/06/03/open-data/</guid>
       </item>
     
       <item>
-        <title>First Resort</title>
+        <title>First Resort: Building social services resources at DC Public Library</title>
         <description>&lt;p&gt;Despite the wide range of social and legal services available in American cities, it’s not always easy for a person to find the right service provider—or often, set of providers—who can help. Service providers, from lawyers to social workers to case managers, have deep expertise helping people solve problems, but sometimes, it may not be obvious that someone should, say, call a lawyer in addition to a food bank if they receive a letter that food stamp benefits have been cut off.  A single story may require the help of multiple experts, and multiple services, in order to meet a person’s need.&lt;/p&gt;
 
 &lt;p&gt;Particularly for those on the wrong side of the &lt;a href=&quot;https://www.youtube.com/watch?v=S4O0MK0ZDRE&quot;&gt;digital divide&lt;/a&gt;, people often turn to the library for information on where to find help. The &lt;a href=&quot;http://dclibrary.org&quot;&gt;DC Public Library&lt;/a&gt; (DCPL) is working to better meet this need, by improving how it provides recommendations and resources on social services in the city, and equipping librarians with question-and-answer tools that can help draw out other services that a person might need. We’re excited to announce that—with support from the &lt;a href=&quot;http://www.knightfoundation.org/funding-initiatives/knight-prototype-fund/&quot;&gt;Knight Foundation’s Prototype Fund&lt;/a&gt; and &lt;a href=&quot;http://openreferral.org&quot;&gt;Open Referral Initiative&lt;/a&gt;—SIMLab is partnering with DCPL to help.&lt;/p&gt;
@@ -83,20 +232,16 @@
 
 &lt;p&gt;This spring, SIMLab and DCPL team members have spent time together exploring the elderly services available in DC. City agencies and service providers alike have generously shared their time and experience with us, helping us to learn about some of the intake, referral, and capacity challenges that their organizations face, as well as technology tools that are currently in development to help meet those challenges.&lt;/p&gt;
 
-&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-version=&quot;4&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 20px auto; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url(/simlabrefreshdata:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;/simlabrefreshhttps://instagram.com/p/2ooOrvJKUb/&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_top&quot;&gt;Working with DCPL to build paper prototypes to help people find social services in DC.&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;A photo posted by Keith Porcaro (@vigilantballoon) on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2015-05-13T20:03:27+00:00&quot;&gt;May 13, 2015 at 1:03pm PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; defer=&quot;&quot; src=&quot;/simlabrefresh//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;
+&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-version=&quot;4&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: auto; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;https://instagram.com/p/2ooOrvJKUb/&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_top&quot;&gt;Working with DCPL to build paper prototypes to help people find social services in DC.&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;A photo posted by Keith Porcaro (@vigilantballoon) on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2015-05-13T20:03:27+00:00&quot;&gt;May 13, 2015 at 1:03pm PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; defer=&quot;&quot; src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;From here, we’re trying to bridge the gap between a person’s story of need and the help they are seeking, or might need to seek. With librarians and social workers, we’re helping to identify questions librarians can ask to help clarify and illuminate a person’s situation. So, a request that starts with “I need daytime care for my aging parent” might yield a collection of immediate and long-term resources, from case managers and agencies who can do complete assessments to wellness and activity programs available now. We aren’t turning the library into an intake center, but trying to use technology and research to help people navigate the natural peculiarities of a complex system (like the same service having different names, depending on the provider).  We’re also helping DCPL think about how this tool might practically be deployed in a library branch, from the trainings librarians will need, to how to create a safe space where these questions can be asked, and ways to get anonymous feedback on the information provided. All the while, we’ll be focused on learning—what we’ve done well, what we can do better, what needs are yet to be met—and documenting and sharing that learning so that others can build on and replicate our work in other contexts.&lt;/p&gt;
 
 &lt;p&gt;Although this is a prototype, we’re excited about exploring these dynamics over the long-term, and on finding creative ways to help organizations use technology and work together to solve tricky problems. We’re in early days yet, but watch this space and others for more on what we learn. We’re slowly exploring challenges in the United States that we might be able to help with, from getting feedback on service referrals to reaching offline and low-literacy communities. If you’ve got a project that you think SIMLab might be a fit for, &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#104;&amp;#101;&amp;#108;&amp;#108;&amp;#111;&amp;#064;&amp;#115;&amp;#105;&amp;#109;&amp;#108;&amp;#097;&amp;#098;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&quot;&gt;reach out to us&lt;/a&gt;; we’d love to hear from you.&lt;/p&gt;
 </description>
         <pubDate>Thu, 21 May 2015 06:22:00 -0400</pubDate>
-        <link>/simlabrefresh/blog/2015/05/21/first-resort</link>
-        <guid isPermaLink="true">/simlabrefresh/blog/2015/05/21/first-resort</guid>
-        
-        
-        <category>blog</category>
-        
+        <link>http://simlab.org/blog/2015/05/21/first-resort/</link>
+        <guid isPermaLink="true">http://simlab.org/blog/2015/05/21/first-resort/</guid>
       </item>
     
       <item>
@@ -124,303 +269,8 @@
 &lt;p&gt;You can read about the course in more depth &lt;a href=&quot;http://courses.frontlinesms.com/how-it-works/&quot;&gt;here&lt;/a&gt;. If you have any additional questions, send us an email at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#099;&amp;#111;&amp;#117;&amp;#114;&amp;#115;&amp;#101;&amp;#115;&amp;#064;&amp;#115;&amp;#105;&amp;#109;&amp;#108;&amp;#097;&amp;#098;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&quot;&gt;&amp;#099;&amp;#111;&amp;#117;&amp;#114;&amp;#115;&amp;#101;&amp;#115;&amp;#064;&amp;#115;&amp;#105;&amp;#109;&amp;#108;&amp;#097;&amp;#098;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Feb 2015 09:40:00 -0500</pubDate>
-        <link>/simlabrefresh/blog/2015/02/02/sign-up-for-our-upcoming-course</link>
-        <guid isPermaLink="true">/simlabrefresh/blog/2015/02/02/sign-up-for-our-upcoming-course</guid>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Navigating A Crowded Landscape: Digital Tools in Humanitarian Response</title>
-        <description>&lt;p&gt;&lt;em&gt;In November 2014, CDAC Network spoke with Laura Walker McDonald about using technology in humanitarian situations. We’ve reposted it with their kind permission. You can find the original &lt;a href=&quot;http://www.cdacnetwork.org/i/20141118121212-60cud/&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;More than ever before, those responding to humanitarian emergencies have new and innovative tools out there that can help them do things they wouldn’t have been able to do before. Many of these are software tools that harness the power of the internet for speed and efficiency gains as well as manipulating and moving data in new ways, for example when capturing data from affected communities quickly for needs assessments. This trend has been documented recently in OCHA’s &lt;a href=&quot;http://cdacnetwork.org/tools-and-resources/i/20140610200806-jgmnb&quot;&gt;Humanitarianism in the Network Age&lt;/a&gt; report and the &lt;a href=&quot;http://cdacnetwork.org/tools-and-resources/i/20140711115559-vdtrz&quot;&gt;Red Cross World Disasters Report&lt;/a&gt; 2013.&lt;/p&gt;
-
-&lt;p&gt;In this article, we ask Laura Walker McDonald from CDAC Network Member &lt;a href=&quot;http://www.simlab.org/&quot;&gt;Social Impact Lab (SIMLab)&lt;/a&gt; how humanitarian responders can navigate this crowded landscape and work out what sort of tool they need as quickly as possible, including what questions they should be asking, and when.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hi Laura, thanks for taking the time. What is the problem that humanitarian responders face when looking to find a technological solution to a problem in the field?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Online software tools and platforms are in vogue right now. Every company and organisation claims to have the next best app that can do all the things a humanitarian responder could possibly need. The problem is that this isn’t really the case. When humanitarian responders are out in the field and they need to get something done quickly, like capture information from hard to reach communities, they are faced with so many options for software tools that it becomes hard to determine which is most suitable for the job. Sometimes the providers over-market their tools, other times it’s hard to find the critical information that can help the responder decide whether one tool is suitable over another. Quite frequently though, the problem is that the humanitarian responder doesn’t really know what they are looking for. This means that organisations working in technology and their associated partners need to help inform and educate practitioners, and make it easier for the humanitarian community as a whole to navigate its way through this landscape and ask the right questions.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;So what kind of challenges are we talking about? And what approach should be taken to tackle these challenges?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The issues are wide and varied, but it doesn’t take a technological mind to work these out. More often than not, users have certain preconceptions and assumptions about which technology they would like to use. This means they are starting with what they think the solution is, rather than the problem, which is unhelpful. They first need to think about what they want to achieve, rather than about which tools might be the best fit. Responders would be better looking at their overall objectives and asking critical high-level questions.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;What specific questions and issues relating to technology should those working in humanitarian response pay attention to?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The first question to ask is usually ‘What kind of information management am I doing?’ This refers to the capture, manipulation or movement of data – the essence of the task at hand. Following this primary goal, important questions exist around how this is done, before solutions are explored. Here are &lt;strong&gt;six questions&lt;/strong&gt; that may help build rounded requirements in advance of choosing a tool:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;How fast do things need to be done?&lt;/strong&gt; When working in a disaster affected area, users need to think about the speed of their operation and how quickly data needs to be transferred. This overall ‘need for speed’ affects the type of connectivity that will be suitable for them. Connectivity is often the lowest common denominator. People can only go as fast as their connection will allow them to go. In the field, it is common to go for a couple of days without a connection. Does a responder need to transmit this data in real-time or can he/she wait until they hit the next Wi-Fi point to synchronise the data? Answer this and it will be easier to work out which tool is most suitable for the task. It may even be possible to combine the two, providing some data over SMS which is common, and then supplementing it with extra data over Wi-Fi/mobile data when next connected.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;How much needs to be budgeted?&lt;/strong&gt; Speak to any technology manager working in humanitarian response and frequently they will explain that the amount allocated to technology, as part of projects, is nowhere near what it needs to be. When looking at tools, it is important to take into account all the different associated costs and make sure the budget can cover all aspects required to implement a tool correctly and comprehensively. This could include software, hardware, maintenance, training, airtime (for SMS messages or mobile data) and the human resources for running and managing the tool. What might seem to be a nice cost effective tool may have high implementation costs and these need to be considered during programme planning.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;How suitable is it for this local area and how easy is it to use?&lt;/strong&gt; It is important to think about what kind of users will be using the tool. Does it require a software developer to be able to decipher the user interface or can anybody step into it, just like they use google or facebook? If it’s difficult to use, it will be hard to ensure uptake and will add to costs in training and roll-out in general. Costs can spiral in the long-term as specialised personnel leave and are hard to replace. On top of this, those working with the tool could be unfamiliar with English. Can the tool be localised in the language(s) of the country where it is being used? Does it support non-latin characters?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;What sort of licensing model is most appropriate?&lt;/strong&gt; When starting up a technology project in a humanitarian conflict, the instinct for many managers is to immediately look towards open source software, sometimes without really understanding what that means. Open source means the code is available to modify, under certain conditions depending on the license. It doesn’t mean it’s free, although often it is. It doesn’t mean it’s more suited to social change, either. In reality going ‘open source’ brings with it its own set of disadvantages as well as advantages. Despite the promise that open source brings with it a budding developer community, for many humanitarian projects there isn’t a large community of developers ready to help expand and develop the rather specific code base, or to support a  project pro bono. User support may be hard to get, and the code may not be maintained or updated as operating systems move on. Despite not being able to freely use the code, some paid-for services can be more reliable and provide guaranteed support, customer service and long-term sustainability. On the other hand, if something is open source and the provider of the service goes out of business or stops working on it, the code base is available to use and continue working on it. Each option has unique advantages and disadvantages and these need to be weighed up when embarking on a project.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;How compatible does the data need to be with other platforms and software?&lt;/strong&gt; What is more important than the open source question is whether the platform supports common data standards. This sounds complicated, but it’s not. It just means that data can be downloaded in a common format like comma separated values (CSV) or extensible markup language (XML), or as an Excel doc. If proprietary file formats are used, check there’s a good export function. Without this, it’s very difficult to move data around, share it and push it to other systems and platforms. Application programming interfaces (APIs) can also help with moving data between platforms and systems, whether or not there’s a download option, but make sure that exports and APIs allow access to ALL the data – not just a selection of the fields the provider thinks are needed.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;What sort of user support is needed?&lt;/strong&gt; Finally, before using a platform, try and start a conversation with the people offering it. If it is difficult to get a conversation going, it’s probably a good idea to walk away. A service provider needs to be able spend time with users and it is something that isn’t usually considered by those signing up for a tool. Imagine trying to undertake a one-off survey and all of a sudden the tool stops working. If it is difficult to get somebody on the other end of the phone to help with a query, the project is scuppered. Good practice would be to open with questions directly to service staff and actually test out their user support. It’s important and is something that differentiates professional software organisations from talented well organised amateurs.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;What solutions are out there to support people making a decision about what tools to use and address some of these important issues?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Broadly the approach that has been taken is to create online directories that aim to dig out useful information about tools and provide an overview of what they do. These are usually objective and try to give the most useful information for a user. There are lots of existing directories such as &lt;a href=&quot;http://humanitarian-nomad.org/online-selection-tool/&quot;&gt;Humanitarian Nomad&lt;/a&gt;, &lt;a href=&quot;http://kopernik.info/technologies&quot;&gt;Kopernik’s Technology Marketplace&lt;/a&gt;, &lt;a href=&quot;http://solutionscenter.nethope.org/&quot;&gt;Nethope’s Solution Center&lt;/a&gt; and the &lt;a href=&quot;http://www.cdacnetwork.org/marketplace/service-directory/&quot;&gt;CDAC Network’s Service Directory&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;There are limitations that sometimes affect these directories. Firstly, it is difficult to keep them updated with the most useful and relevant information. Good software products are updated frequently and for the directories to be useful, they at least need to provide current and up-to-date information. Some of the directories out there have fallen out of use as initial funding was not followed up and the organisation creating it was not able to provide ongoing support.&lt;/p&gt;
-
-&lt;p&gt;In some directories, companies and organisations are able to outline their tools’ capabilities themselves. This can lead to self-promotion and the overselling of features and specifications.&lt;/p&gt;
-
-&lt;p&gt;On top of the issues with the concept of a directory, there are also issues with implementation. Some are simply badly designed or too hard to navigate. Others don’t categorise the information or make it difficult to find the relevant bits for each section. Some are no more than a list. Often less tech-savvy managers are the ones making decisions on tools and they may need to get down to brass tacks quickly. If the directory is tedious and requires dredging through, then maybe the most appropriate solution won’t rise to the surface.&lt;/p&gt;
-
-&lt;p&gt;Although it’s actually from a tools provider, I quite liked a simple comparison chart on the Datawinners site. The specifications are honest (their own tool doesn’t always come out on top) and they checked with the providers featured when creating it to ensure the information was correct at the time of published. FrontlineSMS sent in comments and they changed it straight away. This type of transparent and objective approach is rare and appreciated as it helps to inform the community at large. On top of this the format of a comparison matrix is quick and effective.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;What is SIMLab doing to help people make sense of it?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;SIMLab’s Frontline platform is actually going to be a separate company from the end of [2014]. That makes us ‘recovering platform providers’, with nine years of experience making technology and helping people to use it. We want to help tackle some of the problems we’ve noticed over the years, and navigating this technological expanse is one of them. Rather than enter the foray of tool directories ourselves, though, we’re taking a slightly different approach. We are planning to host a community site, joined by colleagues at think tanks, NGOs, consultants, and providers, where people can directly engage with others using these tools, and the developers who create them.&lt;/p&gt;
-
-&lt;p&gt;Many tech providers we spoke to confirmed that they wanted to offer this type of support but didn’t have the resources to do it alone. Pooling resources, we can build a central place to debate the merits and pitfalls of different tools honestly and openly, and receive support and assistance from the developers and communities using them. Our site will be cross-sector, bringing in many actors beyond humanitarian users, along with their unique insights and shared challenges.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;What role can the CDAC Network Service Directory play in making it easier for people to find the right tool?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The CDAC Network’s approach on the directory format with their Service Directory provides a simple entry point for organisations looking at technology tools for responders communicating with disaster affected communities.&lt;/p&gt;
-
-&lt;p&gt;Curated directories such as the CDAC Network Service Directory aim to dig out the information on tools and services that users need at the beginning of their search to allow them to make an informed choice. The Directory acts as a gateway or ‘first step’ to becoming more engaged on a community site such as the one envisaged by SIMLab.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 07 Jan 2015 10:50:00 -0500</pubDate>
-        <link>/simlabrefresh/blog/2015/01/07/navigating-a-crowded-landscape</link>
-        <guid isPermaLink="true">/simlabrefresh/blog/2015/01/07/navigating-a-crowded-landscape</guid>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Improving Disaster Response and Aid Delivery with ICTs</title>
-        <description>&lt;p&gt;As some of you may know, we’ve had many exciting new developments over the last few months, some of which were covered in our first blog post &lt;a href=&quot;http://simlab.org/blog/2014/09/02/welcome-to-SIMLab/&quot;&gt;here&lt;/a&gt;. SIMLab’s focus on helping organizations to use inclusive technologies to build systems and services that are accessible, responsive, and resilient means that we’re now tool agnostic, but many of our case study resources for a while will continue to draw on our work with the Frontline product set.&lt;/p&gt;
-
-&lt;p&gt;One of the things we’ve been working though is our Context Assessment methodology, and how we can best articulate why and how information and communication habits and needs are critical considerations in development projects. Our newest case study, which documents ActionAid’s experience using FrontlineSMS to improve disaster-affected communities in Kenya, illustrates how crucial information flows are. It builds off blog posts on the project &lt;a href=&quot;http://www.frontlinesms.com/2012/12/29/frontlinesms-at-7/&quot;&gt;here&lt;/a&gt; and &lt;a href=&quot;http://www.frontlinesms.com/2012/07/13/information-provides-real-benefits-for-drought-hit-communities-and-actionaid-alike/&quot;&gt;here&lt;/a&gt;, and new insights about the project design and lessons learned from project documentation and ActionAid staff.&lt;/p&gt;
-
-&lt;p&gt;In the project, ActionAid International Kenya and infosaid piloted an SMS-based communication and food aid delivery system. ActionAid sees information and two-way communication with communities and aid beneficiaries as essential parts of their work, and infoasaid (a DFID-funded initiative which ran from 2010-2013) was set up to support agencies to transform their approach to communicating with communities.&lt;/p&gt;
-
-&lt;p&gt;This pilot took place in Isiolo, Kenya, where chronic drought, food insecurity, and violent clashes threaten to push people into crisis. Prior to the SMS system, ActionAid relied on information relayed from Field Officers as their primary communication source with food-aid recipients. Compounded by security issues, lack of infrastructure, and time constraints, communication was becoming increasingly cumbersome, erratic and infrequent. Moreover, workers and food-aid recipients lacked information on market prices, scheduled food deliveries, and other updates. To read more about how they used FrontlineSMS to tackle some of these issues, and how staff began to pick up the system to do other parts of their work, click &lt;a href=&quot;/files/frontlineSMS_actionaid_kenya_090115.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Thank you to Paul Stewart for formatting this case study as a volunteer graphic designer.  You can see his amazing work &lt;a href=&quot;http://mouthtosource.net/portfolio&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 05 Jan 2015 16:17:00 -0500</pubDate>
-        <link>/simlabrefresh/blog/2015/01/05/improving-disaster-response-and-aid-delivery-with-icts</link>
-        <guid isPermaLink="true">/simlabrefresh/blog/2015/01/05/improving-disaster-response-and-aid-delivery-with-icts</guid>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>What I meant to say at... The New York Techsalon, on our hopes and fears for 2015!</title>
-        <description>&lt;p&gt;&lt;em&gt;Welcome to a new blog post series, in which we post a rough account of what we said at events and on panels, based on our notes. The probability that the text makes more sense than the spoken word did—and includes fewer bad jokes—is high.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;At SIMLab, we are working on some of the wicked, tech-adjacent (often human) problems that arise when you’re using technology in social change work. That means, not how to get a specific tool working, or how to get a connection or power in a remote location, although both are important; but what else happens when we use technology in a development or aid (or activism, or journalism…) project, to power balances, evidence bases, budget tracking, staff training, organizational development, and a host of other issues. We’ll be tackling a number of specific challenges in 2015, of which more later. But in general, in ‘ICT4D’ or ICT for development work, I hope that we become more collaborative; more focussed on local impact and usable learning and less on ‘scale’ (whatever that really means); and cut down on the number of parachute projects in which an external technologist arrives in a place to implement an idea untethered from the political, bureaucratic, geographic, infrastructural and cultural landscape in which they’re arriving.&lt;/p&gt;
-
-&lt;p&gt;At the project level, I hope we can learn more from each project we undertake, and make it easy to access and share what that learning. I hope we implement responsible and ethical data practices, and make them part of our safeguarding and protection requirements. SIMLab is working on how to better monitor and evaluate the contribution technology makes to projects, and will continue to look at data ethics throughout 2015.&lt;/p&gt;
-
-&lt;p&gt;But I hope we can collectively do more of this at the sector level. &lt;a href=&quot;http://simlab.org/team#anna&quot;&gt;Anna, our SIMLab Governance Director&lt;/a&gt;, wrote me in an email recently:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Asking project-level folks to take on the burden of proving sector-wide impact limits project-level learning (depletes resources) and overwhelms sector-wide learning with a lot of noise.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I’d agree, and I’d also recommend Dave Algoso’s excellent &lt;a href=&quot;http://algoso.org/2014/12/16/case-studies-as-a-tool-for-sector-learning/&quot;&gt;recent post on case studies&lt;/a&gt;, which is very relevant here. Exhorting people to learn and share learning doesn’t solve the absorption problem. We probably need a better sectoral community of practice, and a way (a resource? A group of people?) to turn many shared evaluation reports (itself a dream) into usable, accessible knowledge.&lt;/p&gt;
-
-&lt;p&gt;Finally, looking at the technology itself; I hope that we’ll not build only for a smartphone future, ignoring the power and access problems that keep people using feature phones, and get real about &lt;a href=&quot;https://gsmaintelligence.com/analysis/2014/05/measuring-mobile-penetration/430/&quot;&gt;what mobile industry statistics really mean&lt;/a&gt;. Many, many people still get their information through more inclusive technologies, like feature phones, radio, and human networks, and those channels need to be better understood and utilized.&lt;/p&gt;
-
-&lt;p&gt;And I think it’s time to look carefully at what a decade or more of funding and working on innovation in this area has wrought, and why. We need to examine what we think ‘innovation’ is—sometimes it might not be the technology that needs to change, but the implementation methodology. How many times does a practitioner need the resources to do their development work better, but have to cloak it in a shiny new ICT wrapping to get it funded? Perhaps the field should fund the field - why not have a revolving fund administered by practitioners, for practitioners, topped up by subscriptions and grants, with the quid pro quo being that accessible learning I mentioned earlier?&lt;/p&gt;
-
-&lt;p&gt;Overall I have a sense of optimism about ICT4D, and of forward progress, but I think the balance is at times more in favour of expensive big ideas without substantive underpinnings, than in the slow, careful work of supporting and learning from locally-implemented good ideas that use appropriate, sustainable tools. My hope for 2015 is that we continue to make steps in the right direction.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 31 Dec 2014 10:45:00 -0500</pubDate>
-        <link>/simlabrefresh/blog/2014/12/31/what-i-meant-to-say-at-ny-techsalon</link>
-        <guid isPermaLink="true">/simlabrefresh/blog/2014/12/31/what-i-meant-to-say-at-ny-techsalon</guid>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>SIMLab’s Mobile Technology Trainings for NGOs Launches as an Online Course</title>
-        <description>&lt;p&gt;In September 2014, supported by funding from the United Nations Democracy Education Fund (UNDEF)  the &lt;a href=&quot;http://simlab.org/governance/&quot;&gt;Governance Project&lt;/a&gt; at &lt;a href=&quot;http://simlab.org/&quot;&gt;Social Impact Lab&lt;/a&gt; launched a new web platform for training and supporting civil society organizations on how to use inclusive technology in their work.&lt;/p&gt;
-
-&lt;p&gt;The inaugural course supported 21 participants from 17 organizations across eight countries (mostly from across Africa and Asia) to plan for and use mobile technologies in their democracy, transparency, and accountability related work. UNDEF are supporting us to run several more courses like this throughout 2015.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/simlabrefresh/images/post_images/undef_ss.jpg&quot; class=&quot;fluid post image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Materials presented throughout the course drew heavily on institutional knowledge accumulated from thousands of technical support questions answered on the FrontlineSMS and FrontlineCloud platforms as well as lessons learned in conducting context and mobile infrastructure assessments, data integrity analyses, navigating non-governmental politics, and supporting SMS project planning in dozens of countries and sectors.&lt;/p&gt;
-
-&lt;p&gt;Since NGOs and their staff are often stretched for both time and resources, we attempted design the course in a way that would adapt easily to busy schedules, tight budgets, and inconsistent connectivity levels. The flexible presentation of course materials seemed helpful for balancing busy schedules, though we underestimated difficulties in accommodating different connectivity levels.&lt;/p&gt;
-
-&lt;p&gt;Discussions, readings, and hangouts incorporated program design and planning cycle considerations in low cost, low bandwidth environments, including how the choice of communications platform can be inclusive or exclusive, and how to identify and mitigate risk. The final course module focused on monitoring and evaluation techniques for mobile-centered or mobile-enabled projects using SMS.&lt;/p&gt;
-
-&lt;p&gt;We still have a lot of work to do and are grateful for the feedback that beta participants gave us on how to better address connectivity issues, accommodate time constraints, and consider existing workstreams. A key challenge and a key piece of learning is that it’s tough to teach an online course, using audio and video resources, on technology for low-bandwidth environments. For the future we’re challenging ourselves to come up with a way to provide interactive learning without demanding too much of our participants’ internet connections.&lt;/p&gt;
-
-&lt;h2 id=&quot;whats-next&quot;&gt;What’s next?&lt;/h2&gt;
-&lt;p&gt;Starting in early 2015, we’ll open registration for additional online trainings, demos, and platform-specific learning related to mobile- and inclusive-technologies.  In the meantime, we are working to integrate lessons learned from this ‘beta’ course into future iterations, and exploring subject matter for future courses. For more information or to find out about the next course announcement, email us at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#099;&amp;#111;&amp;#117;&amp;#114;&amp;#115;&amp;#101;&amp;#115;&amp;#064;&amp;#115;&amp;#105;&amp;#109;&amp;#108;&amp;#097;&amp;#098;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&quot;&gt;&amp;#099;&amp;#111;&amp;#117;&amp;#114;&amp;#115;&amp;#101;&amp;#115;&amp;#064;&amp;#115;&amp;#105;&amp;#109;&amp;#108;&amp;#097;&amp;#098;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;/simlabrefresh/images/post_images/undef_logo.jpg&quot; class=&quot;fluid half post image&quot; align=&quot;middle&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 11 Dec 2014 10:12:00 -0500</pubDate>
-        <link>/simlabrefresh/blog/2014/12/11/simlabs-mobile-technology-training</link>
-        <guid isPermaLink="true">/simlabrefresh/blog/2014/12/11/simlabs-mobile-technology-training</guid>
-        
-        
-        <category>blog,</category>
-        
-        <category>announcements</category>
-        
-      </item>
-    
-      <item>
-        <title>Credit and Fraud: How One M-PESA User Weighs Risk on Kenya&#39;s Largest Mobile Money Platform</title>
-        <description>&lt;p&gt;I was recently in Kisumu, a semi-rural area on the coast of Lake Victoria in Western Kenya. I was there for ten days; training organizations on our mobile payments software, collecting indicators to monitor our DFID project and connecting with organizations to work with in the future. One of the places I spent the most time over the week was Support for Tropical Initiatives in Poverty Alleviation (&lt;a href=&quot;http://www.stipakenya.org/&quot;&gt;STIPA&lt;/a&gt;), which is an amazing organization with projects in microfinance, health insurance, and economic opportunity programs. My time at STIPA was made very worthwhile by the dedicated, knowledgeable and passionate staff. We’ll be working closely with STIPA as they merge two of their major programs, Community Based Health Financing and Village Savings and Loaning to begin using mobile payments. They’re two very impactful projects with unique challenges and potential gains, more of which we’ll be highlighting in future posts.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/simlabrefresh/images/post_images/peter.jpg&quot; class=&quot;small right blogfloated image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Today we won’t focus on STIPA, but rather on STIPA’s Social Marketing Officer, Peter.&lt;/p&gt;
-
-&lt;p&gt;I was able to spend an afternoon with Peter when, because of a torrential storm and subsequent power outage, we were left unable to work on the desktop computers. I took it as an opportunity to learn more about the culture of M-PESA to share with those who have little, or no experience with it.&lt;/p&gt;
-
-&lt;p&gt;Peter is a young Kenyan who was recently living in Nairobi but has now relocated to Kisumu to work for STIPA. Peter’s been using M-PESA now for over five years and considers it a valuable tool, but doesn’t think about it that often, as it’s just a part of his daily (or monthly) life. When I spoke with Peter it was mid October and Peter currently had 12,000-15,000ksh (roughly $130-$165USD) on his M-PESA mWallet.&lt;/p&gt;
-
-&lt;h2 id=&quot;m-pesa-part-of-daily-life&quot;&gt;M-PESA: part of daily life&lt;/h2&gt;
-
-&lt;p&gt;I was interested to find out how Peter uses M-PESA in a typical month and question why he’s not using it in other ways. Peter described a typical monthly interaction for me.
-He’s paid his monthly salary through a direct deposit into his bank account, and withdraws approximately 30,000ksh (roughly $330USD) and deposits that amount onto his M-PESA account by visiting a large M-PESA agent at a nearby shopping centre. Peter shows the agent his government issued ID, confirms his mobile number, signs the register and hands over the cash. He then receives an SMS from M-PESA confirming his cash was deposited onto his mobile account. The entire transaction takes approximately 1 minute.&lt;/p&gt;
-
-&lt;p&gt;Peter makes this deposit onto his M-PESA account so that he can:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Pay for bills (electricity, water, internet) by sending directly through M-PESA to his accounts using &lt;a href=&quot;http://www.safaricom.co.ke/personal/m-pesa/m-pesa-services-tariffs/paybill/pay-bill&quot;&gt;PayBill&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;Withdraw from M-PESA at a later time to buy food and house supplies from the grocery store.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Interestingly, he does this because it’s easier, and cheaper for him to withdraw using M-PESA than it is to use his own bank card for numerous transactions, plus its impossible to pay electricity/water/internet bills using his bank card. Nonetheless, he does not pay for groceries at the supermarket using mobile money, even though it’s possible at most large grocery stores.&lt;/p&gt;
-
-&lt;p&gt;When asked why he doesn’t keep his entire monthly salary on the M-PESA mWallet, Peter had two very quick answers:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;It’s too easy to spend money on M-PESA, if he kept it all on his M-PESA mWallet it may be spent very easily and quickly decrease his savings.&lt;/li&gt;
-  &lt;li&gt;It’s impossible to build up credit through M-PESA. Peter said he’s looking at applying for a loan soon, for which he will need a credit history.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;m-pesa-and-credit&quot;&gt;M-PESA and credit&lt;/h2&gt;
-
-&lt;p&gt;At the moment, (though it’s changing) loans are only available if money is kept in an accredited bank account. This is one of the major incentives of joining a Sacco (Savings and Credit Cooperative) since you’re able to rely on other members of the group for loans which exceed your personal worth.&lt;/p&gt;
-
-&lt;p&gt;Access to credit—even microloans of just $10-$50 USD—are hard to come by for the unbanked. It’s one of the major issues plaguing the poor who aren’t able to invest beyond their personal available capital. This difficulty, a kind of financial glass ceiling, is being addressed in unique and innovative ways by various actors. Two such companies looking to change how last mile, low-income populations access credit using mobile are &lt;a href=&quot;http://inventure.com&quot;&gt;Inventure&lt;/a&gt; and &lt;a href=&quot;http://www.firstaccessmarket.com&quot;&gt;First Access&lt;/a&gt;. Inventure is able to predict creditworthiness by helping low-income people with tracking their finances by tracking financial information on an Android application. When applying for a loan, a user can point to their recent savings and expense history as evidence of creditworthiness. After a quick multiple choice questionnaire, the loan can be approved instantly. First Access, on the other hand combines financial and recent mobile data usage, such as the amount of the person’s most recent top up, number of days with no mobile traffic, and other data as proxy indicators to predict creditworthiness through an algorithm.&lt;/p&gt;
-
-&lt;h2 id=&quot;everybodys-worried-about-phantom-fraud&quot;&gt;Everybody’s worried about phantom fraud&lt;/h2&gt;
-
-&lt;p&gt;When asked what could be improved about M-PESA, Peter quickly responded that issues to deal with fraud need to be addressed - although he personally has not ever experienced fraud while using the mobile money service. This immediate, almost unconscious answer unaccompanied by a heart-wrenching story, caught my interest. Is the real threat of fraud as high as it’s portrayed? How often does it actually occur?&lt;/p&gt;
-
-&lt;p&gt;After my conversation with Peter, I spoke with five other employees, none of whom had ever personally experienced fraud with M-PESA, but all of whom insisted it was a concern. A quick internet search revealed that, according to Bob Collymore, CEO of M-PESA’s parent company Safaricom, M-PESA fraud occurrence for customers is around 0.002 percent, and for merchants it is 0.007. For comparison, the average credit cards fraud rate is 0.05 percent (&lt;a href=&quot;http://www.the-star.co.ke/news/article-117102/m-pesa-fraud-losses-less-1-safaricom&quot;&gt;The Star&lt;/a&gt;). That means that out of every 1,000 people, only 2 will experience fraud over M-PESA as opposed to 50 with a credit card.&lt;/p&gt;
-
-&lt;p&gt;If I asked a different group of young people about their concerns with credit cards, would the first concern listed have been fraud? It seems unlikely—but it does seem that unfounded concerns are deeply associated with M-PESA, something that clearly needs to be addressed if we want to see stronger growth in take-up and usage.&lt;/p&gt;
-
-&lt;h2 id=&quot;but-are-we-overestimating-the-rural-float-challenge&quot;&gt;But are we overestimating the ‘rural float’ challenge?&lt;/h2&gt;
-
-&lt;p&gt;The last interesting piece of information Peter volunteered, was that in the last 3 months, he can’t remember ever having a problem withdrawing or depositing cash at an agent. Mobile float issues arise when the agent either does not have enough cash to hand out, in exchange for the M-PESA sent, or when someone is trying to deposit cash at an agent and the agent does not have enough on their mWallet to send to the depositor in exchange for the cash. The ‘rural float’ problem has often been cited as the reason mobile money fails to gain traction in rural areas. However, Kisumu is a large city and Peter tends to visit only large agents located at the supermarket, so it may just be an area where the mobile money ecosystem is functioning in equilibrium.&lt;/p&gt;
-
-&lt;h2 id=&quot;so-what-does-this-all-mean&quot;&gt;So what does this all mean?&lt;/h2&gt;
-
-&lt;p&gt;To me, it means mobile money is not where it needs to be to support the transition to a more cashless society - even in Kenya, arguably the world’s most developed mobile economy. More financial products need to be available through mobile money for users to access loans, better savings mechanisms need to be in place to encourage saving and prevent irresponsible spending, and there needs to be more focus on user education around the true incidence of fraud and how to prevent it.&lt;/p&gt;
-
-&lt;p&gt;The biggest barrier to using alternatives to cash, whether in Kisumu, across Kenya or globally, is the need for behavior change—awareness of alternatives and the courage to test them. But this is also at the core of its potential—in Kenya, as in much of the developing world, youth represent the majority of the population, and as this tech-savvy market segment grow into their purchasing power and begin to try out new mobile money products, we predict an explosion of mobile financial products to serve them. Some of this will be possible through products targeting young people specifically. Others will offer benefits such as interest-bearing mobile savings accounts, the ability to develop a credit history, loyalty vouchers, and links with social media. Critically, they will need to be fast, efficient and easy to use.&lt;/p&gt;
-
-&lt;p&gt;Competition in the market will be beneficial—the more businesses there are thinking about how to attract new customers and grow traffic, the better. This will spur more and better targeted ideas, and allow for rapid prototyping of new and edgy product ideas. Interoperability is also at the core of this - the easier we can make it for people to innovate on top of service infrastructure like M-PESA, the faster uptake and throughput will grow. APIs will be good news for everyone.&lt;/p&gt;
-
-&lt;p&gt;We aren’t there yet, and have some significant hurdles to cross, but understanding how mobile money is being used by the average person gives us an insight into where effort needs to be focused in order to increase usage, desirability and trust.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 02 Dec 2014 10:12:00 -0500</pubDate>
-        <link>/simlabrefresh/blog/2014/12/02/credit-and-fraud</link>
-        <guid isPermaLink="true">/simlabrefresh/blog/2014/12/02/credit-and-fraud</guid>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>M&amp;E of ICTs4D: Project Level Learning in an Evolving Sector</title>
-        <description>&lt;p&gt;ICT4D and M4D as fields are both exciting and clumsy, still in their infancy and most consistent in how quickly they are changing. The&lt;a href=&quot;http://mandetech.org/agenda-nyc/&quot;&gt; M&amp;amp;E Tech Deep Dive in New York&lt;/a&gt; in early October 2014 mustered up familiar conversations around monitoring and evaluation, as well as around ICT4D. Beyond the use of ICTs &lt;em&gt;for&lt;/em&gt; M&amp;amp;E, finding common ground on the evaluation &lt;em&gt;of&lt;/em&gt; ICTs was challenging. There is wide consensus that technology is not a silver bullet, and further, that it simply can’t be separated from the context in which it operates or is applied. How then, can we think about monitoring and evaluating the role of a particular ICT or digital platform in the context of a larger initiative?&lt;/p&gt;
-
-&lt;p&gt;The Deep Dive affirmed that one organization’s innovation is another organization’s absence of evidence.  In other words, participants from different sectors and backgrounds had similar questions yet seemed to be speaking different languages. Two participants summed up the range of sentiments well.  The first person recounted that ‘off-the-shelf’ platforms had been mentioned several times throughout the conference, yet no one there could point to an experience of using one without the need for extended assistance, additional tools, or diverting additional resources from other programs (usually in short supply). Another attendee relayed that in the early 1990s, companies and non-profits alike needed to strategize on how the Internet could be used in their daily work. In 2014, the Internet is indistinguishable from operations in many cities around the world: from email to search engines, to travel arrangements and daily news and the list continues. The first commenter conveyed that while ICTs (including mobile) are put forward to simplify and transform, they require &lt;em&gt;a lot&lt;/em&gt; of work, and can be far more complex and costly (both in ethical and material terms) than the proposed benefits they offer. We need evaluation! The second commenter highlighted that the global shift toward digital is increasingly inevitable (in some form or another) and that investing significant organizational resources to prove that ICTs are useful may seem like a futile exercise (with possibly high costs) to affirm the obvious. Is evaluation really worthwhile?&lt;/p&gt;
-
-&lt;p&gt;The gap between immediate utility and longer-term impact, for better or&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; worse, of ICTs can be attributed to any number of factors, including politics or competing priorities, neither of of which is unique to ICTs. Though it is clear that this gap reflects another rift, one between how the use of ICTs is conceived for specific projects and programs (often aligned with proposals and funding timelines) and the realities of a sector for which the infrastructure is still being laid, with many different forces and factors shaping accessibility, support, service areas, civil and political rights, and information regulation among others.&lt;/p&gt;
-
-&lt;p&gt;Appropriate uses of technology are found somewhere in between trial-and-error and a growing, albeit very incomplete, repository of experiences and evidence base. There is a clear bias in the stories and experiences that are circulated (and thus those that get noticed and counted), toward organizations that are well resourced enough to synthesize and publish their findings, toward individuals that leverage social media, and toward those who attend global conferences. These groups’ stories and experiences often drive, and even become, the conversation. Those without the resources for visibility, though with important insights and perspectives on the same applications, are often left out of the conversation entirely.&lt;/p&gt;
-
-&lt;p&gt;There’s a lot we don’t know about ICT4D. There are many voices that remain peripheral, or altogether invisible, in the conversation. What we do know is that there are big differences in thinking about ICTs at the project level and thinking about them more widely as part of an evolving sector. We also know that all programs (whether in the public, multilateral or non-governmental sectors) involve power dynamics and decision-making challenges during organizational planning and program execution.&lt;/p&gt;
-
-&lt;p&gt;As we continue listening to, learning about, and engaging with various approaches to M&amp;amp;E of ICT for development, here’s a summary of what we discussed in one session at M&amp;amp;E Tech NYC.&lt;/p&gt;
-
-&lt;h2 id=&quot;separate-monitoring-of-ict-toolsplatforms-into-three-phases&quot;&gt;Separate monitoring of ICT tools/platforms into three phases:&lt;/h2&gt;
-
-&lt;p&gt;Applying a tool or platform in ‘development’ involves different phases and approaches. In one discussion at M&amp;amp;E Tech NYC, we distinguished between three phases of ICT application and evaluation, with the intention of better assessment and learning for continuous improvement. These three phases were:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Rollout.&lt;/em&gt; The rollout phase is the initial window when a tool or platform is first adopted or applied, whether that tool or platform is completely new, a new component of an existing system, or an effort to integrate two or more existing systems or platforms. It is a window when active observation and active adjustments are prioritized. Rollout is contained, almost always messy, and things often go wrong. (In other words, there is no ‘formula’.) In technology, it is accepted practice to ‘fail fast’ - a counterintuitive approach for development practitioners, who think about failure in terms of trade-offs whose cost is borne largely by the most vulnerable. In the rollout of new technologies, a thing breaking or dropping out mid-action is not only normal, but expected. This recognition can alleviate some of the pressure on how evaluations count what is ‘good’ and what ‘needs to improve’. While it doesn’t minimize the importance of understanding the cost (and who bears it), evaluation of a rollout might focus more on organizational learning than longer-term ‘impact’ of activities. Every phase should calculate, minimize, and mitigate risks to people involved or affected.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Implementation.&lt;/em&gt; Implementation takes place after rollout, when lessons have been learned and a tool or product has been adapted. Evaluating implementation normally focuses on how people, context, decisions, and outcomes interact with the technology. How to do this, unsurprisingly, varies and is often a source of great debate.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Long-term use, adoption, and sustainability.&lt;/em&gt; Sustainability of ICTs is similar to other programs or projects. Resources, training, buy-in, and legitimacy issues are some of many factors that affect the long-term use and sustainability of ICTs. System requirements, upgrades, and interoperability considerations add new sustainability questions to consider. (These technical considerations are another blog post, or series, entirely.) Regardless, evaluating sustainability and rollout, without distinguishing between the two phases may compress different kinds of activities into an unhelpful average that undermines, rather than enhances, learning and shared benefit.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;evaluative-questions&quot;&gt;Evaluative questions&lt;/h2&gt;
-
-&lt;p&gt;Along with the different phases mentioned above, it may be useful to answer three kinds of questions when evaluating the role of technology tools and platforms in development programming:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;What is the role of technology in organizational processes and is there ease of adoption among those using it?&lt;/em&gt; Here we can try to identify how and where technologies and platforms change (or are intended to change) organizational processes as well as how receptive team members are to using them. If multiple technologies and platforms are used at different points in an organizational process (say, prioritizing service delivery according to need and geography), trying to isolate the impact of just one may not be the goal as much as identifying points for greater compatibility between and among systems and tools used.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;What is the role of tech in decision-making and program outcomes?&lt;/em&gt; Here we may want to ask how the data collected (whether through SMS, maps, sensors, etc.) change the way decisions are made, transform working or reporting relationships (whether due to shifts in cost, power dynamics or anything else) or how the ICT’s role has shifted from rollout to implementation to long-term adoption.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;What level and type of tech support is provided or needed?&lt;/em&gt; ICT4D or M4D ‘solutions’ are not often actually simple “solutions” to problems. Most tools and platforms require ongoing support for the people using them, for data analysis, and for integrating a tool’s functions with other tools or systems being used for similar purposes. Keeping an eye on how much support and learning is needed (and supplied) as part of ICT evaluations can help to assess how sustainable, user friendly and cost-effective the technology tool or platform is.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;There are many open questions about how to understand and separate the data integrity, security, surveillance and consent considerations of any ICT application, program or platform. While guides, indices, and regulatory approaches are emerging to help navigate these considerations, they were explored in greater detail during several other sessions at the NYC Deep Dive. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Wed, 26 Nov 2014 14:18:00 -0500</pubDate>
-        <link>/simlabrefresh/blog/2014/11/26/m-and-e-of-icts4d-project-level-learning-in-an-evolving-sector</link>
-        <guid isPermaLink="true">/simlabrefresh/blog/2014/11/26/m-and-e-of-icts4d-project-level-learning-in-an-evolving-sector</guid>
-        
-        
-        <category>blog</category>
-        
+        <link>http://simlab.org/blog/2015/02/02/sign-up-for-our-upcoming-course/</link>
+        <guid isPermaLink="true">http://simlab.org/blog/2015/02/02/sign-up-for-our-upcoming-course/</guid>
       </item>
     
   </channel>

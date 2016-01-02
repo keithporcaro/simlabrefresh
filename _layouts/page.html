@@ -1,6 +1,18 @@
 ---
-layout: newdefault
+layout: default
 ---
-<div class="page content">
-      {{ content }}
+<div class="post">
+  <header class="post-header">
+    <h1>{{ page.title }}</h1>
+    {%if page.role%}
+    <h2>{{page.role}}</h2>
+    {%endif%}
+  </header>
+  <article class="post-content">
+  {{ content }}
+
+  {%if page.role%}
+  {%include posts_by.html%}
+  {%endif%}
+  </article>
 </div>

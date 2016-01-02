@@ -1,54 +1,44 @@
 ---
-layout: newdefault
+layout: page
 title: Team
 ---
-<h1>Staff</h1>
-
-<div class="ui three doubling cards team">
- {% for page in site.pages%}
-       {% if page.categories contains "staff" %}
-<div class="card">
-    <a class="image" href="{{site.baseurl}}/team/{{page.locator}}">
-      <img src="{{site.baseurl}}/images/{{page.locator}}.jpg">
-    </a>
-    <div class="content">
-      <a class="pink" href="{{site.baseurl}}/team/{{page.locator}}"><h3 class="pink">{{page.title}}</h3></a>
-      <div class="staff meta">
-        <a href="{{site.baseurl}}/team/{{page.locator}}">{{page.role}}</a>
-      </div>
-    </div>
-<!--
-{%if page.twitter%}
-    <div class="ui bottom attached button">
-<a href="http://twitter.com/{{page.twitter}}">
-      @{{page.twitter}}
-    </a>
-    </div>
-    {%endif%}
-  -->
-  </div>
-  {%endif%}
+<div class="cards">
+{% for page in site.pages%}
+      {% if page.categories contains "staff" %}
+<a href="{{site.baseurl}}/team/{{page.locator}}" class="card">
+   <div class="card-image">
+     <img src="{{site.baseurl}}/images/{{page.locator}}.jpg" alt="">
+   </div>
+   <div class="card-copy">
+     <h4>{{page.title}}</h4>
+     <p class="small">{{page.role}}</p>
+   </div>
+ </a>
+ {% endif %}
 {% endfor %}
 </div>
 
-<h1>Board of Directors</h1>
-
-<div class="ui three cards board">
- {% for page in site.pages%}
-       {% if page.categories contains "board" %}
-<div class="card">
-    <a class="image" href="{{site.baseurl}}/team/{{page.locator}}">
-      <img src="{{site.baseurl}}/images/{{page.locator}}.jpg">
-    </a>
-    <div class="content center aligned">
-      <a class="pink  center aligned"><h4 class="pink">{{page.title}}</h4></a>
-       <!--<div class="staff meta center aligned">
-        <a href="http://twitter.com/{{page.twitter}}">@{{page.twitter}}</a>
-      </div>-->
-    </div>
-
-  </div>
-  {%endif%}
-<!--/Team Member-->
+<h2>Careers</h2>
+{% for page in site.pages%}
+  {% if page.categories contains "jobs" %}
+  <h2><a class="post-link" href="{{site.baseurl}}{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
+  {% endif %}
 {% endfor %}
+
+<p>Don't see the job you want? Send us a CV and a letter telling us why we desperately need you to <a href="mailto:jobs@simlab.org">jobs@simlab.org</a></p>
+
+ <!--
+  {% for page in site.pages%}
+        {% if page.categories contains "staff" %}
+  <div class="hover-tile-outer" style="background-image: url({{site.baseurl}}/images/{{page.locator}}.jpg)">
+  <div class="hover-tile-container">
+    <div class="hover-tile hover-tile-visible"></div>
+    <div class="hover-tile hover-tile-hidden">
+      <h4>{{page.title}}</h4>
+      <p>{{page.role}}</p>
+    </div>
+  </div>
 </div>
+  {% endif %}
+ {% endfor %}
+ -->
