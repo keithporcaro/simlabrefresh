@@ -13,73 +13,73 @@ A 501(c)(3)-exempt organization, SIMLab helps our clients better connect with th
 
 <div class="grid-items-lines">
   <a href="http://google.org" class="grid-item">
-    <img src="/images/partners/google.png" alt="">
+    <img src="{{site.baseurl}}/images/partners/google.png" alt="">
   </a>
   <a href="http://hewlett.org" class="grid-item">
-    <img src="/images/partners/hewlett.jpg" alt="">
+    <img src="{{site.baseurl}}/images/partners/hewlett.jpg" alt="">
   </a>
   <a href="https://www.gov.uk/government/organisations/department-for-international-development" class="grid-item">
-    <img src="/images/partners/dfid.jpg" alt="">
+    <img src="{{site.baseurl}}/images/partners/dfid.jpg" alt="">
   </a>
   <a href="http://ec.europa.eu/index_en.htm" class="grid-item">
-    <img src="/images/partners/ec.png" alt="">
+    <img src="{{site.baseurl}}/images/partners/ec.png" alt="">
   </a>
   <a href="http://www.un.org/democracyfund/" class="grid-item">
-    <img src="/images/partners/undef.jpg" alt="">
+    <img src="{{site.baseurl}}/images/partners/undef.jpg" alt="">
   </a>
   <a href="http://preparecenter.org/" class="grid-item">
-    <img src="/images/partners/gdpc.jpg" alt="">
+    <img src="{{site.baseurl}}/images/partners/gdpc.jpg" alt="">
   </a>
   <a href="http://dclibrary.org" class="grid-item">
-    <img src="/images/partners/dcpl.jpg" alt="">
+    <img src="{{site.baseurl}}/images/partners/dcpl.jpg" alt="">
   </a>
   <a href="http://knightfoundation.org/" class="grid-item">
-    <img src="/images/partners/knight.jpg" alt="">
+    <img src="{{site.baseurl}}/images/partners/knight.jpg" alt="">
   </a>
   <a href="http://landesa.org/" class="grid-item">
-    <img src="/images/partners/landesa.jpg" alt="">
+    <img src="{{site.baseurl}}/images/partners/landesa.jpg" alt="">
   </a>
   <a href="http://worldbank.org/" class="grid-item">
-    <img src="/images/partners/worldbank.png" alt="">
+    <img src="{{site.baseurl}}/images/partners/worldbank.png" alt="">
   </a>
   <a href="http://usaid.gov/" class="grid-item">
-    <img src="/images/partners/usaid.png" alt="">
+    <img src="{{site.baseurl}}/images/partners/usaid.png" alt="">
   </a>
   <a href="http://worldvision.org/" class="grid-item">
-    <img src="/images/partners/worldvision.png" alt="">
+    <img src="{{site.baseurl}}/images/partners/worldvision.png" alt="">
   </a>
   <a href="http://beautifulrising.org/" class="grid-item">
-    <img src="/images/partners/beautifulrising.png" alt="">
+    <img src="{{site.baseurl}}/images/partners/beautifulrising.png" alt="">
   </a>
   <a href="http://cdacnetwork.org/" class="grid-item">
-    <img src="/images/partners/cdac.png" alt="">
+    <img src="{{site.baseurl}}/images/partners/cdac.png" alt="">
   </a>
   <a href="http://usip.org/" class="grid-item">
-    <img src="/images/partners/usip.png" alt="">
+    <img src="{{site.baseurl}}/images/partners/usip.png" alt="">
   </a>
   <a href="http://www.miamidade.gov" class="grid-item">
-    <img src="/images/partners/miami.jpg" alt="">
+    <img src="{{site.baseurl}}/images/partners/miami.jpg" alt="">
   </a>
   <a href="http://baylegal.org/" class="grid-item">
-    <img src="/images/partners/baylegal.jpg" alt="">
+    <img src="{{site.baseurl}}/images/partners/baylegal.jpg" alt="">
   </a>
   <a href="http://www.legalaidofnebraska.org/" class="grid-item">
-    <img src="/images/partners/lan.jpg" alt="">
+    <img src="{{site.baseurl}}/images/partners/lan.jpg" alt="">
   </a>
   <a href="http://www.liftcommunities.org/" class="grid-item">
-    <img src="/images/partners/lift.jpg" alt="">
+    <img src="{{site.baseurl}}/images/partners/lift.jpg" alt="">
   </a>
   <a href="http://www.sfcg.org/" class="grid-item">
-    <img src="/images/partners/sfcg.png" alt="">
+    <img src="{{site.baseurl}}/images/partners/sfcg.png" alt="">
   </a>
   <a href="http://www.kippdelta.org/" class="grid-item">
-    <img src="/images/partners/kipp.png" alt="">
+    <img src="{{site.baseurl}}/images/partners/kipp.png" alt="">
   </a>
   <a href="http://www.peacetechlab.org/" class="grid-item">
-    <img src="/images/partners/ptl.png" alt="">
+    <img src="{{site.baseurl}}/images/partners/ptl.png" alt="">
   </a>
   <a href="http://www.danishdemininggroup.dk/" class="grid-item">
-    <img src="/images/partners/ddg.png" alt="">
+    <img src="{{site.baseurl}}/images/partners/ddg.png" alt="">
   </a>
   <a href="mailto:hello@simlab.org" class="grid-item">
     <h3 style="text-align:center; margin-top:.5em">You?</h3>
