@@ -46,12 +46,12 @@ share_text:
 # Change to 'true' to enable individual icons
 share_facebook: true
 share_twitter: true
-share_googleplus: true
+share_googleplus: false
 share_linkedin: true
-share_digg: true
+share_digg: false
 share_tumblr: true
-share_reddit: true
-share_stumbleupon: true
+share_reddit: false
+share_stumbleupon: false
 share_hackernews: false
 
 # Build settings
