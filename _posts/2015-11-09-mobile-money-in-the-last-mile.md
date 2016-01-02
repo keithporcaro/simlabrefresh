@@ -8,7 +8,7 @@ author: Kelly Church
 The discussion is available for download as a podcast [via iTunes](https://itunes.apple.com/us/podcast/simlab-podcast/id1056814879?mt=2) or [ Soundcloud](https://soundcloud.com/socialimpactlab/only-tough-options-1) , and we expect the insights gained will be valuable for the international development and tech community for practitioners and beyond. Releasing the event as a podcast is an experiment in providing resources for the community that live on beyond the work itself&mdash;let us know what you think in the comments!
 
 ##Mobile money in rural, low infrastructure communities
-![sacco](/images/post_images/sacco.jpg)
+![sacco]({{site.baseurl}}/images/post_images/sacco.jpg)
 
 The event marked the release publication of our case study titled:[SIMLab's experience in Kenya: Implementing a mobile money management tool and training approach in the last mile](/files/SIMLab Case Study - Mobile money in the last mile.pdf) It covers the first direct technology implementation project ever carried out by SIMLab's first ever direct project implementation, and it and the project were funded by the Global Poverty Action Fund of the UK Department for International Development. SIMLab ordinarily supports other organizations to use inclusive technology in their work, and usually works with local partners together with other actors from the international community. For this project, we built on our presence in Nairobi to work directly with Kenyan organizations, and had the opportunity therefore to gather learning and data. Needless to say, there were numerous lessons learned throughout the two-year grant, which comes to an end in December 2015.
 

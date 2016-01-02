@@ -3,7 +3,7 @@ layout: page
 title: We are SIMLab. <br> We help organizations use technology to build equality.
 permalink: /
 ---
-_![postit](/images/testimage2.jpg)_
+_![postit]({{site.baseurl}}/images/testimage2.jpg)_
 
 Technology can transform social change work, bridging gaps and opening doors&mdash;or it can widen the digital divide and entrench inequality. SIMLab works with organizations to use inclusive, accessible technologies, from radio to social media, from SMS to Whatsapp, to deliver services, share information, and communicate with communities. We help uncover and share honest, difficult lessons from technology projects of all sizes, and develop insights and best practices from every sector. We help people apply these learnings through consultations, workshops, applied research, and prototypes. SIMLab combines ten years of institutional knowledge implementing technology projects in the world’s most difficult contexts with a team of subject matter experts and technologists.
 

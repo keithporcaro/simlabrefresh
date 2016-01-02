@@ -6,7 +6,7 @@ permalink: /resources/lastmilemoney/
 pdf: "/files/SIMLab Case Study - Mobile money in the last mile.pdf"
 category: resources
 ---
-![desk](/images/dfidcase/Picture1.png)
+![desk]({{site.baseurl}}/images/dfidcase/Picture1.png)
 _SIMLab Project Manager Wilson Bandi works with Sadili to think through their business processes. Photo Credit: Dani Dye_
 
 This case study describes the midterm progress and learning from a two-year project, funded by the UK Government's Department for International Development (DFID). The project introduced a new mobile money management software to forty 'last-mile' organizations, all of which faced significant infrastructure, access and capacity constraints making the transition to cashless processes cumbersome and unpredictable. This case study seeks to shed light on the challenges of extending mobile money to the last mile, through a human and organization-centric lens. Although the project operated only in Kenya, but with the learning is applicable globally.
@@ -39,7 +39,7 @@ In a two-year project beginning in January of 2014, the project has supported 40
 ##The software prototypes: PaymentView and Payments
 The project began with an existing prototype. PaymentView, built in 2011-2012 with funding from an award won in the Vodafone Americas Wireless Challenge, and intended to fill the gap between Safaricom's M-PESA mobile money system, and the SMEs who could benefit from using mobile money at an enterprise level. At the idea's inception, M-PESA offered only the customer-facing USSD and SIM toolkit tools, and an online corporate interface, which was expensive to get set up for and difficult to use, and had relatively limited functionality. Early interviewees in financial services organizations and SMEs confirmed that they were using simple phones to manage transactions, often losing data and unable to easily do basic accounting.
 
-![PaymentView Interface](/images/dfidcase/Picture2.png)    
+![PaymentView Interface]({{site.baseurl}}/images/dfidcase/Picture2.png)    
 _Screenshot of PaymentView interface_
 
 PaymentView was based on version 1 of FrontlineSMS, which was released in 2008 and superseded in 2012 by version 2. When building any new tool, it's important to have your intended user in mind and to know their capabilities and needs, as well as the infrastructure and context in which they're operating. This user persona can guide software design and development. 10 partners began testing PaymentView in the first year of the project, and the insights we gained were incorporated into the design and features of a new platform, Payments. The key user persona created for Payments was an administrator of one of our target organizations, using a low-end laptop or desktop computer, who does not have stable access to internet.
@@ -55,7 +55,7 @@ The decision to begin the project with the older piece of software benefited the
 
 In early 2015, Payments replaced PaymentView and joined a robust and frequently-updated Frontline product set. The software, currently in private beta, has the same core features of PaymentView but benefits from the greater usability, capacity and backend logic of FrontlineSMS v2.
 
-![Payments Interface](/images/dfidcase/Picture3.png)    
+![Payments Interface]({{site.baseurl}}/images/dfidcase/Picture3.png)    
 _Screenshot of Payments Interface_
 
 Payments builds on the FrontlineSMS software's improved browser-based navigation and adds dynamic financial management automation, allowing organizations to track and manage an entire lifecycle of payments. The logic built into the software allows users to clearly visualize payment histories at both a contact and aggregate level, making it an effective tool for payment reconciliation and monitoring. Payments gives organizations an in-depth look into a client's entire mobile financial history and also aggregates groups of clients by status of loans (active, default or completed). Additionally, Payments allows organizations to easily and safely send out payments to large groups of beneficiaries&mdash;which can drastically cut down on administration time and costs. Payments supports all Safaricom products, including M-PESA's PayBill and Lipa na M-PESA accounts.
@@ -118,7 +118,7 @@ For some of our partners, simply the move from less formal handwritten processes
 
 Once we understood how many variables mattered in assessing probable success and the ability of a partner to make change, we expanded our assessment benchmarks to include users' computer literacy levels, total staff size, beneficiary type and degree of centralization of financial processes. Nonetheless, some of the organizations we trained did ultimately fail to implement Payments, and are classed as 'inactive', specifically because of the barriers to the transition to mobile money: infrastructure constraints, HR capacity, or from fatigue with the process.
 
-![training](/images/dfidcase/Picture4.png)    
+![training]({{site.baseurl}}/images/dfidcase/Picture4.png)    
 _Sadili Staff Felix Rullo, Josephine Andeso (standing) and Evelyn Ngoli (seated) test out Payments by sending M-PESA payments during a training. Photo Credit: Dani Dye_
 
 ###Schools just don't fit the bill
@@ -191,7 +191,7 @@ One of Indicose's main challenges is that as a community-based organization seek
 
 
 > ###This project was made possible thanks to:
-> ![UKaid](/images/dfidcase/Picture0.png)    
+> ![UKaid]({{site.baseurl}}/images/dfidcase/Picture0.png)    
 
 ---
 [^1]: 2014 State of the Industry Mobile Financial Services for the Unbanked. (2014). Retrieved July 8, 2015. [Link (PDF)](http://www.gsma.com/mobilefordevelopment/wp-content/uploads/2015/03/SOTIR_2014.pdf)
