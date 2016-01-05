@@ -1,6 +1,6 @@
 ---
 layout: page
-title: We are SIMLab. <br> We help organizations use technology to build equality.
+title: We are SIMLab. <br> We help organizations use technology to improve their world.
 permalink: /
 ---
 _![postit]({{site.baseurl}}/images/testimage2.jpg)_

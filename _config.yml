@@ -1,7 +1,7 @@
 # Site settings
 title:       SIMLab
 email:       hello@simlab.org
-description: "We help organizations use technology to do better."
+description: "We help organizations use technology to improve their world."
 baseurl:     "/simlabrefresh"
 url:         "http://simlab.org"
 date_format: "%b %-d, %Y"
