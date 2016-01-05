@@ -46,7 +46,7 @@ Nothing exists in isolation, least of all technology. Engage with us to take sto
 * Best Practice Identification and Framework Building
 
 
-#Innovation Subscription
+#Technology Coordination Subscription
 Forget hiring an overworked, underpaid tech coordinator. Tap into SIMLab's years of knowledge building technology projects in the world's most difficult environments. For an annual fee, we'll embed in your organization to identify systems ripe for improvement, and continuously work with you to design, implement, and optimize technology projects tailored to your needs and budget. Because, like you, we're a non-profit, our overriding priority is to help you achieve your mission as best as possible.
 
 Want even more benefits? Join a subject matter cluster, or create your own by subscribing with peer organizations. We'll work with your group of organizations to develop and share best practices, get discounts on contractors and services, and build innovative new projects that set new standards in your field.
