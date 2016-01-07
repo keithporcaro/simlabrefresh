@@ -42,8 +42,8 @@ A 501(c)(3)-exempt organization, SIMLab helps our clients better connect with th
   <a href="http://worldbank.org/" class="grid-item">
     <img src="{{site.baseurl}}/images/partners/worldbank.png" alt="">
   </a>
-  <a href="http://usaid.gov/" class="grid-item">
-    <img src="{{site.baseurl}}/images/partners/usaid.png" alt="">
+  <a href="http://nmbu.no/en" class="grid-item">
+    <img src="{{site.baseurl}}/images/partners/nmbu.png" alt="">
   </a>
   <a href="http://worldvision.org/" class="grid-item">
     <img src="{{site.baseurl}}/images/partners/worldvision.png" alt="">
