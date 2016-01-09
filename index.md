@@ -70,7 +70,7 @@ A 501(c)(3)-exempt organization, SIMLab helps our clients better connect with th
     <img src="{{site.baseurl}}/images/partners/lift.jpg" alt="">
   </a>
   <a href="http://www.sfcg.org/" class="grid-item">
-    <img src="{{site.baseurl}}/images/partners/sfcg.png" alt="">
+    <img src="{{site.baseurl}}/images/partners/sfcg.jpg" alt="">
   </a>
   <a href="http://www.kippdelta.org/" class="grid-item">
     <img src="{{site.baseurl}}/images/partners/kipp.png" alt="">
