@@ -1,13 +1,14 @@
 ---
-layout: page
-title: We are SIMLab. <br> We help organizations use technology to improve their world.
+layout: frontpage
+title: We are SIMLab. <br> We help make technology work for everyone.
 permalink: /
 ---
-_![postit]({{site.baseurl}}/images/testimage2.jpg)_
 
-Technology can transform social change work, bridging gaps and opening doors&mdash;or it can widen the digital divide and entrench inequality. SIMLab works with organizations to use inclusive, accessible technologies, from radio to social media, from SMS to Whatsapp, to deliver services, share information, and communicate with communities. We help uncover and share honest, difficult lessons from technology projects of all sizes, and develop insights and best practices from every sector. We help people apply these learnings through consultations, workshops, applied research, and prototypes. SIMLab combines ten years of institutional knowledge implementing technology projects in the world’s most difficult contexts with a team of subject matter experts and technologists.
+Technology can transform social change work, bridging gaps and starting new conversations&mdash;or miss its mark, and push people further away. SIMLab is a nonprofit with a mission to realize a world where technology helps build societies that are equitable and inclusive.
 
-A 501(c)(3)-exempt organization, SIMLab helps our clients better connect with the people they serve, identify accessibility gaps in systems, and maximize the potential of technology to build societies that are equitable and inclusive.
+We will work with your organization to find the technologies that will be inclusive, and accessible, for the people you want to talk to and the contexts you need to work in; from radio to social media, from SMS to WhatsApp, from the mobile web to community noticeboards. We’ll help you deliver services, share information, and communicate with communities, generating new data and new conversations along the way.
+
+It won’t always be straightforward, and we’ll help you to uncover and share honest, difficult lessons. But we draw on social science, systems thinking, and human-centered design approaches, and our ten years of experience implementing technology projects in the world’s most difficult contexts. Our team of technologists and subject matter experts can help you build on these learnings through hands-on help, facilitated workshops, applied research, and collaborative prototyping.
 
 ##Partners, Clients, and Funders
 
