@@ -3,12 +3,11 @@ layout: frontpage
 title: We are SIMLab. <br> We help make technology work for everyone.
 permalink: /
 ---
+Technology can transform social change work, bridging gaps and starting new conversations&mdash;or miss its mark, and push people further away. 
 
-Technology can transform social change work, bridging gaps and starting new conversations&mdash;or miss its mark, and push people further away. SIMLab is a nonprofit with a mission to realize a world where technology helps build societies that are equitable and inclusive.
+SIMLab is a nonprofit with a mission to realize a world where technology helps build societies that are equitable and inclusive. We help find the technologies that will be inclusive, and accessible, for the people you want to talk to and the contexts you need to work in; from radio to social media, from SMS to Whatsapp, from the mobile web to community noticeboards. We’ll help you deliver services, share information, and communicate with communities, generating new data and new conversations along the way.
 
-We will work with your organization to find the technologies that will be inclusive, and accessible, for the people you want to talk to and the contexts you need to work in; from radio to social media, from SMS to WhatsApp, from the mobile web to community noticeboards. We’ll help you deliver services, share information, and communicate with communities, generating new data and new conversations along the way.
-
-It won’t always be straightforward, and we’ll help you to uncover and share honest, difficult lessons. But we draw on social science, systems thinking, and human-centered design approaches, and our ten years of experience implementing technology projects in the world’s most difficult contexts. Our team of technologists and subject matter experts can help you build on these learnings through hands-on help, facilitated workshops, applied research, and collaborative prototyping.
+It won’t always be straightforward, and we’ll help uncover and share honest, difficult lessons. But we draw on social science, systems thinking, and human-centered design approaches, and our ten years of experience implementing technology projects in the world’s most difficult contexts.
 
 ##Partners, Clients, and Funders
 
